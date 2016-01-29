@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+		<title>CVPR 2013 Webpage</title>
+
+		<!--<link type="text/css" href="../css/cvpr13-theme/jquery-ui-1.8.21.custom.css" rel="stylesheet" />-->
+
+		<link type="text/css" href="../css/smoothness/jquery-ui-1.8.21.custom.css" rel="stylesheet" />
+
+		<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+
+		<script type="text/javascript" src="../js/jquery-ui-1.8.21.custom.min.js"></script>
+
+		<script type="text/javascript" src="../js/jquery.cycle.all.js"></script>
+
+
+
+                <script type="text/javascript" src="cvprmenu.js"></script>
+
+                <link type="text/css" href="cvprmenu.css" rel="stylesheet">
+
+
+
+		<style type="text/css">
+
+			/*demo page css*/
+
+			/*body{ font: 62.5% "Trebuchet MS", sans-serif; margin: 50px;}*/
+
+			body{ font: 70% "Trebuchet MS", sans-serif; }
+
+			.demoHeaders { margin-top: 2em; }
+
+                        #tabs-people li { position: relative; top:-5px; left:-10px;}
+
+			.cvprpagewidth {max-width: 800px; min-width: 400px;}
+
+			.cvprpageheight {min-height: 600px;}
+
+                        #logo { width: 301px; height: 150px; margin: 0 auto; position: absolute; bottom: -7px; right: -45px;
+
+                             background: url(images/Logo4Banner.png); text-indent: -9999px; z-index: 80; }
+
+
+
+                        #main-page  {margin:0; margin-left: auto; margin-right: auto; width:800px; position:relative; min-height:600px; border: 1px solid black; }
+
+                        #main-page h1 { width: 170px; height: 400px; margin: 0 auto; position: absolute; bottom: 0px; right: -10px;
+
+                             background: url(images/Towers.png); text-indent: -9999px; z-index: 100; }
+
+
+
+                        #menubox    {margin:0; margin-left: auto; margin-right: auto;position:absolute;top:-11px}
+
+
+
+                        #topspacer {
+
+                            margin-top: 30px;
+
+                            position: relative;
+
+                        }
+
+                        #slideshow {
+
+                            margin-left: auto;
+
+                            margin-right: auto;
+
+                            width: 800px;
+
+                            height: 125px;
+
+                            position: relative;
+
+                        }
+
+                        .cvprtable { border: 1px solid rgb(180,180,180); padding:5px; border-spacing: 0px; border-collapse:collapse; }
+
+                        .cvprtableheader { background-color: rgb(220,220,220); }
+
+                        div#slideshow ul#slides {
+
+                            list-style: none;
+
+                        }
+
+                        div#slideshow ul#slides li {
+
+                            margin: 0 0 20px 0;
+
+                        }
+
+                        .institution { font-style: italic }
+
+                        #main-content {margin:25px; font-size:125%; width:725px;}
+
+                        .cvprpageheader   { font-size:150%; font-weight: bold}
+
+                        .cvprsectionheader   { font-size:125%; font-weight: bold; text-decoration:underline}
+
+                        .cvprparagraphheader { font-weight: bold }
+
+                        .faq_q {text-decoration:underline}
+
+                        .faq_a {}
+
+
+
+                        body a:link    {color:#3333ff}
+
+                        body a:visited {color:#3333ff}
+
+                        body a:hover   {color:#3333ff;background-color:#eeeeff}
+
+                        body a:active  {color:#3333ff}
+
+
+
+		</style>
+
+		<script type="text/javascript">
+
+/*
+
+                        var MAX_HEIGHT = 600;
+
+                        var MAX_WIDTH  = 500;
+
+
+
+                        jQuery.fn.fixSize = function() {
+
+
+
+                          //var w = $("#page-tabs").width();
+
+                          //if (w > MAX_WIDTH)
+
+                            //$("#page-tabs").width(MAX_WIDTH);
+
+
+
+                          //alert("called func");
+
+                          var h = $("#tabs-home").height();
+
+                          if ( h < MAX_HEIGHT )
+
+                            $("#tabs-home").height(MAX_HEIGHT);
+
+
+
+                          h = $("#tabs-people").height();
+
+                          if ( h < MAX_HEIGHT )
+
+                            $("#tabs-people").height(MAX_HEIGHT);
+
+
+
+                          h = $("#tabs-dates").height();
+
+                          if ( h < MAX_HEIGHT )
+
+                            $("#tabs-dates").height(MAX_HEIGHT);
+
+
+
+                          h = $("#tabs-venue").height();
+
+                          if ( h < MAX_HEIGHT )
+
+                            $("#tabs-venue").height(MAX_HEIGHT);
+
+                        }
+
+*/
+
+			$(document).ready(function(){
+
+
+
+				// Tabs
+
+				//$('#page-tabs').tabs();
+
+				//$('#page-tabs').tabs('select','#tabs-people');
+
+
+
+				//$('#page-tabs').tabs();
+
+
+
+				$('ul#slides').cycle({
+
+                                    fx: 'fade', pause: 1, prev: '#prev', next: '#next'
+
+                                });
+
+
+
+                            $('#cvprmenubar > li').bind('mouseover', cvprmenu_open)
+
+                            $('#cvprmenubar > li').bind('mouseout', cvprmenu_timer)
+
+                            $('#currentpage > a').css('color', 'black')
+
+                            $('#currentpage > a').css('border','1px solid black')
+
+                            $('#currentpage > a').css('border-bottom','none')
+
+                            $('#currentpage > a').css('background','#FFFFFF')
+
+
+
+
+
+                            $('#cvprmenubar').height( $('#currentpage').height() -1 )
+
+                            $('#main-content').css('margin-top', $('#currentpage').height() +25 )
+
+
+
+				//$('body').css('overflow','hidden');
+
+
+
+                                //var h = $("#tabs-home").height();
+
+                                //if ( h < HEIGHT )
+
+                                  //$("#tabs-home").height(HEIGHT);
+
+                                //$(window).resize(function(){
+
+                                  //var w = $(window).width();
+
+                                  //var h = $(window).height();
+
+                                  //$(window).fixSize();
+
+                                  //alert("You resized the window to "+w+"x"+h+"!");
+
+                                //});
+
+			});
+
+		</script>
+
+	</head>
+
+	<body>
+
+
+
+		<!-- Tabs -->
+
+                        <div id="topspacer"></div>
+
+                        <div id="slideshow">
+
+                                <div id="logo"></div>
+
+                                <ul id="slides">
+
+                                        <li><img src="images/trees.png" alt="Title"/></li>
+
+                                        <li><img src="images/mt_hood.png" alt="Title"/></li>
+
+                                        <li><img src="images/rose.png" alt="Title"/></li>
+
+                                        <li><img src="images/roof.png" alt="Title"/></li>
+
+                                        <li><img src="images/books.png" alt="Title"/></li>
+
+                                </ul>
+
+                        </div>
+
+		<!--<div class="cvprpagewidth" id="page-tabs">
+
+			<ul>
+
+				<li><a href="#tabs-home">Home</a></li>
+
+				<li><a href="#tabs-people">People</a></li>
+
+				<li><a href="#tabs-dates">Important Dates</a></li>
+
+				<li><a href="#tabs-submission">Submission</a></li>
+
+				<li><a href="#tabs-workshops">Workshops</a></li>
+
+				<li><a href="#tabs-tutorials">Tutorials</a></li>
+
+				<li><a href="#tabs-venue">Venue</a></li>
+
+			</ul>-->
+
+		<div class="cvprpagewidth" id="main-page">
+
+		<div class="cvprpagewidth" id="menubox">
+
+
+
+                        <ul id="cvprmenubar" align="bottom">
+
+  <li><a href="home.html">Home</a></li>
+
+  <li><a href="people.html">People</a></li>
+
+  <li><a href="dates.html">Important Dates</a></li>
+
+  <li><a href="submission.html">Submission</a>
+
+    <ul>
+
+      <li><a href="author_guidelines.html">Author Guidelines</a></li>
+
+      <li><a href="reviewer_guidelines.html">Reviewer Guidelines</a></li>
+
+      <li><a href="ac_guidelines.html">Area Chair Guidelines</a></li>
+
+    </ul>
+
+  </li>
+
+  <li id="currentpage"><a href="workshops.html">Workshops</a></li>
+
+  <li><a href="tutorials.html">Tutorials</a></li>
+
+  <li><a href="sponsor_exhibitor_info.html">Corporations</a>
+
+    <ul>
+
+      <li><a href="sponsor_exhibitor_info.html#sponsor_info">Sponsorship Information</a></li>
+
+      <li><a href="sponsor_exhibitor_info.html#exhibitor_info">Exhibitor Information</a></li>
+
+    </ul>
+
+  </li>
+
+  <li><a href="venue.html">Venue</a></li>
+
+</ul>
+
+		</div>
+
+
+
+
+
+<div id="main-content">
+
+
+
+<center>
+
+<table>
+
+<tr><td colspan="3" align="center"><span class="cvprpageheader">CVPR 2013 Workshops</span><br><br></td></tr>
+
+<tr><td colspan="3">
+
+
+
+<table cellpadding="2" width="100%">
+
+
+
+
+
+
+
+
+
+
+<tr><td width="10%" align="center"><u><b>Date</b></u></td><td width="*"><u><b>Workshop Title / Organizers</b></u></td><td width="10%"><u><b>Submission</b></u></td></tr>
+
+
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/23/13</td><td><b><a href="http://www.openu.ac.il/home/hassner/Events/ACTS13" target="_blank">Action Similarity in Unconstrained Videos</a></b><br><i>Organizers: <a href="http://www.openu.ac.il/home/hassner/" target="_blank">Tal&nbsp;Hassner</a>, <a href="http://www.linkedin.com/pub/eitan-sharon/2/797/23" target="_blank">Eitan&nbsp;Sharon</a>, <a href="http://www.cis.upenn.edu/~jshi/" target="_blank">Jianbo&nbsp;Shi</a></i></td><td align="center">3/30/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/23/13</td><td><b><a href="http://vislab.ucr.edu/Biometrics13/" target="_blank">Biometrics</a></b><br><i>Organizers: <a href="http://vislab.ucr.edu/PEOPLE/BIR_BHANU/index.php" target="_blank">Bir&nbsp;Bhanu</a>, <a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-ratha" target="_blank">Nalini K.&nbsp;Ratha</a>, <a href="http://www.cubs.buffalo.edu/govindaraju" target="_blank">Venu&nbsp;Govindaraju</a>, <a href="http://www4.comp.polyu.edu.hk/~csajaykr/" target="_blank">Ajay&nbsp;Kumar</a></i></td><td align="center">4/2/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/23/13</td><td><b><a href="http://computationalcamerasanddisplays.media.mit.edu/" target="_blank">Computational Cameras and Displays</a></b><br><i>Organizers: <a href="http://web.media.mit.edu/~gordonw/" target="_blank">Gordon&nbsp;Wetzstein</a>, <a href="http://www.umiacs.umd.edu/~aagrawal/" target="_blank">Amit&nbsp;Agrawal</a></i></td><td align="center"></td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/23/13</td><td><b><a href="http://www.cs.stevens.edu/~ghua/ghweb/IWMV/CFP_Third_IEEE_Mobile_Vision_Workshop.html" target="_blank">Mobile Vision</a></b><br><i>Organizers: <a href="http://www.cs.stevens.edu/~ghua/" target="_blank">Gang&nbsp;Hua</a>, <a href="http://www.cs.ucsb.edu/~mturk/" target="_blank">Matthew&nbsp;Turk</a>, <a href="http://people.csail.mit.edu/kapu/resume.html" target="_blank">Kari&nbsp;Pulli</a>, <a href="http://www.ece.neu.edu/~yunfu/" target="_blank">Yun (Raymond)&nbsp;Fu</a>, <a href="http://research.microsoft.com/~zhang/" target="_blank">Zhengyou&nbsp;Zhang</a>, <a href="http://www.inf.ethz.ch/personal/pomarc/" target="_blank">Marc&nbsp;Pollefeys</a></i></td><td align="center">3/1/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/23/13</td><td><b><a href="http://sunw.csail.mit.edu/" target="_blank">Scene Understanding Workshop</a></b><br><i>Organizers: <a href="http://mit.edu/jxiao/" target="_blank">Jianxiong&nbsp;Xiao</a>, <a href="http://people.csail.mit.edu/khosla/" target="_blank">Aditya&nbsp;Khosla</a>, <a href="http://cs.brown.edu/~hays/" target="_blank">James&nbsp;Hays</a>, <a href="http://www.cs.illinois.edu/homes/dhoiem/" target="_blank">Derek&nbsp;Hoiem</a></i></td><td align="center"></td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/23/13</td><td><b><a href="http://vision.cse.psu.edu/research/symComp13/index.shtml" target="_blank">Symmetry Detection from Real World Images - A Competition</a></b><br><i>Organizers: <a href="http://www.cse.psu.edu/~yanxi/" target="_blank">Yanxi&nbsp;Liu</a>, <a href="http://www.vision.ee.ethz.ch/~vangool/" target="_blank">Luc&nbsp;Van Gool</a>, <a href="https://sites.google.com/site/seungkyuresearch/" target="_blank">Seungkyu&nbsp;Lee</a>, <a href="http://vision.cse.psu.edu/people/jingchenL/home.shtml" target="_blank">Jingchen&nbsp;Liu</a>, <a href="http://www.minwoopark.us/" target="_blank">Minwoo&nbsp;Park</a>, <a href="http://www.cse.psu.edu/people/gxz109" target="_blank">Gang&nbsp;Zheng</a>, <a href="http://www.cse.psu.edu/people/gms5016" target="_blank">George&nbsp;Slota</a>, <a href="http://www.cse.psu.edu/people/zzw109" target="_blank">Zhaohui&nbsp;Wu</a></i></td><td align="center">4/18/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/23/13</td><td><b><a href="http://www.cs.york.ac.uk/L4V/" target="_blank">The V&L Net Workshop on Language for Vision</a></b><br><i>Organizers: <a href="http://www.cl.cam.ac.uk/~ejb1/" target="_blank">Ted&nbsp;Briscoe</a>, <a href="http://www.cs.bath.ac.uk/~dpc/" target="_blank">Darren&nbsp;Cosker</a>, <a href="http://homepages.inf.ed.ac.uk/keller/" target="_blank">Frank&nbsp;Keller</a>, <a href="http://www-users.cs.york.ac.uk/~wsmith/" target="_blank">Will&nbsp;Smith</a></i></td><td align="center">3/17/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/23/13</td><td><b><a href="http://vision.eecs.ucf.edu/cvpr-2013-workshop/" target="_blank">Visual Analysis and Geo-Localization of Large-Scale Imagery</a></b><br><i>Organizers: <a href="http://crcv.ucf.edu/people/faculty/shah.html" target="_blank">Mubarak&nbsp;Shah</a>, <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">Luc&nbsp;Van Gool</a>, <a href="http://www.cs.ucf.edu/~ahakeem/" target="_blank">Asaad&nbsp;Hakeem</a>, <a href="http://www.cs.unc.edu/~jmf/Homepage_Jan-Michael_Frahm.html" target="_blank">Jan-Michael&nbsp;Frahm</a>, <a href="http://www.cs.cmu.edu/~efros/" target="_blank">Alexei&nbsp;Efros</a>, <a href="http://www.cs.ucf.edu/~khurram/" target="_blank">Khurram&nbsp;Shafique</a>, <a href="http://www.cs.ucf.edu/~ojaved/" target="_blank">Omar&nbsp;Javed</a></i></td><td align="center">3/22/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/24/13</td><td><b><a href="https://sites.google.com/site/bagscvpr2013" target="_blank">Behavior Analysis in Games and modern Sensing devices</a></b><br><i>Organizers: <a href="http://webpages.lincoln.ac.uk/gtzimiropoulos/" target="_blank">George&nbsp;Tzimiropoulos</a>, <a href="http://www.qub.ac.uk/schools/eeecs/Card/?name=j.martinez-del-rincon" target="_blank">Jesus&nbsp;Martinez Del Rincon</a>, <a href="http://blogs.kingston.ac.uk/rovit/academics/dr-vasileios-argyriou/" target="_blank">Vasileios&nbsp;Argyriou</a>, <a href="http://www.ogmento.com/team" target="_blank">Oriel&nbsp;Bergig</a>, <a href="http://ibug.doc.ic.ac.uk/people/szafeiriou" target="_blank">Stefanos&nbsp;Zafeiriou</a>, <a href="http://wwwhome.cs.utwente.nl/~anijholt/" target="_blank">Anton&nbsp;Nijholt</a></i></td><td align="center">3/22/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/24/13</td><td><b><a href="https://sites.google.com/a/udel.edu/bigvision2013/" target="_blank">Big Data Meets Computer Vision: Large Scale Computer Vision</a></b><br><i>Organizers: <a href="http://www.cis.udel.edu/~chandra" target="_blank">Chandra&nbsp;Kambhamettu</a>, <a href="http://www.cs.rutgers.edu/~dnm/" target="_blank">Dimitris&nbsp;Metaxas</a></i></td><td align="center">4/4/2013</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/24/13</td><td><b><a href="http://cvisioncentral.com/evw2013" target="_blank">Embedded Vision</a></b><br><i>Organizers: <a href="https://www.ims.tuwien.ac.at/people/margrit-gelautz" target="_blank">Margrit&nbsp;Gelautz</a>, <a href="http://www.google.com/recaptcha/mailhide/d?k=0140lV1sojlE9x8V2GvEo0Yw==&c=bZgtbvUhi8rCzxP7kMHXixFh-kzcnKlShD8ZYn2zYwI=" target="_blank">Branislav&nbsp;Kisacanin</a></i></td><td align="center">3/15/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/24/13</td><td><b><a href="http://ictr.uow.edu.au/hau3d13/index.html" target="_blank">Human Activity Understanding from 3D Data</a></b><br><i>Organizers: <a href="http://www.uow.edu.au/~wanqing" target="_blank">Wanqing&nbsp;Li</a>, <a href="http://research.microsoft.com/en-us/um/people/zliu/" target="_blank">Zicheng&nbsp;Liu</a>, <a href="http://www.ntu.edu.sg/home/jsyuan/" target="_blank">Junsong&nbsp;Yuan</a>, <a href="http://kahlan.eps.surrey.ac.uk/Personal/AdrianHilton/Welcome.html" target="_blank">Adrian&nbsp;Hilton</a>, <a href="http://www.uow.edu.au/~philipo/" target="_blank">Philip&nbsp;Ogunbona</a>, <a href="http://research.microsoft.com/en-us/um/people/zhang/" target="_blank">Zhengyou&nbsp;Zhang</a></i></td><td align="center">3/24/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/24/13</td><td><b><a href="http://www.otcbvs.com/" target="_blank">Perception Beyond the Visible Spectrum</a></b><br><i>Organizers: Riad&nbsp;Hammoud</i></td><td align="center"></td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/24/13</td><td><b><a href="http://cvpr13ws.is.tue.mpg.de/" target="_blank">Structured Prediction - Tractability, Learning and Inference</a></b><br><i>Organizers: <a href="http://nowozin.net/sebastian" target="_blank">Sebastian&nbsp;Nowozin</a>, <a href="http://files.is.tue.mpg.de/pgehler" target="_blank">Peter&nbsp;Gehler</a></i></td><td align="center"></td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/24/13</td><td><b><a href="http://computervisioncentral.com/view2013" target="_blank">Vision Industry and Entrepreneur Workshop</a></b><br><i>Organizers: <a href="http://www.linkedin.com/in/schai" target="_blank">Sek&nbsp;Chai</a>, <a href="http://www.linkedin.com/in/boazsuper/" target="_blank">Boaz&nbsp;Super</a>, <a href="http://vast.uccs.edu/~tboult/" target="_blank">Terry&nbsp;Boult</a>, <a href="http://www.linkedin.com/pub/himanshu-arora/5/636/89b/" target="_blank">Himanshu&nbsp;Arora</a>, <a href="http://cvisioncentral.com/members/yuwang/profile/" target="_blank">Yu&nbsp;Wang</a></i></td><td align="center"></td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/28/13</td><td><b><a href="http://www.northeastern.edu/smilelab/AMFG2013/home.htm" target="_blank">Analysis and Modeling of Faces and Gestures</a></b><br><i>Organizers: <a href="http://www.cs.ucsb.edu/~mturk/" target="_blank">Matthew&nbsp;Turk</a>, <a href="http://www.ie.cuhk.edu.hk/people/xotang.shtml" target="_blank">Xiaoou&nbsp;Tang</a>, <a href="http://www3.nd.edu/~kwb/" target="_blank">Kevin W.&nbsp;Bowyer</a>, <a href="http://www.ece.neu.edu/~yunfu/" target="_blank">Yun Raymond&nbsp;Fu</a>, <a href="http://www.ece.nus.edu.sg/stfpage/eleyans/" target="_blank">Shuicheng&nbsp;Yan</a>, <a href="http://www.eecs.qmul.ac.uk/~sgg/" target="_blank">Shaogang&nbsp;Gong</a></i></td><td align="center">3/31/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/28/13</td><td><b><a href="http://faculty.uoit.ca/qureshi/conferences/wcnwasa13/" target="_blank">Camera Networks & Wide Area Scene Analysis</a></b><br><i>Organizers: <a href="http://faculty.uoit.ca/qureshi/" target="_blank">Faisal&nbsp;Qureshi</a>, <a href="http://www.ee.ucr.edu/~amitrc/" target="_blank">Amit K.&nbsp;Roy-Chowdhury</a>, <a href="http://sole.dimi.uniud.it/~christian.micheloni/" target="_blank">Christian&nbsp;Micheloni</a>, Bi&nbsp;Song</i></td><td align="center">3/15/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/28/13</td><td><b><a href="http://www.vap.aau.dk/cvsports/" target="_blank">Computer Vision in Sports</a></b><br><i>Organizers: <a href="http://www.create.aau.dk/tbm/" target="_blank">Thomas&nbsp;Moeslund</a>, <a href="http://www.bbc.co.uk/rd/about/graham_thomas.shtml" target="_blank">Graham&nbsp;Thomas</a></i></td><td align="center">4/1/13</td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/28/13</td><td><b><a href="http://www.fgvc.org" target="_blank">Fine-Grained Visual Categorization</a></b><br><i>Organizers: <a href="http://www.eecs.berkeley.edu/~farrell/" target="_blank">Ryan&nbsp;Farrell</a>, <a href="http://vision.ucsd.edu/person/steve-branson" target="_blank">Steve&nbsp;Branson</a>, <a href="http://homes.cs.washington.edu/~neeraj/" target="_blank">Neeraj&nbsp;Kumar</a>, <a href="http://www.google.com/recaptcha/mailhide/d?k=01hr1v8FWYZWfQKbxaPgMxxA==&c=w5Gj6qNEbqbSpqp--RPPiseTCGbhSrFTDlzXbLiIC5A=" target="_blank">Anelia&nbsp;Angelova</a>, <a href="http://www.xrce.xerox.com/Research-Development/Document-Content-Laboratory/Textual-Visual-Pattern-Analysis-TVPA/People/Florent-Perronnin" target="_blank">Florent&nbsp;Perronnin</a></i></td><td align="center">4/19/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/28/13</td><td><b><a href="http://hci.iwr.uni-heidelberg.de/Static/cvpr2013/" target="_blank">Ground Truth - What is a good dataset</a></b><br><i>Organizers: <a href="http://hci.iwr.uni-heidelberg.de/Staff/dkonderm/" target="_blank">Daniel&nbsp;Kondermann</a>, <a href="http://research.microsoft.com/en-us/people/carrot/" target="_blank">Carsten&nbsp;Rother</a>, <a href="http://hci.iwr.uni-heidelberg.de/Staff/bjaehne/" target="_blank">Bernd&nbsp;J&auml;hne</a></i></td><td align="center"></td></tr>
+<tr valign="top" bgcolor="#DDDDDD"><td align="center">6/28/13</td><td><b><a href="http://www.dcs.gla.ac.uk/~vincia/sism2013/index.html" target="_blank">Socially Intelligent Surveillance and Monitoring</a></b><br><i>Organizers: <a href="http://profs.sci.univr.it/~swan/" target="_blank">Vittorio&nbsp;Murino</a>, <a href="http://profs.sci.univr.it/~cristanm/" target="_blank">Marco&nbsp;Cristani</a>, <a href="http://www.dcs.gla.ac.uk/~vincia/" target="_blank">Alessandro&nbsp;Vinciarelli</a></i></td><td align="center">3/13/13</td></tr>
+<tr valign="top" bgcolor="#FFFFFF"><td align="center">6/28/13</td><td><b><a href="https://sites.google.com/site/visualanalysisbeyondsemantics/" target="_blank">Visual Analysis beyond Semantics</a></b><br><i>Organizers: <a href="http://www.xrce.xerox.com/Research-Development/Document-Content-Laboratory/Textual-Visual-Pattern-Analysis-TVPA/People/Luca-Marchesotti" target="_blank">Luca&nbsp;Marchesotti</a>, <a href="http://cvcl.mit.edu/aude.htm" target="_blank">Aude&nbsp;Oliva</a></i></td><td align="center">3/30/13</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+
+<br><br>
+
+Please contact the Workshops Chair, Ce Liu (<a href="http://www.google.com/recaptcha/mailhide/d?k=017i_Kqt5NGaIkg0IYPXbZsg==&amp;c=Yb7rYzw1paCLlgVAI7Vsv7XeQaceEbTKH49fpIIyw3o=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075017i_Kqt5NGaIkg0IYPXbZsg\75\75\46c\75Yb7rYzw1paCLlgVAI7Vsv7XeQaceEbTKH49fpIIyw3o\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">cel...@microsoft.com</a>) with any questions.</td>
+
+</tr>
+
+</table>
+
+</center>
+
+
+
+
+
+</div>
+
+
+
+
+
+                        <h1>Towers</h1>
+
+		</div>
+
+
+
+	</body>
+
+</html>
+
+
+
+
+

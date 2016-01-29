@@ -1,0 +1,372 @@
+{
+  "sessions": [
+    {
+      "session_id": "O 1A",
+      "session_name": "3D Imaging and Reasoning",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsAM"
+    },
+    {
+      "session_id": "O 1B",
+      "session_name": "Statistics and Learning",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsAM"
+    },
+    {
+      "session_id": "O 1C",
+      "session_name": "Recognition",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsPM"
+    },
+    {
+      "session_id": "O 1D",
+      "session_name": "Imaging and Segmentation",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsPM"
+    },
+    {
+      "session_id": "O 2A",
+      "session_name": "Motion and Reconstruction",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsAM"
+    },
+    {
+      "session_id": "O 2B",
+      "session_name": "Optimization Methods",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsAM"
+    },
+    {
+      "session_id": "O 2C",
+      "session_name": "Detection (+Medical/Curves)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsPM"
+    },
+    {
+      "session_id": "O 2D",
+      "session_name": "Tracking and Flow",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsPM"
+    },
+    {
+      "session_id": "O 3A",
+      "session_name": "Video",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsAM"
+    },
+    {
+      "session_id": "O 3B",
+      "session_name": "Geometry and Physics (+Medical)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsAM"
+    },
+    {
+      "session_id": "O 3C",
+      "session_name": "Context and Scenes (+ANN)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsPM"
+    },
+    {
+      "session_id": "O 3D",
+      "session_name": "Faces, People, and Crowds",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsPM"
+    },
+    {
+      "session_id": "P 1A",
+      "session_name": "3D and Stereo",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayPostersAM"
+    },
+    {
+      "session_id": "P 1B",
+      "session_name": "Statistics and Learning",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayPostersAM"
+    },
+    {
+      "session_id": "P 1C",
+      "session_name": "Recognition",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayPostersPM"
+    },
+    {
+      "session_id": "P 1D",
+      "session_name": "Imaging",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayPostersPM"
+    },
+    {
+      "session_id": "P 2A",
+      "session_name": "Pose and Photometry",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayPostersAM"
+    },
+    {
+      "session_id": "P 2B",
+      "session_name": "Methods and Retrieval",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayPostersAM"
+    },
+    {
+      "session_id": "P 2C",
+      "session_name": "Segmentation and Shape",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayPostersPM"
+    },
+    {
+      "session_id": "P 2D",
+      "session_name": "Motion and Medical Imaging",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayPostersPM"
+    },
+    {
+      "session_id": "P 3A",
+      "session_name": "Video Analysis",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayPostersAM"
+    },
+    {
+      "session_id": "P 3B",
+      "session_name": "Features and Contours",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayPostersAM"
+    },
+    {
+      "session_id": "P 3C",
+      "session_name": "Objects and Scenes",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayPostersPM"
+    },
+    {
+      "session_id": "P 3D",
+      "session_name": "People and Faces",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayPostersPM"
+    },
+    {
+      "session_id": "S 1A",
+      "session_name": "3D and Stereo",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdaySpotlightsAM"
+    },
+    {
+      "session_id": "S 1B",
+      "session_name": "Statistics and Learning",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdaySpotlightsAM"
+    },
+    {
+      "session_id": "S 1C",
+      "session_name": "Recognition",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdaySpotlightsPM"
+    },
+    {
+      "session_id": "S 1D",
+      "session_name": "Imaging",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdaySpotlightsPM"
+    },
+    {
+      "session_id": "S 2A",
+      "session_name": "Pose and Photometry",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdaySpotlightsAM"
+    },
+    {
+      "session_id": "S 2B",
+      "session_name": "Methods and Retrieval",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdaySpotlightsAM"
+    },
+    {
+      "session_id": "S 2C",
+      "session_name": "Segmentation and Shape",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdaySpotlightsPM"
+    },
+    {
+      "session_id": "S 2D",
+      "session_name": "Motion and Medical Imaging",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdaySpotlightsPM"
+    },
+    {
+      "session_id": "S 3A",
+      "session_name": "Video Analysis",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdaySpotlightsAM"
+    },
+    {
+      "session_id": "S 3B",
+      "session_name": "Features and Contours",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdaySpotlightsAM"
+    },
+    {
+      "session_id": "S 3C",
+      "session_name": "Objects and Scenes",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdaySpotlightsPM"
+    },
+    {
+      "session_id": "S 3D",
+      "session_name": "People and Faces",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdaySpotlightsPM"
+    }
+  ],
+  "slots": [
+    {
+      "begin": "2013-06-25T08:30:00",
+      "end": "2013-06-25T09:45:00",
+      "label": "Orals (5) - 2 x parallel",
+      "slot_id": "TuesdayOralsAM"
+    },
+    {
+      "begin": "2013-06-25T09:45:00",
+      "end": "2013-06-25T10:15:00",
+      "label": "Spotlights (30 posters) - 2 x parallel",
+      "slot_id": "TuesdaySpotlightsAM"
+    },
+    {
+      "begin": "2013-06-25T10:15:00",
+      "end": "2013-06-25T12:00:00",
+      "label": "Posters and refreshments (first 30 minutes)",
+      "slot_id": "TuesdayPostersAM"
+    },
+    {
+      "begin": "2013-06-25T12:00:00",
+      "end": "2013-06-25T13:30:00",
+      "label": "Lunch with free on-site option",
+      "slot_id": "TuesdayLunch"
+    },
+    {
+      "begin": "2013-06-25T13:30:00",
+      "end": "2013-06-25T14:45:00",
+      "label": "Orals (5) - 2 x parallel",
+      "slot_id": "TuesdayOralsPM"
+    },
+    {
+      "begin": "2013-06-25T14:45:00",
+      "end": "2013-06-25T15:25:00",
+      "label": "Spotlights (40 posters) - 2 x parallel",
+      "slot_id": "TuesdaySpotlightsPM"
+    },
+    {
+      "begin": "2013-06-25T15:25:00",
+      "end": "2013-06-25T18:00:00",
+      "label": "Posters and refreshments (first 30 minutes)",
+      "slot_id": "TuesdayPostersPM"
+    },
+    {
+      "begin": "2013-06-25T17:30:00",
+      "end": "2013-06-25T19:00:00",
+      "label": "Light snacks / dinner",
+      "slot_id": "TuesdayDinner"
+    },
+    {
+      "begin": "2013-06-25T19:00:00",
+      "end": "2013-06-25T21:00:00",
+      "label": "PAMI-TC Meeting",
+      "slot_id": "TuesdayPAMITC"
+    },
+    {
+      "begin": "2013-06-26T08:30:00",
+      "end": "2013-06-26T09:45:00",
+      "label": "Orals (5) - 2 x parallel",
+      "slot_id": "WednesdayOralsAM"
+    },
+    {
+      "begin": "2013-06-26T09:45:00",
+      "end": "2013-06-26T10:15:00",
+      "label": "Spotlights (30 posters) - 2 x parallel",
+      "slot_id": "WednesdaySpotlightsAM"
+    },
+    {
+      "begin": "2013-06-26T10:15:00",
+      "end": "2013-06-26T12:00:00",
+      "label": "Posters and refreshments (first 30 minutes)",
+      "slot_id": "WednesdayPostersAM"
+    },
+    {
+      "begin": "2013-06-26T12:00:00",
+      "end": "2013-06-26T13:30:00",
+      "label": "Lunch with free on-site option",
+      "slot_id": "WednesdayLunch"
+    },
+    {
+      "begin": "2013-06-26T13:30:00",
+      "end": "2013-06-26T14:45:00",
+      "label": "Orals (5) - 2 x parallel",
+      "slot_id": "WednesdayOralsPM"
+    },
+    {
+      "begin": "2013-06-26T14:45:00",
+      "end": "2013-06-26T15:25:00",
+      "label": "Spotlights (40 posters) - 2 x parallel",
+      "slot_id": "WednesdaySpotlightsPM"
+    },
+    {
+      "begin": "2013-06-26T15:25:00",
+      "end": "2013-06-26T15:40:00",
+      "label": "Awards",
+      "slot_id": "WednesdayAwards"
+    },
+    {
+      "begin": "2013-06-26T15:40:00",
+      "end": "2013-06-26T18:00:00",
+      "label": "Posters and refreshments (first 30 minutes)",
+      "slot_id": "WednesdayPostersPM"
+    },
+    {
+      "begin": "2013-06-26T17:30:00",
+      "end": "2013-06-26T19:00:00",
+      "label": "Light snacks / dinner",
+      "slot_id": "WednesdayDinner"
+    },
+    {
+      "begin": "2013-06-27T08:30:00",
+      "end": "2013-06-27T09:45:00",
+      "label": "Orals (5) - 2 x parallel",
+      "slot_id": "ThursdayOralsAM"
+    },
+    {
+      "begin": "2013-06-27T09:45:00",
+      "end": "2013-06-27T10:15:00",
+      "label": "Spotlights (30 posters) - 2 x parallel",
+      "slot_id": "ThursdaySpotlightsAM"
+    },
+    {
+      "begin": "2013-06-27T10:15:00",
+      "end": "2013-06-27T12:00:00",
+      "label": "Posters and refreshments (first 30 minutes)",
+      "slot_id": "ThursdayPostersAM"
+    },
+    {
+      "begin": "2013-06-27T12:00:00",
+      "end": "2013-06-27T13:30:00",
+      "label": "Lunch with free on-site option",
+      "slot_id": "ThursdayLunch"
+    },
+    {
+      "begin": "2013-06-27T13:30:00",
+      "end": "2013-06-27T14:45:00",
+      "label": "Orals (5) - 2 x parallel",
+      "slot_id": "ThursdayOralsPM"
+    },
+    {
+      "begin": "2013-06-27T14:45:00",
+      "end": "2013-06-27T15:25:00",
+      "label": "Spotlights (40 posters) - 2 x parallel",
+      "slot_id": "ThursdaySpotlightsPM"
+    },
+    {
+      "begin": "2013-06-27T15:25:00",
+      "end": "2013-06-27T18:00:00",
+      "label": "Posters and refreshments (first 30 minutes)",
+      "slot_id": "ThursdayPostersPM"
+    }
+  ]
+}

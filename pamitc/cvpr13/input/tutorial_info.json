@@ -1,0 +1,207 @@
+[
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/23/13",
+      "tutorial_length": "full-day",
+      "title": "Large-scale visual recognition",
+      "url": "https://sites.google.com/site/lsvr13/"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Florent",
+        "last": "Perronnin",
+        "url": "http://www.xrce.xerox.com/Research-Development/Document-Content-Laboratory/Textual-Visual-Pattern-Analysis-TVPA/People/Florent-Perronnin"
+      },
+      {
+        "first": "Zaid",
+        "last": "Harchaoui",
+        "url": "http://www.harchaoui.eu/zaid/en/"
+      },
+      {
+        "first": "Herve",
+        "last": "Jegou",
+        "url": "http://people.rennes.inria.fr/Herve.Jegou/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/23/13",
+      "tutorial_length": "full-day",
+      "title": "Visual Learning with Weak Supervision",
+      "url": "http://www.centrale-ponts.fr/tutorials/cvpr2013/"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Matthew",
+        "last": "Blaschko",
+        "url": "http://vision.mas.ecp.fr/Personnel/blaschko/"
+      },
+      {
+        "first": "M. Pawan",
+        "last": "Kumar",
+        "url": "http://www.centrale-ponts.fr/personnel/pawan/"
+      },
+      {
+        "first": "Ben",
+        "last": "Taskar",
+        "url": "http://www.seas.upenn.edu/~taskar/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/23/13",
+      "tutorial_length": "full-day",
+      "title": "Towards Solving Real-World Vision Problems with RGB-D Cameras",
+      "url": "http://files.is.tue.mpg.de/jgall/tutorials/visionRGBD13.html"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Xiaofeng",
+        "last": "Ren",
+        "url": "http://homes.cs.washington.edu/~xren/"
+      },
+      {
+        "first": "Pushmeet",
+        "last": "Kohli",
+        "url": "http://research.microsoft.com/en-us/um/people/pkohli/"
+      },
+      {
+        "first": "J&uuml;rgen",
+        "last": "Gall",
+        "url": "http://files.is.tue.mpg.de/jgall/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/23/13",
+      "tutorial_length": "am-half",
+      "title": "Foundations of Spatial Spectroscopy",
+      "url": "https://sites.google.com/site/spatialspectroscopy"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "James",
+        "last": "Coggins",
+        "url": "http://www.google.com/recaptcha/mailhide/d?k=01fn6-twPw-rGbCuWoewVB-g==&c=kxN4dX8XKxN4MNx0Po5dYv-bO69O-aLgRrUZ3Yx2IlQ="
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/23/13",
+      "tutorial_length": "pm-half",
+      "title": "Easy Computer Vision (hands-on course to new collection of CV tools)",
+      "url": "http://movesinstitute.org/~kolsch/CVAC/index.html"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Mathias",
+        "last": "K&ouml;lsch",
+        "url": "http://www.movesinstitute.org/~kolsch/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/24/13",
+      "tutorial_length": "full-day",
+      "title": "Attributes",
+      "url": "http://filebox.ece.vt.edu/~parikh/attributes/"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Devi",
+        "last": "Parikh",
+        "url": "http://filebox.ece.vt.edu/~parikh/"
+      },
+      {
+        "first": "Ali",
+        "last": "Farhadi",
+        "url": "http://homes.cs.washington.edu/~ali/"
+      },
+      {
+        "first": "Kristen",
+        "last": "Grauman",
+        "url": "http://www.cs.utexas.edu/~grauman/"
+      },
+      {
+        "first": "Tamara",
+        "last": "Berg",
+        "url": "http://www.tamaraberg.com/"
+      },
+      {
+        "first": "Abhinav",
+        "last": "Gupta",
+        "url": "http://www.cs.cmu.edu/~abhinavg/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/24/13",
+      "tutorial_length": "full-day",
+      "title": "Beyond MAP: Making Multiple Predictions: Diversity, DPPs and more",
+      "url": "http://filebox.ece.vt.edu/~dbatra/cvpr13diversitytutorial/"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Dhruv",
+        "last": "Batra",
+        "url": "http://ttic.uchicago.edu/~dbatra/"
+      },
+      {
+        "first": "Alex",
+        "last": "Kulesza",
+        "url": "http://web.eecs.umich.edu/~kulesza/"
+      },
+      {
+        "first": "Deva",
+        "last": "Ramanan",
+        "url": "http://www.ics.uci.edu/~dramanan/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/24/13",
+      "tutorial_length": "full-day",
+      "title": "A Crash Course on Visual Saliency Modeling: Behavioral Findings and Computational Models",
+      "url": "http://ilab.usc.edu/borji/cvpr2013/"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Ali",
+        "last": "Borji",
+        "url": "http://ilab.usc.edu/~borji/"
+      },
+      {
+        "first": "Simone",
+        "last": "Frintrop",
+        "url": "http://www.informatik.uni-bonn.de/~frintrop/"
+      },
+      {
+        "first": "Laurent",
+        "last": "Itti",
+        "url": "http://ilab.usc.edu/itti/"
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "tutorial_date": "6/24/13",
+      "tutorial_length": "pm-half",
+      "title": "3D Reconstruction of \"Invisibles\" (specular, transparent objects, etc.)",
+      "url": "http://www.cis.udel.edu/~yu/CVPR2013_Tutorial"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Jingyi",
+        "last": "Yu",
+        "url": "http://www.cis.udel.edu/~yu"
+      }
+    ]
+  }
+]

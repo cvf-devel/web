@@ -1,0 +1,302 @@
+[
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 401,
+    "session_name": "3D Imaging and Reasoning"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 331,
+    "session_name": "3D Imaging and Reasoning"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 860,
+    "session_name": "3D Imaging and Reasoning"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 1806,
+    "session_name": "3D Imaging and Reasoning"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 138,
+    "session_name": "3D Imaging and Reasoning"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 151,
+    "session_name": "Statistics and Learning"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 2163,
+    "session_name": "Statistics and Learning"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 1794,
+    "session_name": "Statistics and Learning"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 637,
+    "session_name": "Statistics and Learning"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 1072,
+    "session_name": "Statistics and Learning"
+  },
+  {
+    "oral_session_id": "O 1C",
+    "paper_id": 881,
+    "session_name": "Recogintion"
+  },
+  {
+    "oral_session_id": "O 1C",
+    "paper_id": 539,
+    "session_name": "Recogintion"
+  },
+  {
+    "oral_session_id": "O 1C",
+    "paper_id": 254,
+    "session_name": "Recogintion"
+  },
+  {
+    "oral_session_id": "O 1C",
+    "paper_id": 1654,
+    "session_name": "Recogintion"
+  },
+  {
+    "oral_session_id": "O 1C",
+    "paper_id": 1321,
+    "session_name": "Recogintion"
+  },
+  {
+    "oral_session_id": "O 1D",
+    "paper_id": 738,
+    "session_name": "Imaging and Segmentation"
+  },
+  {
+    "oral_session_id": "O 1D",
+    "paper_id": 843,
+    "session_name": "Imaging and Segmentation"
+  },
+  {
+    "oral_session_id": "O 1D",
+    "paper_id": 363,
+    "session_name": "Imaging and Segmentation"
+  },
+  {
+    "oral_session_id": "O 1D",
+    "paper_id": 1359,
+    "session_name": "Imaging and Segmentation"
+  },
+  {
+    "oral_session_id": "O 1D",
+    "paper_id": 1444,
+    "session_name": "Imaging and Segmentation"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 119,
+    "session_name": "Motion and Reconstruction"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 1625,
+    "session_name": "Motion and Reconstruction"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 1159,
+    "session_name": "Motion and Reconstruction"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 1723,
+    "session_name": "Motion and Reconstruction"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 1623,
+    "session_name": "Motion and Reconstruction"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 1288,
+    "session_name": "Optimization Methods"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 2068,
+    "session_name": "Optimization Methods"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 1604,
+    "session_name": "Optimization Methods"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 820,
+    "session_name": "Optimization Methods"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 1207,
+    "session_name": "Optimization Methods"
+  },
+  {
+    "oral_session_id": "O 2C",
+    "paper_id": 1992,
+    "session_name": "Detection"
+  },
+  {
+    "oral_session_id": "O 2C",
+    "paper_id": 176,
+    "session_name": "Detection"
+  },
+  {
+    "oral_session_id": "O 2C",
+    "paper_id": 728,
+    "session_name": "Detection"
+  },
+  {
+    "oral_session_id": "O 2C",
+    "paper_id": 1008,
+    "session_name": "Detection"
+  },
+  {
+    "oral_session_id": "O 2C",
+    "paper_id": 204,
+    "session_name": "Detection - Medical/Curves"
+  },
+  {
+    "oral_session_id": "O 2D",
+    "paper_id": 1376,
+    "session_name": "Tracking and Flow"
+  },
+  {
+    "oral_session_id": "O 2D",
+    "paper_id": 1266,
+    "session_name": "Tracking and Flow"
+  },
+  {
+    "oral_session_id": "O 2D",
+    "paper_id": 1381,
+    "session_name": "Tracking and Flow"
+  },
+  {
+    "oral_session_id": "O 2D",
+    "paper_id": 573,
+    "session_name": "Tracking and Flow"
+  },
+  {
+    "oral_session_id": "O 2D",
+    "paper_id": 1369,
+    "session_name": "Tracking and Flow"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 237,
+    "session_name": "Video"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 462,
+    "session_name": "Video"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 334,
+    "session_name": "Video"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 657,
+    "session_name": "Video"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 1531,
+    "session_name": "Video"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 770,
+    "session_name": "Geometry and Physics"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 196,
+    "session_name": "Geometry and Physics"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 858,
+    "session_name": "Geometry and Physics"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 1320,
+    "session_name": "Geometry and Physics"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 1477,
+    "session_name": "Geometry and Physics + Medical"
+  },
+  {
+    "oral_session_id": "O 3C",
+    "paper_id": 642,
+    "session_name": "Context and Scenes"
+  },
+  {
+    "oral_session_id": "O 3C",
+    "paper_id": 484,
+    "session_name": "Context and Scenes"
+  },
+  {
+    "oral_session_id": "O 3C",
+    "paper_id": 286,
+    "session_name": "Context and Scenes"
+  },
+  {
+    "oral_session_id": "O 3C",
+    "paper_id": 538,
+    "session_name": "Context and Scenes"
+  },
+  {
+    "oral_session_id": "O 3C",
+    "paper_id": 1424,
+    "session_name": "Context and Scenes + ANN"
+  },
+  {
+    "oral_session_id": "O 3D",
+    "paper_id": 1152,
+    "session_name": "Faces, People, and Crowds"
+  },
+  {
+    "oral_session_id": "O 3D",
+    "paper_id": 118,
+    "session_name": "Faces, People, and Crowds"
+  },
+  {
+    "oral_session_id": "O 3D",
+    "paper_id": 1345,
+    "session_name": "Faces, People, and Crowds"
+  },
+  {
+    "oral_session_id": "O 3D",
+    "paper_id": 511,
+    "session_name": "Faces, People, and Crowds"
+  },
+  {
+    "oral_session_id": "O 3D",
+    "paper_id": 1245,
+    "session_name": "Faces, People, and Crowds"
+  }
+]

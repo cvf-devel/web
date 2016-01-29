@@ -1,0 +1,2449 @@
+[
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "lshen@jdl.ac.cn",
+        "first": "Li",
+        "institution": "VIPL",
+        "is_primary": false,
+        "last": "Shen"
+      },
+      {
+        "email": "wangshuhui@ict.ac.cn",
+        "first": "Shuhui",
+        "institution": "VIPL",
+        "is_primary": true,
+        "last": "Wang"
+      },
+      {
+        "email": "sung@ios.ac.cn",
+        "first": "Gang",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Sun"
+      },
+      {
+        "email": "sqjiang@jdl.ac.cn",
+        "first": "Shuqiang",
+        "institution": "",
+        "is_primary": false,
+        "last": "Jiang"
+      },
+      {
+        "email": "qmhuang@jdl.ac.cn",
+        "first": "Qingming",
+        "institution": "Graduate Univ of Chinese Academy of Sciences",
+        "is_primary": false,
+        "last": "Huang"
+      }
+    ],
+    "paper_id": 106,
+    "title": "Multi-Level Discriminative Dictionary Learning towards Hierarchical Visual Categorization"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "tberg@cs.columbia.edu",
+        "first": "Thomas",
+        "institution": "",
+        "is_primary": true,
+        "last": "Berg"
+      },
+      {
+        "email": "belhumeur@cs.columbia.edu",
+        "first": "Peter",
+        "institution": "",
+        "is_primary": false,
+        "last": "Belhumeur"
+      }
+    ],
+    "paper_id": 107,
+    "title": "POOF: Part-Based One-vs-One Features for Fine-Grained Categorization, Face Verification, and Attribute Estimation"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "vinay@gatech.edu",
+        "first": "Vinay",
+        "institution": "Georgia Tech",
+        "is_primary": true,
+        "last": "Bettadapura"
+      },
+      {
+        "email": "schindler@cc.gatech.edu",
+        "first": "Grant",
+        "institution": "Georgia Institute of Technology",
+        "is_primary": false,
+        "last": "Schindler"
+      },
+      {
+        "email": "thomas.ploetz@newcastle.ac.uk",
+        "first": "Thomas",
+        "institution": "",
+        "is_primary": false,
+        "last": "Ploetz"
+      },
+      {
+        "email": "irfan@cc.gatech.edu",
+        "first": "Irfan",
+        "institution": "GaTech",
+        "is_primary": false,
+        "last": "Essa"
+      }
+    ],
+    "paper_id": 122,
+    "title": "Augmenting Bag-of-Words: Data-Driven Discovery of Temporal and Structural Information for Activity Recognition"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "jerome.revaud@inria.fr",
+        "first": "Jerome",
+        "institution": "",
+        "is_primary": false,
+        "last": "Revaud"
+      },
+      {
+        "email": "matthijs.douze@inria.fr",
+        "first": "Matthijs",
+        "institution": "INRIA",
+        "is_primary": false,
+        "last": "Douze"
+      },
+      {
+        "email": "cordelia.schmid@inria.fr",
+        "first": "Cordelia",
+        "institution": "INRIA",
+        "is_primary": false,
+        "last": "Schmid"
+      },
+      {
+        "email": "herve.jegou@inria.fr",
+        "first": "Herve",
+        "institution": "",
+        "is_primary": true,
+        "last": "Jegou"
+      }
+    ],
+    "paper_id": 237,
+    "title": "Event retrieval in large video collections with circulant temporal encoding"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "xbliu.cgcl@gmail.com",
+        "first": "Xiaobai",
+        "institution": "Hust.edu.cn",
+        "is_primary": true,
+        "last": "Liu"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Liang",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Lin"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Alan L.",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Yuille"
+      }
+    ],
+    "paper_id": 240,
+    "title": "MsLRR: Segment Images via Internal Replication Prior"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "jiadeng@cs.stanford.edu",
+        "first": "Jia",
+        "institution": "",
+        "is_primary": true,
+        "last": "Deng"
+      },
+      {
+        "email": "jkrause@cs.stanford.edu",
+        "first": "Jonathan",
+        "institution": "Stanford University",
+        "is_primary": false,
+        "last": "Krause"
+      },
+      {
+        "email": "feifeili@cs.stanford.edu",
+        "first": "Li",
+        "institution": "Stanford",
+        "is_primary": false,
+        "last": "Fei-Fei"
+      }
+    ],
+    "paper_id": 254,
+    "title": "Fine-Grained Crowdsourcing for Fine-Grained Recognition"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "anton.andriyenko@gris.tu-darmstadt.de",
+        "first": "Anton",
+        "institution": "TU Darmstadt",
+        "is_primary": true,
+        "last": "Milan"
+      },
+      {
+        "email": "sroth@cs.tu-darmstadt.de",
+        "first": "Stefan",
+        "institution": "Darmstadt",
+        "is_primary": false,
+        "last": "Roth"
+      },
+      {
+        "email": "schindler@geod.baug.ethz.ch",
+        "first": "Konrad",
+        "institution": "",
+        "is_primary": false,
+        "last": "Schindler"
+      }
+    ],
+    "paper_id": 265,
+    "title": "Detection- and Trajectory-Level Exclusion in Multiple Object Tracking "
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "yzeng@fas.harvard.edu",
+        "first": "Yun",
+        "institution": "Harvard",
+        "is_primary": true,
+        "last": "Zeng"
+      },
+      {
+        "email": "ch.wang@cs.ucla.edu",
+        "first": "Chaohui",
+        "institution": "UCLA",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Stefano",
+        "institution": "UCLA",
+        "is_primary": false,
+        "last": "Soatto"
+      },
+      {
+        "email": "yau@math.harvard.edu",
+        "first": "Shing-Tung",
+        "institution": "Department of Mathematics",
+        "is_primary": false,
+        "last": "Yau"
+      }
+    ],
+    "paper_id": 276,
+    "title": "Nonlinearly Constrained MRFs: Exploring the Intrinsic Dimensions of Higher-Order Cliques"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "jtighe@cs.unc.edu",
+        "first": "Joseph",
+        "institution": "UNC",
+        "is_primary": true,
+        "last": "Tighe"
+      },
+      {
+        "email": "slazebni@illinois.edu",
+        "first": "Svetlana",
+        "institution": "UIUC",
+        "is_primary": false,
+        "last": "Lazebnik"
+      }
+    ],
+    "paper_id": 286,
+    "title": "Finding Things: Image Parsing with Regions and Per-Exemplar Detectors"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "patrick.lucey@disneyresearch.com",
+        "first": "Patrick",
+        "institution": "Disney Research Pittsburgh",
+        "is_primary": true,
+        "last": "Lucey"
+      },
+      {
+        "email": "alina.bialkowski@disneyresearch.com",
+        "first": "Alina",
+        "institution": "",
+        "is_primary": false,
+        "last": "Bialkowski"
+      },
+      {
+        "email": "peter.carr@disneyresearch.com",
+        "first": "Peter",
+        "institution": "Disney Research",
+        "is_primary": false,
+        "last": "Carr"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Stuart",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Morgan"
+      },
+      {
+        "email": "iainm@disneyresearch.com",
+        "first": "Iain",
+        "institution": "",
+        "is_primary": false,
+        "last": "Matthews"
+      },
+      {
+        "email": "yaser@cs.cmu.edu",
+        "first": "Yaser",
+        "institution": "",
+        "is_primary": false,
+        "last": "Sheikh"
+      }
+    ],
+    "paper_id": 298,
+    "title": "Representing and Discovering Adversarial Team Behaviors using Player Roles"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "linyue29@gmail.com",
+        "first": "Yue",
+        "institution": "Zhejiang University",
+        "is_primary": true,
+        "last": "Lin"
+      },
+      {
+        "email": "rongjin@cse.msu.edu",
+        "first": "Rong",
+        "institution": "",
+        "is_primary": false,
+        "last": "Jin"
+      },
+      {
+        "email": "dengcai@gmail.com",
+        "first": "Deng",
+        "institution": "",
+        "is_primary": false,
+        "last": "Cai"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Shuicheng",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Yan"
+      },
+      {
+        "email": "xuelong_li@opt.ac.cn",
+        "first": "Xuelong",
+        "institution": "",
+        "is_primary": false,
+        "last": "Li"
+      }
+    ],
+    "paper_id": 304,
+    "title": "Compressed Hashing"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "vigneshr@stanford.edu",
+        "first": "Vignesh",
+        "institution": "Stanford University",
+        "is_primary": true,
+        "last": "Ramanathan"
+      },
+      {
+        "email": "bangpeng@cs.stanford.edu",
+        "first": "Bangpeng",
+        "institution": "Stanford University",
+        "is_primary": false,
+        "last": "Yao"
+      },
+      {
+        "email": "feifeili@cs.stanford.edu",
+        "first": "Li",
+        "institution": "Stanford",
+        "is_primary": false,
+        "last": "Fei-Fei"
+      }
+    ],
+    "paper_id": 334,
+    "title": "Social Role Discovery in Human Events"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "yuxinnan@ee.columbia.edu",
+        "first": "Felix",
+        "institution": "Columbia University",
+        "is_primary": true,
+        "last": "Yu"
+      },
+      {
+        "email": "liangliang.cao@us.ibm.com",
+        "first": "Liangliang",
+        "institution": "IBM",
+        "is_primary": false,
+        "last": "Cao"
+      },
+      {
+        "email": "rsferis@us.ibm.com",
+        "first": "Rogerio",
+        "institution": "",
+        "is_primary": false,
+        "last": "Feris"
+      },
+      {
+        "email": "jsmith@us.ibm.com",
+        "first": "John",
+        "institution": "IBM Thomas J. Watson Research Center",
+        "is_primary": false,
+        "last": "Smith"
+      },
+      {
+        "email": "sfchang@ee.columbia.edu",
+        "first": "Shih-Fu",
+        "institution": "Columbia University",
+        "is_primary": false,
+        "last": "Chang"
+      }
+    ],
+    "paper_id": 336,
+    "title": "Designing Category-Level Attributes for Discriminative Visual Recognition"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "xuli@cse.cuhk.edu.hk",
+        "first": "Li",
+        "institution": "CUHK",
+        "is_primary": true,
+        "last": "Xu"
+      },
+      {
+        "email": "sczheng@cse.cuhk.edu.hk",
+        "first": "Shicheng",
+        "institution": "CUHK",
+        "is_primary": false,
+        "last": "Zheng"
+      },
+      {
+        "email": "leojia@cse.cuhk.edu.hk",
+        "first": "Jiaya",
+        "institution": "",
+        "is_primary": false,
+        "last": "Jia"
+      }
+    ],
+    "paper_id": 371,
+    "title": "Unnatural L0 Sparse Representation for Natural Image Deblurring"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "zheng@cvl.iis.u-tokyo.ac.jp",
+        "first": "Bo",
+        "institution": "Univ. of Tokyo",
+        "is_primary": true,
+        "last": "Zheng"
+      },
+      {
+        "email": "ybzhao@ucla.edu",
+        "first": "Yibiao",
+        "institution": "UCLA",
+        "is_primary": false,
+        "last": "Zhao"
+      },
+      {
+        "email": "ycc.lhi@gmail.com",
+        "first": "Joey C.",
+        "institution": "UCLA",
+        "is_primary": false,
+        "last": "Yu"
+      },
+      {
+        "email": "ki@cvl.iis.u-tokyo.ac.jp",
+        "first": "Katsushi",
+        "institution": "Univerity of Tokyo",
+        "is_primary": false,
+        "last": "Ikeuchi"
+      },
+      {
+        "email": "sczhu@stat.ucla.edu",
+        "first": "Song Chun",
+        "institution": "UCLA",
+        "is_primary": false,
+        "last": "Zhu"
+      }
+    ],
+    "paper_id": 376,
+    "title": "Beyond Point Clouds: Scene Understanding by Reasoning Geometry and Physics"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "wel017@ucsd.edu",
+        "first": "Weixin",
+        "institution": "UC San Diego",
+        "is_primary": true,
+        "last": "Li"
+      },
+      {
+        "email": "qian.yu@sri.com",
+        "first": "Qian",
+        "institution": "Sarnoff",
+        "is_primary": false,
+        "last": "Yu"
+      },
+      {
+        "email": "",
+        "first": "Harpreet",
+        "institution": "",
+        "is_primary": false,
+        "last": "Sawhney"
+      },
+      {
+        "email": "nuno@ece.ucsd.edu",
+        "first": "Nuno",
+        "institution": "",
+        "is_primary": false,
+        "last": "Vasconcelos"
+      }
+    ],
+    "paper_id": 422,
+    "title": "Recognizing Activities via Bag of Words for Attribute Dynamics"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "dragonwxl123@gmail.com",
+        "first": "Xiaolong",
+        "institution": "Sun Yat-Sen University",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "linliang@ieee.org",
+        "first": "Liang",
+        "institution": "Sun Yat-Sen University",
+        "is_primary": true,
+        "last": "Lin"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Lichao",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Huang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Shuicheng",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Yan"
+      }
+    ],
+    "paper_id": 447,
+    "title": "Incorporating Structural Alternatives and Sharing into Hierarchy for Multiclass Object Recognition and Detection"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "craigyu@ucla.edu",
+        "first": "Lap-Fai",
+        "institution": "UCLA",
+        "is_primary": true,
+        "last": "Yu"
+      },
+      {
+        "email": "saikit@sutd.edu.sg",
+        "first": "Sai-Kit",
+        "institution": "Singapore University of Technology and Design",
+        "is_primary": false,
+        "last": "Yeung"
+      },
+      {
+        "email": "yuwing@gmail.com",
+        "first": "Yu-Wing",
+        "institution": "KAIST",
+        "is_primary": false,
+        "last": "Tai"
+      },
+      {
+        "email": "stevelin@microsoft.com",
+        "first": "Stephen",
+        "institution": "",
+        "is_primary": false,
+        "last": "Lin"
+      }
+    ],
+    "paper_id": 476,
+    "title": "Shading-Based Shape Refinement of RGB-D Images"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "hczhang1@gmail.com",
+        "first": "Haichao",
+        "institution": "Northwestern Polytechnical Uni",
+        "is_primary": true,
+        "last": "Zhang"
+      },
+      {
+        "email": "davidwip@microsoft.com",
+        "first": "David",
+        "institution": "",
+        "is_primary": false,
+        "last": "Wipf"
+      },
+      {
+        "email": "ynzhang@nwpu.edu.cn",
+        "first": "Yanning",
+        "institution": "Northwestern Polytechnical University",
+        "is_primary": false,
+        "last": "Zhang"
+      }
+    ],
+    "paper_id": 482,
+    "title": "Multi-Image Blind Deblurring Using a Coupled Adaptive Sparse Prior"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "maria.zontak@weizmann.ac.il",
+        "first": "Maria",
+        "institution": "Weizmann Institute",
+        "is_primary": true,
+        "last": "Zontak"
+      },
+      {
+        "email": "inbar.mosseri@weizmann.ac.il",
+        "first": "Inbar",
+        "institution": "Weizmann",
+        "is_primary": false,
+        "last": "Mosseri"
+      },
+      {
+        "email": "michal.irani@weizmann.ac.il",
+        "first": "Michal",
+        "institution": "",
+        "is_primary": false,
+        "last": "Irani"
+      }
+    ],
+    "paper_id": 529,
+    "title": "Separating Signal from Noise using Patch Recurrence across Scales"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "schulter@icg.tugraz.at",
+        "first": "Samuel",
+        "institution": "TUGraz",
+        "is_primary": true,
+        "last": "Schulter"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Paul",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Wohlhart"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Christian",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Leistner"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Amir",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Saffari"
+      },
+      {
+        "email": "pmroth@icg.tugraz.at",
+        "first": "Peter M.",
+        "institution": "",
+        "is_primary": false,
+        "last": "Roth"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Horst",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Bischof"
+      }
+    ],
+    "paper_id": 532,
+    "title": "Alternating Decision Forests"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "larryz@microsoft.com",
+        "first": "Larry",
+        "institution": "MSR",
+        "is_primary": true,
+        "last": "Zitnick"
+      },
+      {
+        "email": "dparikh@ttic.edu",
+        "first": "Devi",
+        "institution": "TTIC",
+        "is_primary": false,
+        "last": "Parikh"
+      }
+    ],
+    "paper_id": 538,
+    "title": "Bringing Semantics Into Focus Using Visual Abstraction"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "kilho_son@brown.edu",
+        "first": "Kilho",
+        "institution": "Brown University",
+        "is_primary": true,
+        "last": "Son"
+      },
+      {
+        "email": "Eduardo_Almeida@brown.edu",
+        "first": "Eduardo",
+        "institution": "Brown University",
+        "is_primary": false,
+        "last": "Almeida"
+      },
+      {
+        "email": "david_cooper@brown.edu",
+        "first": "David",
+        "institution": "Brown University",
+        "is_primary": false,
+        "last": "Cooper"
+      }
+    ],
+    "paper_id": 542,
+    "title": "Axially Symmetric 3D Pots Configuration System using Axis of Symmetry and Break Curve"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "calle@maths.lth.se",
+        "first": "Carl",
+        "institution": "",
+        "is_primary": true,
+        "last": "Olsson"
+      },
+      {
+        "email": "ulen@maths.lth.se",
+        "first": "Johannes",
+        "institution": "Lund University",
+        "is_primary": false,
+        "last": "Ul&eacute;n"
+      },
+      {
+        "email": "yuri@csd.uwo.ca",
+        "first": "Yuri",
+        "institution": "",
+        "is_primary": false,
+        "last": "Boykov"
+      }
+    ],
+    "paper_id": 550,
+    "title": "In Defense of 3D-Label Stereo"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "fensichen@gmail.com",
+        "first": "Hsin-Yi",
+        "institution": "National Taiwan University",
+        "is_primary": false,
+        "last": "Chen"
+      },
+      {
+        "email": "yylin@citi.sinica.edu.tw",
+        "first": "Yen-Yu",
+        "institution": "Academia Sinica",
+        "is_primary": true,
+        "last": "Lin"
+      },
+      {
+        "email": "robin@ntu.edu.tw",
+        "first": "Bing-Yu",
+        "institution": "National Taiwan University",
+        "is_primary": false,
+        "last": "Chen"
+      }
+    ],
+    "paper_id": 569,
+    "title": "Robust Feature Matching with Alternate Hough and Inverted Hough Transforms"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "junhu@cs.duke.edu",
+        "first": "Jun",
+        "institution": "Duke University",
+        "is_primary": true,
+        "last": "Hu"
+      },
+      {
+        "email": "orazio@soe.ucsc.edu",
+        "first": "Orazio",
+        "institution": "Nvidia Research",
+        "is_primary": false,
+        "last": "Gallo"
+      },
+      {
+        "email": "karip@nvidia.com",
+        "first": "Kari",
+        "institution": "Nvidia Research",
+        "is_primary": false,
+        "last": "Pulli"
+      },
+      {
+        "email": "xiaobai@cs.duke.edu",
+        "first": "Xiaobai",
+        "institution": "Duke University",
+        "is_primary": false,
+        "last": "Sun"
+      }
+    ],
+    "paper_id": 602,
+    "title": "HDR Deghosting: How to deal with Saturation?"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "akamal@ee.ucr.edu",
+        "first": "Ahmed",
+        "institution": "UCR",
+        "is_primary": true,
+        "last": "Kamal"
+      },
+      {
+        "email": "farrell@ee.ucr.edu",
+        "first": "Jay A.",
+        "institution": "",
+        "is_primary": false,
+        "last": "Farrell"
+      },
+      {
+        "email": "amitrc@ee.ucr.edu",
+        "first": "Amit",
+        "institution": "",
+        "is_primary": false,
+        "last": "Roy-Chowdhury"
+      }
+    ],
+    "paper_id": 618,
+    "title": "Information Consensus for Distributed Multi-Target Tracking"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "kdtang@cs.stanford.edu",
+        "first": "Kevin",
+        "institution": "Stanford U.",
+        "is_primary": true,
+        "last": "Tang"
+      },
+      {
+        "email": "rahuls@cs.cmu.edu",
+        "first": "Rahul",
+        "institution": "Google Research and CMU",
+        "is_primary": false,
+        "last": "Sukthankar"
+      },
+      {
+        "email": "jyagnik@google.com",
+        "first": "Jay",
+        "institution": "",
+        "is_primary": false,
+        "last": "Yagnik"
+      },
+      {
+        "email": "feifeili@cs.stanford.edu",
+        "first": "Li",
+        "institution": "Stanford",
+        "is_primary": false,
+        "last": "Fei-Fei"
+      }
+    ],
+    "paper_id": 657,
+    "title": "Discriminative Segment Annotation in Weakly Labeled Video"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "xguo@tju.edu.cn",
+        "first": "Xiaojie",
+        "institution": "Tianjin University",
+        "is_primary": true,
+        "last": "Guo"
+      },
+      {
+        "email": "caoxiaochun@iie.ac.cn",
+        "first": "Xiaochun",
+        "institution": "Institute of Information Engineering",
+        "is_primary": false,
+        "last": "Cao"
+      },
+      {
+        "email": "mayi@microsoft.com",
+        "first": "Yi",
+        "institution": "MSRA",
+        "is_primary": false,
+        "last": "Ma"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Xiaowu",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Chen"
+      }
+    ],
+    "paper_id": 687,
+    "title": "Video Editing with Temporal, Spatial and Appearance Consistency"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "liao17@illinois.edu",
+        "first": "Zicheng",
+        "institution": "University of Illinois",
+        "is_primary": true,
+        "last": "Liao"
+      },
+      {
+        "email": "jjrock2@illinois.edu",
+        "first": "Jason",
+        "institution": "UIUC",
+        "is_primary": false,
+        "last": "Rock"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Yang",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "daf@illinois.edu",
+        "first": "David",
+        "institution": "UIUC",
+        "is_primary": false,
+        "last": "Forsyth"
+      }
+    ],
+    "paper_id": 739,
+    "title": "Non-Parametric Filtering for Geometric Detail Extraction and Material Representation"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "lr8032@gmail.com",
+        "first": "Rui",
+        "institution": "Rochester Institute of Tech.",
+        "is_primary": true,
+        "last": "Li"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Pengcheng",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Shi"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Anne R.",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Haake"
+      }
+    ],
+    "paper_id": 741,
+    "title": "Image Understanding from Experts' Eyes by Modeling Perceptual Skills of Diagnostic Reasoning Processes"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "shireen.youssef@gmail.com",
+        "first": "Shireen",
+        "institution": "University of Louisville",
+        "is_primary": true,
+        "last": "Elhabian"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Aly",
+        "institution": "University of Louisville",
+        "is_primary": false,
+        "last": "Farag"
+      }
+    ],
+    "paper_id": 746,
+    "title": "Analytic Bilinear Appearance Subspace Construction for Modeling Image Irradiance Under Natural Illumination and Non-Lambertian Reflectance"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "cunzhao.shi@ia.ac.cn",
+        "first": "Cunzhao",
+        "institution": "Institute of Automation",
+        "is_primary": true,
+        "last": "Shi"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Chunheng",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Baihua",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Xiao"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Yang",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Zhang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Song",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Gao"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Zhong",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Zhang"
+      }
+    ],
+    "paper_id": 784,
+    "title": "Scene Text Recognition using Part-based Tree-structured Character Detections"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "zhong.zhang@ia.ac.cn",
+        "first": "Zhong",
+        "institution": "CASIA",
+        "is_primary": true,
+        "last": "Zhang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Chunheng",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Baihua",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Xiao"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Shuang",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Liu"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Wen",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Zhou"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Cunzhao",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Shi"
+      }
+    ],
+    "paper_id": 817,
+    "title": "Cross-View Action Recognition via a Continuous Virtual Path"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "linzhong@cs.rutgers.edu",
+        "first": "Lin",
+        "institution": "Rutgers University",
+        "is_primary": true,
+        "last": "Zhong"
+      },
+      {
+        "email": "scho@adobe.com",
+        "first": "Sunghyun",
+        "institution": "Adobe",
+        "is_primary": false,
+        "last": "Cho"
+      },
+      {
+        "email": "dnm@cs.rutgers.edu",
+        "first": "Dimitris",
+        "institution": "Rutgers University",
+        "is_primary": false,
+        "last": "Metaxas"
+      },
+      {
+        "email": "sparis@adobe.com",
+        "first": "Sylvain",
+        "institution": "",
+        "is_primary": false,
+        "last": "Paris"
+      },
+      {
+        "email": "juewang@adobe.com",
+        "first": "Jue",
+        "institution": "",
+        "is_primary": false,
+        "last": "Wang"
+      }
+    ],
+    "paper_id": 843,
+    "title": "Handling Noise in Single Image Deblurring using Directional Filters"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "margolin@tx.technion.ac.il",
+        "first": "Ran",
+        "institution": "Technion",
+        "is_primary": true,
+        "last": "Margolin"
+      },
+      {
+        "email": "ayellet@ee.technion.ac.il",
+        "first": "Ayellet",
+        "institution": "Technion",
+        "is_primary": false,
+        "last": "Tal"
+      },
+      {
+        "email": "lihi@ee.technion.ac.il",
+        "first": "Lihi",
+        "institution": "Technion",
+        "is_primary": false,
+        "last": "Zelnik-Manor"
+      }
+    ],
+    "paper_id": 845,
+    "title": "What Makes a Patch Distinct?"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "hauagge@cs.cornell.edu",
+        "first": "Daniel",
+        "institution": "Cornell University",
+        "is_primary": true,
+        "last": "Hauagge"
+      },
+      {
+        "email": "sw744@cornell.edu",
+        "first": "Scott",
+        "institution": "cornell university",
+        "is_primary": false,
+        "last": "Wehrwein"
+      },
+      {
+        "email": "kb@cs.cornell.edu",
+        "first": "Kavita",
+        "institution": "Cornell University",
+        "is_primary": false,
+        "last": "Bala"
+      },
+      {
+        "email": "snavely@cs.cornell.edu",
+        "first": "Noah",
+        "institution": "Cornell University",
+        "is_primary": false,
+        "last": "Snavely"
+      }
+    ],
+    "paper_id": 858,
+    "title": "Photometric Ambient Occlusion"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "gkioxari@eecs.berkeley.edu",
+        "first": "Georgia",
+        "institution": "UC Berkeley",
+        "is_primary": true,
+        "last": "Gkioxari"
+      },
+      {
+        "email": "arbelaez@eecs.berkeley.edu",
+        "first": "Pablo",
+        "institution": "",
+        "is_primary": false,
+        "last": "Arbelaez"
+      },
+      {
+        "email": "lubomir.bourdev@gmail.com",
+        "first": "Lubomir",
+        "institution": "Adobe Systems Inc.",
+        "is_primary": false,
+        "last": "Bourdev"
+      },
+      {
+        "email": "malik@eecs.berkeley.edu",
+        "first": "Jitendra",
+        "institution": "Berkeley",
+        "is_primary": false,
+        "last": "Malik"
+      }
+    ],
+    "paper_id": 880,
+    "title": "Articulated Pose Estimation using Discriminative Armlet Classifiers"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "sgupta@eecs.berkeley.edu",
+        "first": "Saurabh",
+        "institution": "UC Berkeley",
+        "is_primary": true,
+        "last": "Gupta"
+      },
+      {
+        "email": "arbelaez@eecs.berkeley.edu",
+        "first": "Pablo",
+        "institution": "",
+        "is_primary": false,
+        "last": "Arbelaez"
+      },
+      {
+        "email": "malik@eecs.berkeley.edu",
+        "first": "Jitendra",
+        "institution": "Berkeley",
+        "is_primary": false,
+        "last": "Malik"
+      }
+    ],
+    "paper_id": 881,
+    "title": "Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "yangyoung1@gmail.com",
+        "first": "Yang",
+        "institution": "UCF",
+        "is_primary": true,
+        "last": "Yang"
+      },
+      {
+        "email": "thesg2008@gmail.com",
+        "first": "Guang",
+        "institution": "University of Central Florida",
+        "is_primary": false,
+        "last": "Shu"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Mubarak",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Shah"
+      }
+    ],
+    "paper_id": 888,
+    "title": "Semi-supervised Learning of Feature Hierarchies for Object Detection in a Video"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "xialu@utexas.edu",
+        "first": "Lu",
+        "institution": "The university of texas at aus",
+        "is_primary": true,
+        "last": "Xia"
+      },
+      {
+        "email": "aggarwaljk@mail.utexas.edu",
+        "first": "J.K.",
+        "institution": "",
+        "is_primary": false,
+        "last": "Aggarwal"
+      }
+    ],
+    "paper_id": 912,
+    "title": "Spatio-Temporal Depth Cuboid Similarity Feature for Activity Recognition Using Depth Camera"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "weiming.li@samsung.com",
+        "first": "Weiming",
+        "institution": "Samsung Adv. Inst. of Tech.",
+        "is_primary": true,
+        "last": "Li"
+      },
+      {
+        "email": "ht.wang@samsung.com",
+        "first": "Haitao",
+        "institution": "SAIT China",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "mingcai.zhou@samsung.com",
+        "first": "Mingcai",
+        "institution": "Samsung Adv. Inst. of Tech.",
+        "is_primary": false,
+        "last": "Zhou"
+      },
+      {
+        "email": "sd.wang@samsung.com",
+        "first": "Shandong",
+        "institution": "Samsung Adv. Inst. of Tech.",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Shaohui",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Jiao"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Xing",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Mei"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Tao",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Hong"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Ho-Young",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Lee"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Ji-Yeun",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Kim"
+      }
+    ],
+    "paper_id": 954,
+    "title": "Principal observation ray calibration for tiled-lens-array integral imaging display"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "raviteja@umd.edu",
+        "first": "Raviteja",
+        "institution": "University of Maryland",
+        "is_primary": true,
+        "last": "Vemulapalli"
+      },
+      {
+        "email": "jsp@umiacs.umd.edu",
+        "first": "Jaishanker",
+        "institution": "University of Maryland",
+        "is_primary": false,
+        "last": "Pillai"
+      },
+      {
+        "email": "rama@umiacs.umd.edu",
+        "first": "Rama",
+        "institution": "UMD",
+        "is_primary": false,
+        "last": "Chellappa"
+      }
+    ],
+    "paper_id": 997,
+    "title": "Extrinsic Classification for Riemannian Manifolds Using Kernel Learning"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "yang_kf@163.com",
+        "first": "Kaifu",
+        "institution": "UESTC",
+        "is_primary": false,
+        "last": "Yang"
+      },
+      {
+        "email": "gao_shaobing@163.com",
+        "first": "Shaobing",
+        "institution": "UESTC",
+        "is_primary": false,
+        "last": "Gao"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Chaoyi",
+        "institution": "UNKNOWN",
+        "is_primary": true,
+        "last": "Li"
+      },
+      {
+        "email": "liyj@uestc.edu.cn",
+        "first": "Yongjie",
+        "institution": "UESTC",
+        "is_primary": true,
+        "last": "Li"
+      }
+    ],
+    "paper_id": 1056,
+    "title": "Efficient Color Boundary Detection with Color-opponent Mechanisms"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "rgarg@eecs.qmul.ac.uk",
+        "first": "Ravi",
+        "institution": "Queen Mary Uni. of London",
+        "is_primary": true,
+        "last": "Garg"
+      },
+      {
+        "email": "troussos@eecs.qmul.ac.uk",
+        "first": "Anastasios",
+        "institution": "Queen Mary",
+        "is_primary": false,
+        "last": "Roussos"
+      },
+      {
+        "email": "lourdes@dcs.qmul.ac.uk",
+        "first": "Lourdes",
+        "institution": "",
+        "is_primary": false,
+        "last": "Agapito"
+      }
+    ],
+    "paper_id": 1159,
+    "title": "Dense Variational Reconstruction of Non-Rigid Surfaces from Monocular Video"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "07wanglimin@gmail.com",
+        "first": "LiMin",
+        "institution": "CUHK",
+        "is_primary": true,
+        "last": "Wang"
+      },
+      {
+        "email": "yu.qiao@siat.ac.cn",
+        "first": "Yu",
+        "institution": "SIAT",
+        "is_primary": false,
+        "last": "Qiao"
+      },
+      {
+        "email": "xtang@ie.cuhk.edu.hk",
+        "first": "Xiaoou",
+        "institution": "",
+        "is_primary": false,
+        "last": "Tang"
+      }
+    ],
+    "paper_id": 1223,
+    "title": "Motionlets: Mid-Level 3D Parts for Human Motion Recognition"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "wohlhart@icg.tugraz.at",
+        "first": "Paul",
+        "institution": "Graz University of Technology",
+        "is_primary": true,
+        "last": "Wohlhart"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Martin",
+        "institution": "",
+        "is_primary": false,
+        "last": "K&ouml;stinger"
+      },
+      {
+        "email": "michael.donoser@tugraz.at",
+        "first": "Michael",
+        "institution": "",
+        "is_primary": false,
+        "last": "Donoser"
+      },
+      {
+        "email": "pmroth@icg.tugraz.at",
+        "first": "Peter M.",
+        "institution": "",
+        "is_primary": false,
+        "last": "Roth"
+      },
+      {
+        "email": "bischof@icg.tugraz.at",
+        "first": "Horst",
+        "institution": "",
+        "is_primary": false,
+        "last": "Bischof"
+      }
+    ],
+    "paper_id": 1264,
+    "title": "Optimizing 1-Nearest Prototype Classifiers"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "javan@cim.mcgill.ca",
+        "first": "Mehrsan Javan",
+        "institution": "McGill University",
+        "is_primary": true,
+        "last": "Roshtkhari"
+      },
+      {
+        "email": "levine@cim.mcgill.ca",
+        "first": "Martin",
+        "institution": "McGill University",
+        "is_primary": false,
+        "last": "Levine"
+      }
+    ],
+    "paper_id": 1269,
+    "title": "Online Dominant and Anomalous Behavior Detection in Videos"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "martin.hofmann@tum.de",
+        "first": "Martin",
+        "institution": "Technische Universit&auml;t M&uuml;nchen",
+        "is_primary": true,
+        "last": "Hofmann"
+      },
+      {
+        "email": "wolf@acin.tuwien.ac.at",
+        "first": "Daniel",
+        "institution": "Automation and Control Institute, Technische Universit&auml;t Wien",
+        "is_primary": false,
+        "last": "Wolf"
+      },
+      {
+        "email": "rigoll@tum.de",
+        "first": "Gerhard",
+        "institution": "Technische Universit&auml;t M&uuml;nchen",
+        "is_primary": false,
+        "last": "Rigoll"
+      }
+    ],
+    "paper_id": 1273,
+    "title": "Hypergraphs for Joint Multi-View Reconstruction and Multi-Object Tracking"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "chenyc08@umiacs.umd.edu",
+        "first": "Yi-Chen",
+        "institution": "UMIACS",
+        "is_primary": true,
+        "last": "Chen"
+      },
+      {
+        "email": "pvishalm@umiacs.umd.edu",
+        "first": "Vishal",
+        "institution": "University of Maryland",
+        "is_primary": false,
+        "last": "Patel"
+      },
+      {
+        "email": "jsp@umiacs.umd.edu",
+        "first": "Jaishanker",
+        "institution": "University of Maryland",
+        "is_primary": false,
+        "last": "Pillai"
+      },
+      {
+        "email": "rama@umiacs.umd.edu",
+        "first": "Rama",
+        "institution": "UMD",
+        "is_primary": false,
+        "last": "Chellappa"
+      },
+      {
+        "email": "jonathon.phillips@nist.gov",
+        "first": "Jonathon",
+        "institution": "NIST",
+        "is_primary": false,
+        "last": "Phillips"
+      }
+    ],
+    "paper_id": 1314,
+    "title": "Dictionary Learning from Ambiguously Labeled Data"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "manu@nec-labs.com",
+        "first": "Manmohan",
+        "institution": "NEC Labs America",
+        "is_primary": true,
+        "last": "Chandraker"
+      },
+      {
+        "email": "dikpal@eecs.berkeley.edu",
+        "first": "Dikpal",
+        "institution": "EECS, UC Berkeley",
+        "is_primary": false,
+        "last": "Reddy"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Yizhou",
+        "institution": "ME, UC Berkeley",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "ravir@cs.berkeley.edu",
+        "first": "Ravi",
+        "institution": "EECS, UC Berkeley",
+        "is_primary": false,
+        "last": "Ramamoorthi"
+      }
+    ],
+    "paper_id": 1320,
+    "title": "What Motion Reveals About Shape With Unknown BRDF and Lighting"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "fang.wang@nicta.com.au",
+        "first": "Fang",
+        "institution": "NICTA",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "yi.li@nicta.com.au",
+        "first": "Yi",
+        "institution": "NICTA",
+        "is_primary": true,
+        "last": "Li"
+      }
+    ],
+    "paper_id": 1321,
+    "title": "Beyond Physical Connections: Tree Models in Human Pose Estimation"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "mryoo@jpl.nasa.gov",
+        "first": "Michael",
+        "institution": "",
+        "is_primary": true,
+        "last": "Ryoo"
+      },
+      {
+        "email": "lhm@jpl.nasa.gov",
+        "first": "Larry",
+        "institution": "JPL",
+        "is_primary": false,
+        "last": "Matthies"
+      }
+    ],
+    "paper_id": 1396,
+    "title": "First-Person Activity Recognition: What Are They Doing to Me?"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "rfs09@doc.ic.ac.uk",
+        "first": "Renato",
+        "institution": "Imperial College London",
+        "is_primary": true,
+        "last": "Salas-Moreno"
+      },
+      {
+        "email": "rnewcomb@doc.ic.ac.uk",
+        "first": "Richard",
+        "institution": "ICL",
+        "is_primary": false,
+        "last": "Newcombe"
+      },
+      {
+        "email": "strasdat@gmail.com",
+        "first": "Hauke",
+        "institution": "Imperial College London",
+        "is_primary": false,
+        "last": "Strasdat"
+      },
+      {
+        "email": "p.kelly@imperial.ac.uk",
+        "first": "Paul",
+        "institution": "Imperial College London",
+        "is_primary": false,
+        "last": "Kelly"
+      },
+      {
+        "email": "ajd@doc.ic.ac.uk",
+        "first": "Andrew",
+        "institution": "",
+        "is_primary": false,
+        "last": "Davison"
+      }
+    ],
+    "paper_id": 1408,
+    "title": "SLAM++: Simultaneous Localisation and Mapping at the Level of Objects"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "pangsaai@gmail.com",
+        "first": "Xi",
+        "institution": "Sichuan University",
+        "is_primary": false,
+        "last": "Peng"
+      },
+      {
+        "email": "leizhang@scu.edu.cn",
+        "first": "Lei",
+        "institution": "Sichuan University",
+        "is_primary": true,
+        "last": "Zhang"
+      },
+      {
+        "email": "zhangyi@scu.edu.cn",
+        "first": "Zhang",
+        "institution": "Sichuan University",
+        "is_primary": false,
+        "last": "Yi"
+      }
+    ],
+    "paper_id": 1461,
+    "title": "Scalable Sparse Subspace Clustering"
+  },
+  {
+    "accepted_as": "oral",
+    "authors": [
+      {
+        "email": "yzhu010@ucr.edu",
+        "first": "Yingying",
+        "institution": "",
+        "is_primary": false,
+        "last": "Zhu"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Nandita",
+        "institution": "UNKNOWN",
+        "is_primary": true,
+        "last": "Nayak"
+      },
+      {
+        "email": "amitrc@ee.ucr.edu",
+        "first": "Amit",
+        "institution": "",
+        "is_primary": true,
+        "last": "Roy-Chowdhury"
+      }
+    ],
+    "paper_id": 1531,
+    "title": "Context-Aware Modeling and Recognition of Activities in Video"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "potetz@ittc.ku.edu",
+        "first": "Brian",
+        "institution": "",
+        "is_primary": true,
+        "last": "Potetz"
+      },
+      {
+        "email": "mhajiarb@ittc.ku.edu",
+        "first": "Mohammadreza",
+        "institution": "University of Kansas",
+        "is_primary": false,
+        "last": "Hajiarbabi"
+      }
+    ],
+    "paper_id": 1538,
+    "title": "Whitened Expectation Propagation: Non-Lambertian Shape from Shading and Shadow"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "jhchoi@umd.edu",
+        "first": "Jonghyun",
+        "institution": "University of Maryland",
+        "is_primary": true,
+        "last": "Choi"
+      },
+      {
+        "email": "mrastega@cs.umd.edu",
+        "first": "Mohammad",
+        "institution": "University of Maryland",
+        "is_primary": false,
+        "last": "Rastegari"
+      },
+      {
+        "email": "afarhadi@cs.cmu.edu",
+        "first": "Ali",
+        "institution": "CMU",
+        "is_primary": false,
+        "last": "Farhadi"
+      },
+      {
+        "email": "lsd@umiacs.umd.edu",
+        "first": "Larry",
+        "institution": "",
+        "is_primary": false,
+        "last": "Davis"
+      }
+    ],
+    "paper_id": 1541,
+    "title": "Adding Unlabeled Samples to Categories by Learned Attributes"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "n.campbell@cs.ucl.ac.uk",
+        "first": "Neill D. F.",
+        "institution": "UCL",
+        "is_primary": true,
+        "last": "Campbell"
+      },
+      {
+        "email": "kartic@gmail.com",
+        "first": "Kartic",
+        "institution": "University College London",
+        "is_primary": false,
+        "last": "Subr"
+      },
+      {
+        "email": "j.kautz@ucl.ac.uk",
+        "first": "Jan",
+        "institution": "UCL",
+        "is_primary": false,
+        "last": "Kautz"
+      }
+    ],
+    "paper_id": 1620,
+    "title": "Fully-Connected CRFs with Non-Parametric Pairwise Potentials"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "rehg@gatech.edu",
+        "first": "James",
+        "institution": "Georgia Tech",
+        "is_primary": true,
+        "last": "Rehg"
+      },
+      {
+        "email": "abowd@gatech.edu",
+        "first": "Gregory",
+        "institution": "Georgia Institute of Technology",
+        "is_primary": false,
+        "last": "Abowd"
+      },
+      {
+        "email": "agata@gatech.edu",
+        "first": "Agata",
+        "institution": "Georgia Institute of Technology",
+        "is_primary": false,
+        "last": "Rozga"
+      },
+      {
+        "email": "mario@gatech.edu",
+        "first": "Mario",
+        "institution": "Georgia Institute of Technology",
+        "is_primary": false,
+        "last": "Romero"
+      },
+      {
+        "email": "clements@ece.gatech.edu",
+        "first": "Mark",
+        "institution": "Georgia Institute of Technology",
+        "is_primary": false,
+        "last": "Clements"
+      },
+      {
+        "email": "loprest@bu.edu",
+        "first": "Liliana",
+        "institution": "Boston University",
+        "is_primary": false,
+        "last": "Lo Presti"
+      },
+      {
+        "email": "sclaroff@bu.edu",
+        "first": "Stan",
+        "institution": "Boston University",
+        "is_primary": false,
+        "last": "Sclaroff"
+      },
+      {
+        "email": "irfan@cc.gatech.edu",
+        "first": "Irfan",
+        "institution": "GaTech",
+        "is_primary": false,
+        "last": "Essa"
+      }
+    ],
+    "paper_id": 1621,
+    "title": "Decoding Children's Social Behavior"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "ramalingam@merl.com",
+        "first": "Srikumar",
+        "institution": "MERL",
+        "is_primary": true,
+        "last": "Ramalingam"
+      },
+      {
+        "email": "jsp@umiacs.umd.edu",
+        "first": "Jaishanker",
+        "institution": "University of Maryland",
+        "is_primary": false,
+        "last": "Pillai"
+      },
+      {
+        "email": "ajain@umd.edu",
+        "first": "Arpit",
+        "institution": "University of Maryland",
+        "is_primary": false,
+        "last": "Jain"
+      },
+      {
+        "email": "taguchi@merl.com",
+        "first": "Yuichi",
+        "institution": "Mitsubishi Electric Research Labs",
+        "is_primary": false,
+        "last": "Taguchi"
+      }
+    ],
+    "paper_id": 1648,
+    "title": "Manhattan Junction Catalogue for Spatial Understanding of Indoor Scenes"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "simon.hawe@tum.de",
+        "first": "Simon",
+        "institution": "Technische Universit&auml;t M&uuml;nchen",
+        "is_primary": true,
+        "last": "Hawe"
+      },
+      {
+        "email": "m.seibert@tum.de",
+        "first": "Matthias",
+        "institution": "Technische Universit&auml;t M&uuml;nchen",
+        "is_primary": false,
+        "last": "Seibert"
+      },
+      {
+        "email": "kleinsteuber@tum.de",
+        "first": "Martin",
+        "institution": "Technische Universit&auml;t M&uuml;nchen",
+        "is_primary": false,
+        "last": "Kleinsteuber"
+      }
+    ],
+    "paper_id": 1667,
+    "title": "Separable Dictionary Learning"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "mayankb@cis.upenn.edu",
+        "first": "Mayank",
+        "institution": "University of Pennsylvania",
+        "is_primary": true,
+        "last": "Bansal"
+      },
+      {
+        "email": "kostas@cis.upenn.edu",
+        "first": "Kostas",
+        "institution": "Upenn",
+        "is_primary": false,
+        "last": "Daniilidis"
+      }
+    ],
+    "paper_id": 1701,
+    "title": "Joint Spectral Correspondence for Disparate Image Matching"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "christian.schuler@tuebingen.mpg.de",
+        "first": "Christian",
+        "institution": "MPI for Intelligent Systems",
+        "is_primary": true,
+        "last": "Schuler"
+      },
+      {
+        "email": "burger@tuebingen.mpg.de",
+        "first": "Harold Christopher",
+        "institution": "MPI for Intelligent Systems",
+        "is_primary": false,
+        "last": "Burger"
+      },
+      {
+        "email": "stefan.harmeling@tuebingen.mpg.de",
+        "first": "Stefan",
+        "institution": "MPI for Intelligent Systems",
+        "is_primary": false,
+        "last": "Harmeling"
+      },
+      {
+        "email": "bs@tuebingen.mpg.de",
+        "first": "Bernhard",
+        "institution": "MPI for Intelligent Systems",
+        "is_primary": false,
+        "last": "Schoelkopf"
+      }
+    ],
+    "paper_id": 1746,
+    "title": "A machine learning approach for non-blind image deconvolution"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "nikolaos.pitelis@eecs.qmul.ac.uk",
+        "first": "Nikolaos",
+        "institution": "qmul.ac.uk",
+        "is_primary": false,
+        "last": "Pitelis"
+      },
+      {
+        "email": "chrisr@eecs.qmul.ac.uk",
+        "first": "Chris",
+        "institution": "",
+        "is_primary": true,
+        "last": "Russell"
+      },
+      {
+        "email": "lourdes@dcs.qmul.ac.uk",
+        "first": "Lourdes",
+        "institution": "",
+        "is_primary": false,
+        "last": "Agapito"
+      }
+    ],
+    "paper_id": 1799,
+    "title": "Learning a Manifold as an Atlas"
+  },
+    {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "hyeongwoo.kim@kaist.ac.kr",
+        "first": "Hyeongwoo",
+        "institution": "KAIST",
+        "is_primary": true,
+        "last": "Kim"
+      },
+      {
+        "email": "hljin@adobe.com",
+        "first": "Hailin",
+        "institution": "Adobe",
+        "is_primary": false,
+        "last": "Jin"
+      },
+      {
+        "email": "hadap@adobe.com",
+        "first": "Sunil",
+        "institution": "Adobe",
+        "is_primary": false,
+        "last": "Hadap"
+      },
+      {
+        "email": "iskweon@kaist.ac.kr",
+        "first": "Inso",
+        "institution": "KAIST",
+        "is_primary": false,
+        "last": "Kweon"
+      }
+    ],
+    "paper_id": 1805,
+    "title": "Specular Reflection Separation using Dark Channel Priors"
+  },
+{
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "raghuram@research.att.com",
+        "first": "Raghuraman",
+        "institution": "AT&T Research",
+        "is_primary": true,
+        "last": "Gopalan"
+      }
+    ],
+    "paper_id": 1822,
+    "title": "Joint Sparsity-based Representation and Analysis of Unconstrained Activities"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "xmei@nlpr.ia.ac.cn",
+        "first": "Xing",
+        "institution": "CASIA",
+        "is_primary": true,
+        "last": "Mei"
+      },
+      {
+        "email": "xun.s@qq.com",
+        "first": "Xun",
+        "institution": "",
+        "is_primary": false,
+        "last": "Sun"
+      },
+      {
+        "email": "Weiming.Dong@ia.ac.cn",
+        "first": "Weiming",
+        "institution": "CAS Institute of Automation",
+        "is_primary": false,
+        "last": "Dong"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Haitao",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Wang"
+      },
+      {
+        "email": "xpzhang@nlpr.ia.ac.cn",
+        "first": "Xiaopeng",
+        "institution": "Institute of Automation",
+        "is_primary": false,
+        "last": "Zhang"
+      }
+    ],
+    "paper_id": 1857,
+    "title": "Segment-Tree based Cost Aggregation for Stereo Matching"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "balakg@mit.edu",
+        "first": "Guha",
+        "institution": "MIT",
+        "is_primary": true,
+        "last": "Balakrishnan"
+      },
+      {
+        "email": "fredo@mit.edu",
+        "first": "Fredo",
+        "institution": "",
+        "is_primary": false,
+        "last": "Durand"
+      },
+      {
+        "email": "guttag@mit.edu",
+        "first": "John",
+        "institution": "",
+        "is_primary": false,
+        "last": "Guttag"
+      }
+    ],
+    "paper_id": 1882,
+    "title": "Detecting Pulse From Head Motion"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "hornacek@ims.tuwien.ac.at",
+        "first": "Michael",
+        "institution": "TU Vienna",
+        "is_primary": true,
+        "last": "Hornacek"
+      },
+      {
+        "email": "chrheman@microsoft.com",
+        "first": "Christoph",
+        "institution": "Microsoft Research Cambridge",
+        "is_primary": false,
+        "last": "Rhemann"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Margrit",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Gelautz"
+      },
+      {
+        "email": "carrot@microsoft.com",
+        "first": "Carsten",
+        "institution": "",
+        "is_primary": false,
+        "last": "Rother"
+      }
+    ],
+    "paper_id": 1896,
+    "title": "Depth Super Resolution by Rigid Body Self-Similarity in 3D"
+  },
+  {
+    "paper_id": 1903,
+    "withdrawn": true
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "sateesh.k112001@gmail.com",
+        "first": "Sateesh",
+        "institution": "Kingston University",
+        "is_primary": true,
+        "last": "Pedagadi"
+      },
+      {
+        "email": "james@kingston.ac.uk",
+        "first": "James",
+        "institution": "Kingston upon Thames University",
+        "is_primary": false,
+        "last": "Orwell"
+      },
+      {
+        "email": "sergio.velastin@ieee.org",
+        "first": "Sergio",
+        "institution": "UNKNOWN",
+        "is_primary": false,
+        "last": "Velastin"
+      }
+    ],
+    "paper_id": 2006,
+    "title": "Local Fisher Discriminant Analysis for Pedestrian Re-identification"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "yenhle@cs.uh.edu",
+        "first": "Yen",
+        "institution": "",
+        "is_primary": true,
+        "last": "Le"
+      },
+      {
+        "email": "ukurkure@uh.edu",
+        "first": "Uday",
+        "institution": "University of Houston",
+        "is_primary": false,
+        "last": "Kurkure"
+      },
+      {
+        "email": "ioannisk@uh.edu",
+        "first": "Ioannis",
+        "institution": "",
+        "is_primary": false,
+        "last": "Kakadiaris"
+      }
+    ],
+    "paper_id": 2031,
+    "title": "PDM-ENLOR: Learning Ensemble of Local PDM-based Regressions"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "kyun@cs.stonybrook.edu",
+        "first": "Kiwon",
+        "institution": "Stony Brook University",
+        "is_primary": true,
+        "last": "Yun"
+      },
+      {
+        "email": "yipeng@cs.stonybrook.edu",
+        "first": "Yifan",
+        "institution": "Stony Brook University",
+        "is_primary": false,
+        "last": "Peng"
+      },
+      {
+        "email": "samaras@cs.sunysb.edu",
+        "first": "Dimitris",
+        "institution": "",
+        "is_primary": false,
+        "last": "Samaras"
+      },
+      {
+        "email": "gzelinsky@ms.cc.sunysb.edu",
+        "first": "Gregory J.",
+        "institution": "Stony Brook U",
+        "is_primary": false,
+        "last": "Zelinsky"
+      },
+      {
+        "email": "tlberg@cs.sunysb.edu",
+        "first": "Tamara L.",
+        "institution": "Stony Brook University",
+        "is_primary": false,
+        "last": "Berg"
+      }
+    ],
+    "paper_id": 2106,
+    "title": "Studying Relationships Between Human Gaze, Description, and Computer Vision"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "tm1e10@soton.ac.uk",
+        "first": "Tim",
+        "institution": "University of Southampton",
+        "is_primary": true,
+        "last": "Matthews"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Mark",
+        "institution": "UNKNOWN",
+        "is_primary": true,
+        "last": "Nixon"
+      },
+      {
+        "email": "UNKNOWN",
+        "first": "Mahesan",
+        "institution": "UNKNOWN",
+        "is_primary": true,
+        "last": "Niranjan"
+      }
+    ],
+    "paper_id": 2135,
+    "title": "Enriching Texture Analysis with Semantic Data"
+  },
+  {
+    "accepted_as": "poster",
+    "authors": [
+      {
+        "email": "alperina@microsoft.com",
+        "first": "Alessandro",
+        "institution": "Microsoft Research",
+        "is_primary": true,
+        "last": "Perina"
+      },
+      {
+        "email": "jojic@microsoft.com",
+        "first": "Nebojsa",
+        "institution": "Microsoft Research",
+        "is_primary": false,
+        "last": "Jojic"
+      }
+    ],
+    "paper_id": 2151,
+    "title": "Capturing layers in image collections with componential models: from the Layered Epitome to the Componential Counting Grid"
+  }
+]
