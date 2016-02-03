@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en-us' lang='en-us'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>reviewer_guidelines | IEEE CVPR 2011</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/nice_menus/nice_menus.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/nice_menus/nice_menus_default.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/dhtml_menu/dhtml_menu.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?H" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/light/style.css?H" />
+    <script type="text/javascript" src="/misc/jquery.js?H"></script>
+<script type="text/javascript" src="/misc/drupal.js?H"></script>
+<script type="text/javascript" src="/modules/nice_menus/nice_menus.js?H"></script>
+<script type="text/javascript" src="/sites/all/modules/dhtml_menu/dhtml_menu.js?H"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?H"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": 0, "relativity": 0, "children": 0, "clone": 0, "doubleclick": 0 } });
+//--><!]]>
+</script>
+<!--[if lte IE 6]>
+<style type="text/css"> 
+/* CSS Fix for IE 6 and below. */
+.page #header h1 {padding: 10px 0;}
+</style>
+<![endif]-->
+</head>
+<body class="page">
+<div id="container">
+  <!-- start #header -->
+  <div id="header">
+    <!-- start #logoandtitle -->
+    <div id="logoandtitle">
+      <div class="logo">
+        <a href="/" title="Home"><img src="/sites/default/files/genesis_CVPR_logo.jpg" alt="Home" /></a>      </div>
+    </div>
+    <!-- end #logoandtitle -->
+  </div>
+      <div id="navigation">
+      <ul class="nice-menu nice-menu-Array" id="nice-menu-0"><li id="menu-445" class="menu-path-node-1"><a href="/index.html" title="" id="dhtml_menu-445-1">Home</a></li>
+<li id="menu-446" class="menu-path-node-3"><a href="/people" title="" id="dhtml_menu-446-1">People</a></li>
+<li id="menu-151" class="menuparent menu-path-node-10"><a href="/program" title="Program" id="dhtml_menu-151-1">Program</a><ul><li id="menu-504" class="menu-path-node-98"><a href="/tuesdayorals" title="Tuesday Oral Sessions" id="dhtml_menu-504-1">Tuesday Orals</a></li>
+<li id="menu-505" class="menu-path-node-99"><a href="/tuesposters" title="Tuesday Posters" id="dhtml_menu-505-1">Tuesday Posters</a></li>
+<li id="menu-506" class="menu-path-node-100"><a href="/wednesdayorals" title="Wednesday Orals" id="dhtml_menu-506-1">Wednesday Orals</a></li>
+<li id="menu-507" class="menu-path-node-101"><a href="/wedposters" title="Wedneday Posters" id="dhtml_menu-507-1">Wednesday Posters</a></li>
+<li id="menu-509" class="menu-path-node-103"><a href="/thursdayorals" title="Thursday Orals" id="dhtml_menu-509-1">Thursday Orals</a></li>
+<li id="menu-508" class="menu-path-node-102"><a href="/thuposters" title="Thursday Posters" id="dhtml_menu-508-1">Thursday Posters</a></li>
+</ul>
+</li>
+<li id="menu-155" class="menu-path-node-13"><a href="/registration" title="Registration" id="dhtml_menu-155-1">Registration</a></li>
+<li id="menu-457" class="menu-path-node-49"><a href="/corporatedonor" title="Corporate Donors" id="dhtml_menu-457-1">Donors</a></li>
+<li id="menu-175" class="menu-path-jobs"><a href="/jobs" title="Jobs" id="dhtml_menu-175-1">Jobs</a></li>
+<li id="menu-150" class="menuparent menu-path-node-5"><a href="/associatedevents" title="" id="dhtml_menu-150-1">Extra Events ↓</a><ul><li id="menu-146" class="menu-path-node-8"><a href="/workshops" title="
+	Call for Workshops
+" id="dhtml_menu-146-1">Workshops</a></li>
+<li id="menu-152" class="menu-path-node-11"><a href="/tutorials" title="Tutorials" id="dhtml_menu-152-1">Tutorials</a></li>
+<li id="menu-481" class="menu-path-node-69"><a href="/demos" title="Demos" id="dhtml_menu-481-1">Demos</a></li>
+<li id="menu-480" class="menu-path-node-64"><a href="/DoctoralConsortium" title="Doctoral Consortium" id="dhtml_menu-480-1">Doctoral Consortium</a></li>
+<li id="menu-456" class="menu-path-node-48"><a href="/exhibitors" title="Exhibitors" id="dhtml_menu-456-1">Exhibits</a></li>
+<li id="menu-511" class="menu-path-node-131"><a href="/studentvolunteers" title="studentvolunteers" id="dhtml_menu-511-1">Volunteers</a></li>
+</ul>
+</li>
+<li id="menu-143" class="menuparent menu-path-node-79"><a href="/camera" title=" Pages related to Papers
+" id="dhtml_menu-143-1">Authors↓</a><ul><li id="menu-512" class="menu-path-node-144"><a href="/videos" title="Video/Web Proceedings" id="dhtml_menu-512-1">Video/Web Proceedings</a></li>
+<li id="menu-510" class="menu-path-node-119"><a href="/posterinstructions" title="Poster Instructions" id="dhtml_menu-510-1">PresenterInstructions</a></li>
+<li id="menu-502" class="menu-path-node-79"><a href="/camera" title="CVPR Camera Ready and page Numbering Instructions" id="dhtml_menu-502-1">Camera Ready Copies</a></li>
+<li id="menu-132" class="menu-path-node-4"><a href="/statistics" title="&amp;nbsp;
+Decisions have been announced. &amp;nbsp;In what may be a new record for CVPR, announcements of papers were on their way being emailed within an hour of the close of the AC meeting. (Just enough time for the PCs to do a few sanity checks to make sure nothing was missing). &amp;nbsp;The PC Chairs and ACs did a phenomenal job in processing this 1600+ papers in a fair and efficient manner. The reviewers did a great job before the meeting. Thanks to all!&amp;nbsp;
+&amp;nbsp;
+At the end of the AC meeting, there were 59 papers (3.5%) accepted for orals and 379 (22.5%)accepted as posters, for an overall acceptance rate of 26.4% &amp;nbsp;where Percentages are computed &amp;nbsp;using the 1677 papers that entered the review process. In addition to the acceptances, there were 1052 formal rejections via the AC decisions, while 187 papers were rejected for administrative reasons e.g. dual submissions) or were withdrawn by the authors after reviewing. &amp;nbsp; (These 1677 papers are in addition to the 353 &quot;submissions&quot; deleted by the administrator or by authors before reviewing began, taking the total CVPR paper entries to 2020.)
+&amp;nbsp;
+For those interested, here are some statistics below. &amp;nbsp;As the General Chair, who was also involved as running an AC panel, Terry would point out that none of the statistics below were computed or considered during the process. &amp;nbsp;The PCs worked very hard to ensure a fair and unbiased process so we did not look at stats like these until it was all over. &amp;nbsp;There were no quotas or limits implied or imposed for oral and/or posters. &amp;nbsp;Here is a quick summary of the process. The AC panels of 10 or more experts were told to use their best judgment on what was of sufficient quality to accept. if they said accept, it was accepted. &amp;nbsp;If the group said oral, it was oral. &amp;nbsp;Most papers with a wide spread were discussed with the reviewers (2029 total discussions!) then by multiple ACs before an accept/reject decision was reached. &amp;nbsp;Discussions after rebuttal are not visible to authors but important in decision making, often resolving discrepancies between reviews. If you see comments about reviewers changing their &quot;scores&quot;, that is almost always why, they read/discuss it with the other reviewers. &amp;nbsp;To anyone that might feel there was a bias against an area or person, the committees were running in parallel and did not have information on totals let alone subtotals. &amp;nbsp;We were all too busy making sure all papers were handled and double checking decisions matched the consensus reports to worry about subareas or stats. The reviewing was blind, the AC discussions and decisions were blind and then reviewed to make sure the process was followed. &amp;nbsp;
+
+The following table shows additional stats showing the per-area acceptance rate and also the percentage of submissions/orals and posters for that area compared to the overall CVPR2011 pool.
+
+       
+
+
+Primary Subject Area
+Area Acceptance Rate
+% of all CVPR11 Submissions
+% of all CVPR11 orals
+% of all CVPR11 Posters
+
+
+Vision for Robotics
+16%
+1.13%
+0.00%
+0.79%
+
+
+Human Identification
+17%
+1.07%
+1.69%
+0.52%
+
+
+Face and Gesture Analysis
+21%
+5.84%
+3.39%
+4.99%
+
+
+Performance Evaluation
+22%
+0.54%
+0.00%
+0.52%
+
+
+Applications of Computer Vision
+23%
+5.01%
+3.39%
+4.46%
+
+
+Motion and Tracking
+23%
+7.10%
+10.17%
+5.51%
+
+
+Sensors
+23%
+0.78%
+0.00%
+0.79%
+
+
+Early and Biologically-inspired Vision
+24%
+2.44%
+1.69%
+2.36%
+
+
+Object Detection
+25%
+5.49%
+8.47%
+4.72%
+
+
+Scene Understanding
+26%
+2.80%
+5.08%
+2.36%
+
+
+Medical Image Analysis
+26%
+3.40%
+0.00%
+3.94%
+
+
+Shape Representation and Matching
+28%
+3.82%
+3.39%
+4.20%
+
+
+Vision for Graphics
+29%
+0.42%
+0.00%
+0.52%
+
+
+Image and Video Retrieval
+29%
+4.95%
+8.47%
+4.99%
+
+
+Color and Texture
+29%
+1.43%
+1.69%
+1.57%
+
+
+Stereo and Structure from Motion
+30%
+4.89%
+3.39%
+6.04%
+
+
+Video Surveillance
+31%
+2.15%
+1.69%
+2.62%
+
+
+Segmentation and Grouping
+31%
+6.74%
+5.08%
+8.40%
+
+
+Shape-from-X
+32%
+2.21%
+1.69%
+2.89%
+
+
+Document Analysis
+33%
+0.72%
+1.69%
+0.79%
+
+
+Illumination and Reflectance Modeling
+33%
+1.25%
+1.69%
+1.57%
+
+
+Computational Photography and Video
+34%
+3.46%
+8.47%
+3.94%
+
+
+Object Recognition
+35%
+5.66%
+6.78%
+7.61%
+
+
+Statistical Methods and Learning
+35%
+7.87%
+3.39%
+11.55%
+
+
+Video Analysis and Event Recognition
+35%
+4.89%
+8.47%
+6.30%
+
+
+Optimization Methods
+36%
+2.62%
+6.78%
+3.15%
+
+
+Image-Based Modeling
+38%
+2.03%
+3.39%
+2.89%
+
+
+Withdrawn/Admin Rejects
+0%
+9.30%
+0.00%
+0.00%
+
+
+
+
+
+&amp;nbsp;
+" id="dhtml_menu-132-1">Stats</a></li>
+<li id="menu-157" class="menu-path-node-15"><a href="/reviewing.html" title="Reviewing" id="dhtml_menu-157-1">Reviewing</a></li>
+<li id="menu-133" class="menu-path-node-7"><a href="/submission.html" title="
+	Submission
+" id="dhtml_menu-133-1">Submission</a></li>
+<li id="menu-270" class="menuparent menu-path-node-7"><a href="/submission.html" title="
+" id="dhtml_menu-270-1">Guidelines↓</a><ul><li id="menu-271" class="menu-path-node-7"><a href="/submission.html" title="
+" id="dhtml_menu-271-1">Authors</a></li>
+<li id="menu-272" class="menu-path-node-16"><a href="/reviewer_guidelines.html" title="
+" id="dhtml_menu-272-1" class="active">Reviewers</a></li>
+<li id="menu-273" class="menu-path-node-17"><a href="/ac_guidelines.html" title="
+" id="dhtml_menu-273-1">Area Chairs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-479" class="menuparent menu-path-node-63"><a href="/venue" title="Venue" id="dhtml_menu-479-1">Venue↓</a><ul><li id="menu-433" class="menu-path-node-45"><a href="/hotel" title="" id="dhtml_menu-433-1">Hotel</a></li>
+<li id="menu-425" class="menu-path-node-46"><a href="/Areainfo" title="" id="dhtml_menu-425-1">Area Info</a></li>
+</ul>
+</li>
+<li id="menu-501" class="menu-path-search"><a href="/search" title="Search the CVPR11 site, including jobs!" id="dhtml_menu-501-1">Search</a></li>
+</ul>
+    </div>
+    
+
+  <!-- end #header -->
+    <!-- start #wrap -->
+    <div id="wrap">
+        <!-- start #content -->
+        <div id="content"> 
+      
+                                
+            
+            		                <h2>reviewer_guidelines</h2>
+				               <div class="breadcrumb"><div class="breadcrumb"><a href="/">Home</a></div></div>            
+                                                <div class="node">
+  
+    
+  
+     <div class="submitted">
+     </div> 
+  
+  <div class="content">
+    <h1>
+	<strong><a name="ReviewerGuidelines"></a>Reviewer Guidelines</strong></h1>
+<p>
+	<br />
+	Thank you for agreeing to review a paper for IEEE CVPR 2011. Your reviews have a direct and important impact on the quality of an important conference in computer vision. Your reviews also help the computer vision community as a whole to improve the quality of its research. Please read through the rest of this document that provides details on what is expected of you as a member of the Papers Reviewing Committee for CVPR 2011.</p>
+<h2>
+	<strong>Timely Reviews</strong></h2>
+<p>
+	Based on the published schedule you will have almost a month and half to do your reviews; please do not leave them for the last few days near the deadline. The Area Chairs have a lot of work to do after the reviews are in. Adhering to this deadline is extremely important. As soon as you get your reviewing assignment, please go through all the papers to make sure that (a) there is NO obvious conflict with you (eg., a paper authored by your recent collaborator from a different institution) and (b) you are qualified to review the paper assigned. If these issues arise, please respond right away using the system. Contact us also if you find a paper that violates any of the paper submission guidelines. We will once again be offering an author rebuttal process this year preceding the Area Chair Committee meeting. Area Chairs will also follow up with you to get clarifications on reviews and as needed, seek consensus on diverging reviews.</p>
+<h2>
+	<strong>What to Look For</strong></h2>
+<p>
+	Look for what&#39;s good or stimulating in the paper. Minor flaws can be corrected and shouldn&#39;t be a reason to reject a paper. Each paper that is accepted should, however, be technically sound and make a substantial contribution to the field. Please familiarize yourself with the information in the Call for Submissions.<br />
+	Blind Reviews<br />
+	Blind reviewing is an essential part of CVPR reviewing. Authors were asked to take reasonable efforts to hide their identities, including not listing their names or affiliations and omitting acknowledgments. This information will of course be included in the published version. Reviewers should also make all efforts to keep their identity invisible to the authors. Don&#39;t say, &quot;you should have cited my paper from 2006!&quot;</p>
+<h2>
+	<strong>Be Specific</strong></h2>
+<p>
+	Please be specific and detailed in your reviews. In the discussion of related work and references, simply saying &quot;this is well known&quot; or &quot;this has been common practice in the industry for years&quot; is not sufficient: cite specific publications or public disclosures of techniques! The Explanation section is easily the most important of the review. Your discussion, sometimes more than your score, will help the Area Chairs decide which papers to accept, so please be thorough. Your reviews will be returned to the authors, so you should include any specific feedback on ways the authors can improve their papers. For more suggestions on writing your reviews, read the section below on Writing Technical Reviews.</p>
+<h2>
+	<strong>When You&#39;re Done</strong></h2>
+<p>
+	When you have finished with your review, you should destroy any paper manuscript and/or supporting material you received. See the Ethics guidelines below.</p>
+<h2>
+	<strong>Writing Technical Reviews</strong></h2>
+<p>
+	Here are some recommendations that may help you as you do this very valuable task. In many professions, people give back to their community by doing volunteer work. In technical fields, we volunteer our time by reviewing papers that are written by other researchers in our field. We recommend that you approach your reviews in this spirit of volunteerism. Sure, your reviews make you a gatekeeper in helping decide which papers are ready for publication. Just as important, however, is to provide feedback to the authors so that they may improve their work. Try to write your review in a way that the authors can benefit from your review. We suggest reading a paper and then thinking about it over the course of several days before you write your review. &quot;Living&quot; with a paper for a few days gives you time to make thoughtful decisions about it. This is the best way to come up with helpful suggestions for improving the paper. To do this, you need to carve out some time in your day to think about the paper that you are reviewing. The tone of your review is important. A harshly written review will be disregarded by the authors, regardless of whether your criticisms are true. If you take care, it is always possible to word your review diplomatically while staying true to your thoughts about the paper. Put yourself in the mindset of writing to someone you wish to help, such as a respected colleague who wants your opinion on a concept or a project. Here are some specific issues to keep in mind as you write your reviews:&nbsp;</p>
+<ul>
+<li>
+		Short reviews are unhelpful to the authors and to other reviewers. If you have agreed to review a paper, you should take enough time to write a thoughtful and detailed review.&nbsp;&nbsp;&nbsp;</li>
+<li>
+		Be specific when you suggest that the writing needs to be improved. If there is a particular section that is unclear, point it out and give suggestions for how it can be clarified.</li>
+<li>
+		Don&#39;t give away your identity by asking the authors to cite several of your own papers.&nbsp;&nbsp;&nbsp;</li>
+<li>
+		Don&#39;t just suggest your past work as possible citations, as it becomes obvious that you are asking for citations to your own work. This results in the authors just ignoring your review as that of someone who is interested in getting more cites to their own work.&nbsp;&nbsp;&nbsp;</li>
+<li>
+		If you don&#39;t think the paper is right for the CVPR program, suggest other publication possibilities (journals, conferences, workshops) that would be a better match for the paper.</li>
+<li>
+		Avoid referring to the authors by using the phrase &quot;you&quot; or &quot;the authors.&quot; These phrases should be replaced by &quot;the paper.&quot; Directly talking about the authors can be perceived as being confrontational, even though you do not mean it this way.</li>
+</ul>
+<p>
+	Be generous about giving the authors new ideas for how they can improve their work. Your suggestions may be very specific (for example, &quot;this numerical solver would be better for your application&quot;) or may be more general in nature. You might suggest a new dataset that could be tried, or a new application area that might benefit from their tool. You may tell them how their idea can be generalized beyond what they have already considered. A thoughtful review not only benefits the authors, but may well benefit you, too. Remember that your reviews are read by other reviewers and especially the Area Chairs, in addition to the authors. Being a helpful reviewer will generate good will toward you in the research community.</p>
+<h2>
+	<strong>Ethics for Reviewing Papers</strong></h2>
+<h2>
+	<strong><a name="ReviewingEthics"></a>1. Protect Ideas</strong></h2>
+<p>
+	As a reviewer for CVPR, you have the responsibility to protect the confidentiality of the ideas represented in the papers you review. CVPR submissions are not published documents. The work is considered new or proprietary by the authors; otherwise they would not have submitted it. Of course, their intent is to ultimately publish to the world, but most of the submitted papers will not appear in the CVPR proceedings. Thus, it is likely that the paper you have in your hands will be refined further and submitted to some other journal or conference, or even to CVPR next year. Sometimes the work is still considered confidential by the author&#39;s employers. These organizations do not consider sending a paper to CVPR for review to constitute a public disclosure. Protection of the ideas in the papers you receive means:</p>
+<ul>
+<li>
+		Do not show the paper to anyone else, including colleagues or students, unless you have asked them to write a review, or to help with your review.</li>
+<li>
+		Do not show any results or videos/images or any of the supplementary material to non-reviewers.</li>
+<li>
+		Do not use ideas from papers you review to develop new ones.</li>
+<li>
+		After the review process, destroy all copies of papers and videos that are not returned to the senior reviewer and erase any implementations you have written to evaluate the ideas in the papers, as well as any results of those implementations.</li>
+</ul>
+<h2>
+	<strong><a name="ConflictOfInterest"></a>2. Avoid Conflict of Interest</strong></h2>
+<p>
+	As a reviewer of a CVPR paper, you have a certain power over the reviewing process. It is important for you to avoid any conflict of interest. Even though you would, of course, act impartially on any paper, there should be absolutely no question about the impartiality of review. Thus, if you are assigned a paper where your review would create a possible conflict of interest, you should return the paper and not submit a review. Conflicts of interest include (but are not limited to) situations in which:</p>
+<ul>
+<li>
+		You work at the same institution as one of the authors.</li>
+<li>
+		You have been directly involved in the work and will be receiving credit in some way. If you&#39;re a member of the author&#39;s thesis committee, and the paper is about his or her thesis work, then you were involved.&nbsp;&nbsp;&nbsp;</li>
+<li>
+		You suspect that others might see a conflict of interest in your involvement. For example, even though Microsoft Research in Seattle and Beijing are in some ways more distant than Berkeley and MIT, there is likely to be a perception that they are &quot;both Microsoft,&quot; so folks from one should not review papers from the other.&nbsp;&nbsp;&nbsp;</li>
+<li>
+		You have collaborated with one of the authors in the past three years (more or less). Collaboration is usually defined as having written a paper or grant proposal together, although you should use your judgment.&nbsp;&nbsp;&nbsp;</li>
+<li>
+		You were the MS/PhD advisor of one of the authors or the MS/PhD advisee of one of the authors. Funding agencies typically consider advisees to represent a lifetime conflict of interest. CVPR has traditionally been more flexible than this, but you should think carefully before reviewing a paper you know to be written by a former advisee.</li>
+</ul>
+<p>
+	The blind reviewing process will help hide the authorship of many papers, and senior reviewers will try hard to avoid conflicts. But if you recognize the work or the author and feel it could present a conflict of interest, send the paper back to the Area Chair as soon as possible so he or she can find someone else to review it.</p>
+<h2>
+	<strong>3. Be Serious</strong></h2>
+<p>
+	The paper publishing business in CVPR is very serious indeed: careers and reputations hinge on publishing in the proceedings, academic tenure decisions are based on the proceedings, and patent infringement cases have discussed whether something was considered novel enough to publish in the proceedings. This does not mean that we cannot have any fun in the paper sessions. But it does mean that we have a responsibility to be serious in the reviewing process. You should make an effort to do a good review. This is obvious. But one of the complaints we have heard about the CVPR review process is that some reviews can be so sketchy that it looks like the reviewer did not even seem to take the time to read the paper carefully. A casual or flippant review of a paper that the author has seriously submitted is not appropriate. In the long run, casual reviewing is a most damaging attack on the CVPR conference. There is no dishonor in being too busy to do a good review, or to realize that you have over-committed yourself and cannot review all the papers you agreed to review. But it is a big mistake to take on too much, and then not back out early enough to allow recovery. If you cannot do a decent job, give the paper back and say so. But please, do it early so that the the Area Chairs and Program Chairs have time to select another reviewer before the deadline.</p>
+<h2>
+	<strong>4. Be Professional</strong></h2>
+<p>
+	Belittling or sarcastic comments may help display one&#39;s wit, but they are unnecessary in the reviewing process. The most valuable comments in a review are those that help the authors understand the shortcomings of their work and how they might improve it. If you intensely dislike a paper, justify it constructively and still provide feedback to the authors. If you give a paper a low score, it is essential that you justify the reason for the score in detail. Just saying &quot;I do not like this approach because I have 10+ years of experience in this area&quot; is NOT constructive. You need to share your professional opinion. Do not just cite your own past work, it may be relevant, but it can seem as if you just want more cites to your own work and may result in the authors just ignoring your review (and maybe the Area Chair too!).</p>
+<h2>
+	<strong>5. In Summary</strong></h2>
+<p>
+	Adherence to ethics makes the whole reviewing process more complicated and sometimes less efficient. But convenience, efficiency, and expediency are not good reasons to contravene ethics. It is precisely at those times when it would be easier or more efficient to bend the rules that it is most important to do the right thing. Ultimately, spending that energy and time is an investment in the long-term health of the technical-paper sessions, the conference, and the community of computer vision researchers.</p>
+<p>
+	<strong>Based on Specific Documents Created for SIGGRAPH 2008 by Greg Turk (used here with permission). UPDATED and Modified by Irfan Essa.</strong></p>
+<ul>
+<li>
+		<a href="http://www.siggraph.org/s2008/submissions/juried/papers/instructions.php" title="http://www.siggraph.org/s2008/submissions/juried/papers/instructions.php">http://www.siggraph.org/s2008/submissions/juried/papers/instructions.php</a></li>
+<li>
+		<a href="http://www.siggraph.org/s2008/submissions/juried/papers/review_writing.php" title="http://www.siggraph.org/s2008/submissions/juried/papers/review_writing.php">http://www.siggraph.org/s2008/submissions/juried/papers/review_writing.php</a></li>
+<li>
+		<a href="http://www.siggraph.org/s2008/submissions/juried/papers/ethics.php" title="http://www.siggraph.org/s2008/submissions/juried/papers/ethics.php">http://www.siggraph.org/s2008/submissions/juried/papers/ethics.php</a></li>
+</ul>
+<p>
+	A few other sources of reviewer guidelines from ACM and IEEE were also considered.</p>
+<h1>
+	<strong><a name="Instructions"></a>Reviewer Instructions</strong></h1>
+<p>
+	We would like to thank you for agreeing to review for CVPR2011. Please read the following instructions about how to review papers using the CVPR2011 submission and reviewer system. In addition, please see the <a href="#ReviewerGuidelines">Reviewer Guidelines</a> and <a href="#FAQs">FAQs</a>.</p>
+<ul>
+<li>
+		The submission/review site is <a href="https://cmt.research.microsoft.com/CVPR2011/" title="https://cmt.research.microsoft.com/CVPR2011/">https://cmt.research.microsoft.com/CVPR2011/</a> (bookmark or save this URL!)&nbsp;&nbsp;&nbsp;</li>
+<li>
+		Please make sure that your browser has cookies and Javascript enabled.</li>
+<li>
+		Please add &quot;cmt@microsoft.com&quot; to your list of safe senders to prevent important email announcements from being blocked by spam filters.</li>
+<li>
+		Do not create a new account! You will have the opportunity to change your contact email/account name after you log in using the email address we used to contact you.</li>
+</ul>
+<h2>
+	<strong>Important things to remember:</strong></h2>
+<ol>
+<li>
+		If you have forgotten your password, go to the main page, click &quot;Reset Your Password&quot; and follow instructions to get a password sent to the email address we used to contact you.</li>
+<li>
+		Log in and go to &quot;Edit Contact Information&quot; (item near the top right in the submission site). Don&#39;t forget to click the &quot;Update&quot; button to save the edited information. If you wish to change the contact email address (and hence account name), you can modify it via the &quot;Change your Email&quot; box.</li>
+<li>
+		Click on &quot;Reviewer&quot; link. When in doubt, click on this &quot;Reviewer&quot; link, as it always brings you to the reviewer console.</li>
+<li>
+		Please enter the following information in order (see pink bar): conflict domain, reviewer type, subject areas. Note that when specifying subject areas, you indicate only one &quot;primary&quot; subject area and any number of &quot;secondary&quot; subject areas. Please pay extra attention in selecting your subject areas, as this information is critical in allowing us to properly assign papers to you. Caution: you cannot pick the &quot;primary&quot; subject area as a &quot;secondary&quot; subject area; if you do this, the system will not allow you to save. For example, if you had picked &quot;Face and Gesture&quot; as the &quot;primary&quot; area, you cannot pick &quot;Face and Gesture&quot; as a &quot;secondary&quot; area.</li>
+<li>
+		Please read all instructions carefully. Note that edited information is not saved until you click the &quot;Save Changes&quot; or &quot;Update&quot; button.</li>
+<li>
+		<strong>If you do not enter your conflict domain, reviewer type, and subject areas by the sign-up deadline, you will be removed as a reviewer.</strong></li>
+</ol>
+<h2>
+	<strong>Discussions with Area Chairs via a NEW bulletin board:</strong></h2>
+<p>
+	In our invitation, we mentioned that we expect reviewers to work with area chairs to clear up confusions and reach consensus on papers. This new site has an electronic bulletin board feature that allows area chairs to contact reviewers anonymously. Once the area chair posts a note, reviewers will be notified and asked to log in to see the post and respond. The identities of the reviewers will be hidden from each other.</p>
+<h2>
+	<strong>Once you&#39;ve been notified that the papers have been assigned to you, please log in to the site and follow these steps:</strong></h2>
+<p>
+	1. &nbsp;&nbsp; &nbsp;<strong>Download papers and check for possible conflict or submission rule violation:</strong></p>
+<ul>
+<li>
+		Click on &quot;Paper Reviews and Discussions&quot;.</li>
+<li>
+		In the &quot;Paper Reviews and Discussions&quot; page, click on &quot;Download Assigned Papers&quot;. This allows you to download a zip file containing all the papers plus supplementary files (if available).</li>
+<li>
+		<strong>Contact the Program Chairs immediately</strong> (<a href="mailto:cvpr2011@epfl.ch">cvpr2011@epfl.ch</a>) <strong>if:</strong></li>
+</ul>
+<ol>
+<li class="rteindent1">
+		You think you are in any way conflicted with the paper.</li>
+<li class="rteindent1">
+		There is a violation of the stated paper submission rules.<br />
+		Such a violation includes:</li>
+</ol>
+<ul class="rteindent1 rteindent2">
+<li>
+		Not anonymous (names listed on front page),</li>
+<li>
+		Over 8 pages,</li>
+<li>
+		Is double submission,</li>
+<li>
+		Supplementary material includes newer version of the paper.</li>
+</ul>
+<p class="rteindent1">
+	<strong>Please specify the exact nature of the violation.</strong><br />
+	For your reference, the paper submission guidelines can be found here.</p>
+<h2>
+	<strong>2. &nbsp;&nbsp; &nbsp;Familiarize yourself with the &quot;Paper Reviews and Discussions&quot; page:</strong></h2>
+<ul>
+<li>
+		<strong>Please ignore all references to &quot;bids&quot; (these references will be removed).</strong></li>
+<li>
+		&quot;Paper Summary&quot; label: next to it, you&#39;ll see the icons &quot;+&quot; and &quot;-&quot;. Clicking on &quot;+&quot; shows you all the abstracts; clicking on &quot;-&quot; collapses all them back.</li>
+<li>
+		At the end of each paper title, you&#39;ll see &quot;+&quot; as well. This has the same function of showing the abstract for that paper, toggling to &quot;-&quot; at the same time, which collapses it when selected.</li>
+<li>
+		Please take the time to familiarize yourself with the table entries; clicking on any of the column heading (e.g., &quot;Paper ID&quot; or &quot;Rank&quot;) sorts according to its description.</li>
+</ul>
+<h2>
+	<strong>3. &nbsp;&nbsp; &nbsp;Review papers:</strong></h2>
+<ul>
+<li>
+		For a paper, under the review column, click &quot;Add&quot; (to the right of the &quot;Review&quot; line) to review. Please read instructions <strong>carefully</strong>. Please see the <a href="#ReviewerGuidelines">Reviewer Guidelines</a> AND take each review seriously. Authors are counting on you for a fair and thorough review.</li>
+<li>
+		Currently, CMT does not allow users to type certain characters into a text box that could be interpreted as html tags (for example, &quot;y&lt;x&quot;) or a malicious script. As a workaround, introducing spaces between these characters (for example, &quot;y &lt; x&quot;) will allow you to submit the text since this can no longer be interpreted as an html tag.</li>
+<li>
+		If you save your review as a draft, it is visible only to you. You can access your draft review form by clicking on the same &quot;Add&quot; link. To make the review visible to the area chair, click on the &quot;Submit&quot; button in the review form. &quot;Submit&quot; won&#39;t work if any of the required items is not filled.</li>
+</ul>
+<h2>
+	<strong><a name="Offline"></a>4. &nbsp;&nbsp; &nbsp;(Optional) Review papers offline:</strong></h2>
+<ul>
+<li>
+		You have two options to access the &quot;Offline Reviewing&quot; page: (1) In the &quot;Paper Reviews and Discussions&quot; page, click on &quot;Review papers offline&quot; link near the top of the page, or (2) In the &quot;View/Edit Review&quot; page, click on &quot;offline reviewing&quot; link.</li>
+<li>
+		In the &quot;Offline Reviewing&quot; page, you can download one review template file for a single paper, several papers, or all the papers. We suggest that you download a review template file for each paper to avoid confusion.</li>
+<li>
+		Please read instructions on how to modify the file to incorporate your responses. Note that you must not add certain characters in your responses that could be interpreted as html tags or a malicious script. See item 3 above.</li>
+<li>
+		You can upload the completed file using the &quot;Upload&quot; interface at the bottom of the page. The new uploaded version will (destructively) overwrite the current review.</li>
+<li>
+		We suggest that you try downloading a review template file for one paper, enter test responses, and upload to get a sense of how it works.</li>
+<li>
+		You should always verify the review after uploading (by inspecting it online).</li>
+<li>
+		We suggest that you use an XML editor to edit the file, for example: <a href="http://free.editix.com/download.html">EditiX</a> (Windows, Unix/Linux, Mac OS X) or <a href="http://www.microsoft.com/downloads/details.aspx?familyid=72d6aa49-787d-4118-ba5f-4f30fe913628&amp;displaylang=en">XML Notepad 2007</a> (Windows only). (Remember to edit only fields currently filled with the phrase &quot;REPLACE THIS WITH YOUR ANSWER&quot;.)</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<h2>
+	<strong>5. &nbsp;&nbsp; &nbsp;(Optional, for originally assigned reviewer ONLY) Assign external reviewer:</strong></h2>
+<ul>
+<li>
+		This feature is to be used <strong>sparingly</strong>. Use it only when you know someone else who is substantially more qualified than you in reviewing the paper and that he/she is willing to review the paper. <strong>You are ultimately responsible for the timeliness and quality of the review. You will hear from us if you use this feature for many of the papers assigned to you.</strong></li>
+<li>
+		In the &quot;Papers Reviews and Discussion&quot; page, you are given the option to assign an external reviewer for any paper. Under the &quot;Review&quot; column, click &quot;Assign&quot; to the right of &quot;External Reviewer&quot;.</li>
+<li>
+		Follow the instructions. You will be asked to supply the email address of the external reviewer. This email address will be the account of this external reviewer. <strong>IMPORTANT</strong>: Check with this external reviewer if he/she already has a CMT account; if so, make sure you use the <strong>exact</strong> email address associated with this account. Otherwise, you will be unnecessarily creating a new account for this person, resulting in unnecessary delays.</li>
+<li>
+		Ask the external reviewer to log in to the CMT site (<span style="color: rgb(255, 0, 0);"><strong>https://cmt.research.microsoft.com/CVPR2011</strong></span>) using the instructions in this page (<span style="color: rgb(255, 0, 0);"><strong>http://www.cvpr2011.org/reviewer_guidelines.html</strong></span>).</li>
+<li>
+		The review will be shared between the original and external reviewers; both can see and update the same review.</li>
+<li>
+		Later, if the area chair requests for a discussion, only the area chair, you, and the other originally assigned reviewers will be able to access the discussion page. External reviewers will not be able to participate.</li>
+</ul>
+<h2>
+	<strong>6. &nbsp;&nbsp; &nbsp;Rank papers:</strong></h2>
+<ul>
+<li>
+		Once you&#39;ve reviewed the papers, you can rank them (the first being the best in your batch). In the &quot;Paper Reviews and Discussions&quot; page, click on &quot;Edit Ranks&quot; near the top of the page.</li>
+<li>
+		In the &quot;Edit Paper Ranks&quot; page, click on the &quot;Start Ranking&quot; link for the papers.</li>
+<li>
+		Use the &quot;Move Up&quot; and &quot;Move Down&quot; to adjust the ranks.</li>
+<li>
+		Remember to click on the &quot;Save Changes&quot; button.</li>
+</ul>
+<h2>
+	<strong><a name="ReviewDiscussions"></a>7. &nbsp;&nbsp; &nbsp;(For originally assigned reviewer ONLY) Discuss reviews between review deadline:</strong></h2>
+<ul>
+<li>
+		&nbsp; You can view the other reviews for your papers through the &quot;View Paper Statuses and Reviewing Data for Papers Assigned to Me&quot; link in the &quot;Reviewer&quot; console.</li>
+<li>
+		If the area chair decides to initiate a discussion associated with a paper, he/she will make a post for that paper, and all the reviewers will receive an email from CMT. <strong>Please do not respond to this email</strong> as such an email is not monitored. The email will have a heading like &quot;CVPR2011: New reviewer discussion posted for Paper ID XXX&quot;. There is a link in the email you can use to join the discussion (after logging in, you will be routed directly to the discussion page).</li>
+<li>
+		Alternatively, you can log in to <a href="https://cmt.research.microsoft.com/CVPR2011/">CMT</a>, and in the &quot;Reviewer&quot; console, select &quot;Paper Reviews and Discussions&quot;. Then click on &quot;View/Post Message&quot; (in &quot;Discussion | Author Feedback&quot; column) for the paper being discussed.</li>
+<li>
+		To see all three (anonymized) reviews, click on &quot;View All&quot; in the &quot;Review&quot; column in the &quot;Paper Reviews and Discussions&quot; page. Please note which reviewer you are. (Alternatively, you can select &quot;View Paper Statuses and Reviewing Data for Papers Assigned to Me&quot; link in the &quot;Reviewer&quot; console.)</li>
+<li>
+		In your post (created via &quot;Reply&quot; in the &quot;Paper Discussion&quot; page), please identify yourself as &quot;Reviewer X&quot;, where &quot;X&quot; is the review with which you&#39;re associated. <strong>Do not identify yourself by name.</strong> Once you&#39;ve posted, the area chair and all reviewers for that paper will receive a similar notification email from CMT.</li>
+<li>
+		Please conduct the discussion in a professional manner. Be aware that while the other reviewers do not know who you are, the AC (for the paper being discussed) does.</li>
+<li>
+		If you gave a &quot;Borderline&quot; rating and at least one other reviewer also gave a &quot;Borderline&quot; rating: It would help the AC if you say you&#39;re closer to accepting or rejecting the paper (based on the discussion), and then make the change to your review accordingly.</li>
+<li>
+		After you&#39;ve posted, <strong>DO NOT REFRESH PAGE</strong> (e.g., by hitting F5)! This will generate another post with the exact same message!</li>
+<li>
+		You will be given the opportunity to revise your reviews as a result of the discussions until the deadline. To be fair to authors, after this deadline, all reviews will be frozen.</li>
+<li>
+		Because of the frank nature of the discussions, the authors will not see them at any time.</li>
+</ul>
+<h2>
+	<strong>8. &nbsp;&nbsp; &nbsp;(For originally assigned reviewer ONLY) Discuss author rebuttals after author rebuttal deadline:</strong></h2>
+<ul>
+<li>
+		Once the author rebuttal period is over, you will be able to see the author rebuttal (but not before). We will be enabling discussions for a week past the rebuttal deadline. The ACs, at their discretion, may initiate another round of discussions to get your reactions to the author rebuttals.</li>
+<li>
+		Again, because of the frank nature of the discussions, the authors will not see these discussions at any time.</li>
+<li>
+		Note that at this point, your reviews are frozen and you will not be able to make any more changes to your review - we will not respond to emails regarding this matter.</li>
+</ul>
+<h2>
+	<strong>Finally</strong></h2>
+<p>
+	If you encounter any problems, please email the Program Chairs (<a href="mailto:cvpr11-pc-chairs@googlegroups.com">cvpr2011@epfl.ch</a>).</p>
+<h1>
+	<strong><a name="FAQs"></a>Reviewer FAQs</strong></h1>
+<ul>
+<li>
+		<u>What is the first thing I should do after the papers are assigned to me?</u><br />
+		Go through the assigned papers quickly to check on two things. (1) Confirm that there is NO obvious CONFLICT of INTEREST with this paper, and (2) check if this paper is REALLY OUTSIDE your range of expertise (remember, we are matching to subject areas you told us about). In either case, please contact the Program Chairs for reassignment.</li>
+<li>
+		<u>Is there another review form format available for easier editing?</u><br />
+		<strong>No.</strong> The review format was designed to make parsing unambiguous. We recommend saving one file for each paper being reviewed. In the file, simply replace with &quot;Response to comment question.&quot;</li>
+<li>
+		<u>The text file for offline reviewing seems complicated and hard to edit. Is there a simpler way to edit the file?</u><br />
+		<strong>Yes</strong>. Since the format is XML, we strongly suggest that you use an XML editor to do the editing. Examples of easy-to-use XML editors include <a href="http://free.editix.com/download.html">EditiX</a> (Windows, Unix/Linux, Mac OS X) and <a href="http://www.microsoft.com/downloads/details.aspx?familyid=72d6aa49-787d-4118-ba5f-4f30fe913628&amp;displaylang=en">XML Notepad 2007</a> (Windows only). See the <a href="#Offline">offline review instructions</a> for additional details. Remember to edit only fields currently filled with the phrase &quot;REPLACE THIS WITH YOUR ANSWER&quot;.</li>
+<li>
+		<u>Would you explain to me the point of box #5 in the review form? The blurb just before it seems to refer to question #4?</u><br />
+		Questions #4 and #5 are standard questions for CVPR. This allows the reviewer to indicate confidence in the reviewing the paper. Questions #4 and #5 will NOT be seen by the authors, only the area chairs. This allows the area chairs to &quot;weight&quot; the reviews.For example, you may indicate in #4 &quot;Very Confident&quot; and qualify it in #5 by saying that &quot;I&#39;ve worked in the area for 12 years and am very familiar with the literature.&quot; The area chair will then very likely listen to you much more than someone else who indicated &quot;Confident&quot; and said that &quot;I have worked on this area for the past 3 years and am somewhat familiar with the literature.&quot; #5 allows the reviewer to explain why the item in #4 was chosen (since the degree of confidence is rather subjective).</li>
+</ul>
+  </div>
+  
+  </div>        </div>
+        <!-- end #content -->
+        <!-- start #sidebar -->
+        <div id="sidebar">
+                            <div id="block-menu-primary-links" class="block block-menu">
+  <h2>Navigation</h2>
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first dhtml-menu "><a href="/index.html" title="" id="dhtml_menu-445">Home</a></li>
+<li class="leaf  dhtml-menu "><a href="/people" title="" id="dhtml_menu-446">People</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/program" title="Program" id="dhtml_menu-151">Program</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/tuesdayorals" title="Tuesday Oral Sessions" id="dhtml_menu-504">Tuesday Orals</a></li>
+<li class="leaf  dhtml-menu "><a href="/tuesposters" title="Tuesday Posters" id="dhtml_menu-505">Tuesday Posters</a></li>
+<li class="leaf  dhtml-menu "><a href="/wednesdayorals" title="Wednesday Orals" id="dhtml_menu-506">Wednesday Orals</a></li>
+<li class="leaf  dhtml-menu "><a href="/wedposters" title="Wedneday Posters" id="dhtml_menu-507">Wednesday Posters</a></li>
+<li class="leaf  dhtml-menu "><a href="/thursdayorals" title="Thursday Orals" id="dhtml_menu-509">Thursday Orals</a></li>
+<li class="leaf last dhtml-menu "><a href="/thuposters" title="Thursday Posters" id="dhtml_menu-508">Thursday Posters</a></li>
+</ul></li>
+<li class="leaf  dhtml-menu "><a href="/registration" title="Registration" id="dhtml_menu-155">Registration</a></li>
+<li class="leaf  dhtml-menu "><a href="/corporatedonor" title="Corporate Donors" id="dhtml_menu-457">Donors</a></li>
+<li class="leaf  dhtml-menu "><a href="/jobs" title="Jobs" id="dhtml_menu-175">Jobs</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/associatedevents" title="" id="dhtml_menu-150">Extra Events ↓</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/workshops" title="
+	Call for Workshops
+" id="dhtml_menu-146">Workshops</a></li>
+<li class="leaf  dhtml-menu "><a href="/tutorials" title="Tutorials" id="dhtml_menu-152">Tutorials</a></li>
+<li class="leaf  dhtml-menu "><a href="/demos" title="Demos" id="dhtml_menu-481">Demos</a></li>
+<li class="leaf  dhtml-menu "><a href="/DoctoralConsortium" title="Doctoral Consortium" id="dhtml_menu-480">Doctoral Consortium</a></li>
+<li class="leaf  dhtml-menu "><a href="/exhibitors" title="Exhibitors" id="dhtml_menu-456">Exhibits</a></li>
+<li class="leaf last dhtml-menu "><a href="/studentvolunteers" title="studentvolunteers" id="dhtml_menu-511">Volunteers</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  active-trail"><a href="/camera" title=" Pages related to Papers
+" id="dhtml_menu-143">Authors↓</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/videos" title="Video/Web Proceedings" id="dhtml_menu-512">Video/Web Proceedings</a></li>
+<li class="leaf  dhtml-menu "><a href="/posterinstructions" title="Poster Instructions" id="dhtml_menu-510">PresenterInstructions</a></li>
+<li class="leaf  dhtml-menu "><a href="/camera" title="CVPR Camera Ready and page Numbering Instructions" id="dhtml_menu-502">Camera Ready Copies</a></li>
+<li class="leaf  dhtml-menu "><a href="/statistics" title="&amp;nbsp;
+Decisions have been announced. &amp;nbsp;In what may be a new record for CVPR, announcements of papers were on their way being emailed within an hour of the close of the AC meeting. (Just enough time for the PCs to do a few sanity checks to make sure nothing was missing). &amp;nbsp;The PC Chairs and ACs did a phenomenal job in processing this 1600+ papers in a fair and efficient manner. The reviewers did a great job before the meeting. Thanks to all!&amp;nbsp;
+&amp;nbsp;
+At the end of the AC meeting, there were 59 papers (3.5%) accepted for orals and 379 (22.5%)accepted as posters, for an overall acceptance rate of 26.4% &amp;nbsp;where Percentages are computed &amp;nbsp;using the 1677 papers that entered the review process. In addition to the acceptances, there were 1052 formal rejections via the AC decisions, while 187 papers were rejected for administrative reasons e.g. dual submissions) or were withdrawn by the authors after reviewing. &amp;nbsp; (These 1677 papers are in addition to the 353 &quot;submissions&quot; deleted by the administrator or by authors before reviewing began, taking the total CVPR paper entries to 2020.)
+&amp;nbsp;
+For those interested, here are some statistics below. &amp;nbsp;As the General Chair, who was also involved as running an AC panel, Terry would point out that none of the statistics below were computed or considered during the process. &amp;nbsp;The PCs worked very hard to ensure a fair and unbiased process so we did not look at stats like these until it was all over. &amp;nbsp;There were no quotas or limits implied or imposed for oral and/or posters. &amp;nbsp;Here is a quick summary of the process. The AC panels of 10 or more experts were told to use their best judgment on what was of sufficient quality to accept. if they said accept, it was accepted. &amp;nbsp;If the group said oral, it was oral. &amp;nbsp;Most papers with a wide spread were discussed with the reviewers (2029 total discussions!) then by multiple ACs before an accept/reject decision was reached. &amp;nbsp;Discussions after rebuttal are not visible to authors but important in decision making, often resolving discrepancies between reviews. If you see comments about reviewers changing their &quot;scores&quot;, that is almost always why, they read/discuss it with the other reviewers. &amp;nbsp;To anyone that might feel there was a bias against an area or person, the committees were running in parallel and did not have information on totals let alone subtotals. &amp;nbsp;We were all too busy making sure all papers were handled and double checking decisions matched the consensus reports to worry about subareas or stats. The reviewing was blind, the AC discussions and decisions were blind and then reviewed to make sure the process was followed. &amp;nbsp;
+
+The following table shows additional stats showing the per-area acceptance rate and also the percentage of submissions/orals and posters for that area compared to the overall CVPR2011 pool.
+
+       
+
+
+Primary Subject Area
+Area Acceptance Rate
+% of all CVPR11 Submissions
+% of all CVPR11 orals
+% of all CVPR11 Posters
+
+
+Vision for Robotics
+16%
+1.13%
+0.00%
+0.79%
+
+
+Human Identification
+17%
+1.07%
+1.69%
+0.52%
+
+
+Face and Gesture Analysis
+21%
+5.84%
+3.39%
+4.99%
+
+
+Performance Evaluation
+22%
+0.54%
+0.00%
+0.52%
+
+
+Applications of Computer Vision
+23%
+5.01%
+3.39%
+4.46%
+
+
+Motion and Tracking
+23%
+7.10%
+10.17%
+5.51%
+
+
+Sensors
+23%
+0.78%
+0.00%
+0.79%
+
+
+Early and Biologically-inspired Vision
+24%
+2.44%
+1.69%
+2.36%
+
+
+Object Detection
+25%
+5.49%
+8.47%
+4.72%
+
+
+Scene Understanding
+26%
+2.80%
+5.08%
+2.36%
+
+
+Medical Image Analysis
+26%
+3.40%
+0.00%
+3.94%
+
+
+Shape Representation and Matching
+28%
+3.82%
+3.39%
+4.20%
+
+
+Vision for Graphics
+29%
+0.42%
+0.00%
+0.52%
+
+
+Image and Video Retrieval
+29%
+4.95%
+8.47%
+4.99%
+
+
+Color and Texture
+29%
+1.43%
+1.69%
+1.57%
+
+
+Stereo and Structure from Motion
+30%
+4.89%
+3.39%
+6.04%
+
+
+Video Surveillance
+31%
+2.15%
+1.69%
+2.62%
+
+
+Segmentation and Grouping
+31%
+6.74%
+5.08%
+8.40%
+
+
+Shape-from-X
+32%
+2.21%
+1.69%
+2.89%
+
+
+Document Analysis
+33%
+0.72%
+1.69%
+0.79%
+
+
+Illumination and Reflectance Modeling
+33%
+1.25%
+1.69%
+1.57%
+
+
+Computational Photography and Video
+34%
+3.46%
+8.47%
+3.94%
+
+
+Object Recognition
+35%
+5.66%
+6.78%
+7.61%
+
+
+Statistical Methods and Learning
+35%
+7.87%
+3.39%
+11.55%
+
+
+Video Analysis and Event Recognition
+35%
+4.89%
+8.47%
+6.30%
+
+
+Optimization Methods
+36%
+2.62%
+6.78%
+3.15%
+
+
+Image-Based Modeling
+38%
+2.03%
+3.39%
+2.89%
+
+
+Withdrawn/Admin Rejects
+0%
+9.30%
+0.00%
+0.00%
+
+
+
+
+
+&amp;nbsp;
+" id="dhtml_menu-132">Stats</a></li>
+<li class="leaf  dhtml-menu "><a href="/reviewing.html" title="Reviewing" id="dhtml_menu-157">Reviewing</a></li>
+<li class="leaf  dhtml-menu "><a href="/submission.html" title="
+	Submission
+" id="dhtml_menu-133">Submission</a></li>
+<li class="expanded last dhtml-menu  active-trail"><a href="/submission.html" title="
+" id="dhtml_menu-270">Guidelines↓</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/submission.html" title="
+" id="dhtml_menu-271">Authors</a></li>
+<li class="leaf  dhtml-menu  active-trail"><a href="/reviewer_guidelines.html" title="
+" id="dhtml_menu-272" class="active">Reviewers</a></li>
+<li class="leaf last dhtml-menu "><a href="/ac_guidelines.html" title="
+" id="dhtml_menu-273">Area Chairs</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/venue" title="Venue" id="dhtml_menu-479">Venue↓</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/hotel" title="" id="dhtml_menu-433">Hotel</a></li>
+<li class="leaf last dhtml-menu "><a href="/Areainfo" title="" id="dhtml_menu-425">Area Info</a></li>
+</ul></li>
+<li class="leaf last dhtml-menu "><a href="/search" title="Search the CVPR11 site, including jobs!" id="dhtml_menu-501">Search</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-3" class="block block-block">
+  <h2>          Corporate Donors </h2>
+
+  <div class="content">
+    <p style="text-align: center;"><span style="font-size: large;">GOLD&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: large;"><a href="http://research.google.com/"><img src="http://cvl.umiacs.umd.edu/conferences/cvpr2010/images/SponsorGoogle.png" alt="Google" width="149" height="55" style="vertical-align: middle;" /></a></span><span style="font-size: large;"><img src="http://developer.download.nvidia.com/compute/cuda/2_3/toolkit/docs/online/nvidia_logo.jpg" alt="NVIDIA" title="Nvidia" width="60" height="60" style="vertical-align: middle;" /></span></p>
+<p style="text-align: center;"><span style="font-size: large;"><img src="http://cvpr2011.org/sites/default/files/SponsorNSF.png" alt="NSF Logo" width="233" height="45" /></span></p>
+<p style="text-align: center;"><span style="font-size: small;"> </span></p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: large;">SILVER</span></p>
+<p style="text-align: center;"><a href="http://www.utrc.utc.com/visits/IEEE-CVPR2011.html"><img src="http://cvpr2011.org/sites/default/files/utrc_blue_medium_0.gif" alt="UTRC" width="200" height="37" style="vertical-align: middle;" /></a></p>
+<p style="text-align: center;"><a href="http://www.ptgrey.com/" title="Point Grey Website"><img src="http://cvl.umiacs.umd.edu/conferences/cvpr2010/images/SponsorPtGrey.png" alt="PTGrey" title="PtGrey" width="195" height="40" /></a></p>
+<p style="text-align: center;"><img src="http://cvpr2011.org/sites/default/files/springer_link.gif" alt="Springer" width="141" height="40" /></p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: large;">BRONZE</span></p>
+<p style="text-align: center;"><span style="font-size: large;"><a href="http://www.objectvideo.com"><img src="http://cvl.umiacs.umd.edu/conferences/cvpr2010/images/SponsorOV.png" alt="ObjectVideo Logo" width="51" height="45" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="line-height: normal;"><a href="http://www.mobileye.com/"><img src="http://cvpr2011.org/sites/default/files/mobileye-logo_0.jpg" alt="MobilEye" title="MobilEye" width="87" height="40" style="vertical-align: middle;" /></a></span></p>
+<p style="text-align: center;"><span style="line-height: normal;">&nbsp;</span><span style="font-size: large;"><a href="http://www.honeywell.com/"><img src="http://cvpr2011.org/sites/default/files/Honeywell.jpg" width="182" height="35" style="vertical-align: middle;" /></a></span></p>
+<p style="text-align: center;"><span style="font-size: large;"><span style="font-size: 12px; line-height: normal;"> </span></span></p>
+<p style="text-align: center;"><span style="line-height: normal;"><a href="http://research.microsoft.com/en-us/"><img src="http://cvpr2011.org/sites/default/files/logo_msr.png" alt="Microsoft Research" title="Microsoft Research" width="146" height="42" style="vertical-align: middle;" /></a></span><span style="font-size: large; line-height: normal;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: large;"><span style="font-size: 12px; line-height: normal;"><a href="http://www.kitware.com"><img src="http://cvl.umiacs.umd.edu/conferences/cvpr2010/images/SponsorKitware.png" alt="KITWare" title="Kitware" width="107" height="35" style="vertical-align: middle;" /></a></span></span><span style="line-height: normal;"><a href="http://www.merl.com/"><img src="http://cvpr2011.org/sites/default/files/merl-logo.png" alt="Merl" width="105" height="35" style="vertical-align: middle;" /></a></span></p>
+<p style="text-align: center;"><a href="http://www.cognex.com/"><img src="http://cvpr2011.org/sites/default/files/SponsorCognex.png" alt="Cognex" width="135" height="35" style="vertical-align: middle;" /></a></p>
+<p style="text-align: center;"><a href="http://www.cognex.com/"></a><span style="line-height: normal;"><a href="http://www.research.ibm.com/"><img src="http://cvpr2011.org/sites/default/files/SponsorIBM48.png" alt="IBM" width="200" height="25" style="vertical-align: middle;" /></a></span></p>
+<p><span style="line-height: normal;"><br /> </span></p>
+<hr />
+<p style="line-height: 1.8em; margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px;">&nbsp;</p>
+<p>&nbsp;</p>
+<h2 style="text-align: center;"><span style="font-family: 'arial black', 'avant garde'; font-size: large;">Overall Meeting Sponsor</span></h2>
+<p><img src="data:image/jpg;base64,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" alt="IEEE CS" width="240" height="86" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" /><a href="http://innovation.uccs.edu"> <img src="data:image/jpg;base64,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" alt="UCCS" width="238" height="46" style="display: block; margin-left: auto; margin-right: auto;" /> </a></p>
+<p style="text-align: center;"><span style="font-size: medium;"><br /></span></p>
+  </div>
+</div>
+              
+        </div>
+        <!-- end #sidebar -->
+    </div>
+    <!-- end #wrap -->
+    <div class="clear">&nbsp;</div>
+  <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+    <!-- start #footer -->
+  <div id="footer">
+    <p><p>
+	CVPR 2011</p>
+<p>
+	<a href="http://cvpr2011.org/user/">Login</a></p>
+</a></p>
+  </div>
+    <!-- end #footer -->
+</div>
+<!-- end #container -->
+</body>
+</html>
