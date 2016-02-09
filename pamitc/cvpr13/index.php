@@ -66,7 +66,7 @@ In 2013, it was held at the Oregon Convention Center in Portland, Oregon.<br><br
 <tr><td rowspan="2" align="center" valign="middle">
      <a href="http://www.nsf.gov/"><img border="0" alt="National Science Foundation" src="images/sponsors/nsf.png"></a>
 </td><td align="center" valign="middle">
-     <a href="http://www.merl.com/"><img border="0" alt="Mitsubishi Electric" src="images/sponsors/merl2.png"></a>
+     <a href="http://www.merl.com/"><img border="0" alt="Mitsubishi Electric" src="images/sponsors/merl.png"></a>
 </td></tr><tr><td align="center" valign="middle">
      <a href="http://research.google.com/"><img border="0" alt="Google" src="images/sponsors/google.png"></a>
 </td></tr> <tr><td align="center" valign="middle" colspan="2">
