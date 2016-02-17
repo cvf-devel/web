@@ -1,0 +1,212 @@
+[
+  {
+    "tutorial_info": {
+      "title": "Don't Relax: Why Non-Convex Algorithms are Often Needed for Sparse Estimation",
+      "url": "http://research.microsoft.com/en-us/people/davidwip/tutorials.aspx",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "David",
+        "last": "Wipf",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Image and Video Matting",
+      "url": "http://www.alphamatting.com/ICCV2013_tutorial/",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Ehsan",
+        "last": "Shahrian",
+        "url": ""
+      },
+      {
+        "first": "Margrit",
+        "last": "Gelautz",
+        "url": ""
+      },
+      {
+        "first": "Brian",
+        "last": "Price",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Sparsity Estimation and Robust Learning: A Half-quadratic Minimization View",
+      "url": "http://www.cripac.ia.ac.cn/People/rhe/ICCV2013.html",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Ran",
+        "last": "He",
+        "url": ""
+      },
+      {
+        "first": "Wei-Shi",
+        "last": "Zheng",
+        "url": ""
+      },
+      {
+        "first": "Wang",
+        "last": "Liang",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Introduction to Statistical Optimization for Geometric Estimation",
+      "url": "http://www.iim.cs.tut.ac.jp/~kanatani/papers/okatutor.pdf",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Kenichi",
+        "last": "Kanatani",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Decision Forests and Fields for Computer Vision",
+      "url": "http://research.microsoft.com/en-us/um/cambridge/projects/iccv2013tutorial/",
+      "tutorial_date": "12/02/13",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Jamie",
+        "last": "Shotton",
+        "url": ""
+      },
+      {
+        "first": "Sebastian",
+        "last": "Nowozin",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Spectral geometry methods in 3D data analysis",
+      "url": "",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Alexander",
+        "last": "Bronstein",
+        "url": ""
+      },
+      {
+        "first": "Michael",
+        "last": "Bronstein",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Low-Dimensional Subspaces in Computer Vision",
+      "url": "http://www.stanford.edu/~rangst/cgi-bin/iccv-13-tutorial/overview/",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Roland",
+        "last": "Angst",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Dense Image Correspondences for Computer Vision",
+      "url": "http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/",
+      "tutorial_date": "12/02/13",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Ce",
+        "last": "Liu",
+        "url": ""
+      },
+      {
+        "first": "Zhuowen",
+        "last": "Tu",
+        "url": ""
+      },
+      {
+        "first": "Michael",
+        "last": "Rubinstein",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Sparse and Low-Rank Representations in Computer Vision -- Theory, Algorithms, and Applications",
+      "url": "http://gmsv.kaust.edu.sa/Pages/ICCV2013ShortCourse.aspx",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Bernard",
+        "last": "Ghanem",
+        "url": ""
+      },
+      {
+        "first": "John",
+        "last": "Wright",
+        "url": ""
+      },
+      {
+        "first": "Allen Y.",
+        "last": "Yang",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Part-based Models for Recognition",
+      "url": "http://www.cs.berkeley.edu/~rbg/ICCV2013/",
+      "tutorial_date": "12/01/13",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Subhransu",
+        "last": "Maji",
+        "url": ""
+      },
+      {
+        "first": "Lubomir",
+        "last": "Buordev",
+        "url": ""
+      },
+      {
+        "first": "Ross",
+        "last": "Girshick",
+        "url": ""
+      }
+    ]
+  }
+]

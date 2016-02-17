@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Yi Ma</Author>
+  <LastAuthor>Yi Ma</LastAuthor>
+  <Created>2013-02-03T08:03:24Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9375</WindowHeight>
+  <WindowWidth>9705</WindowWidth>
+  <WindowTopX>270</WindowTopX>
+  <WindowTopY>615</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Reviewer Url">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="53" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="63"/>
+   <Column ss:AutoFitWidth="0" ss:Width="84.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="199.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="179.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="285"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Reviewer Url</Data></Cell>
+   </Row>
+   <Row ss:Index="3" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">First Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Last Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Organization</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Email</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Reviewer URL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ronen</Data></Cell>
+    <Cell><Data ss:Type="String">Basri</Data></Cell>
+    <Cell><Data ss:Type="String">Weizmann Institute, Israel</Data></Cell>
+    <Cell><Data ss:Type="String">ronen.basri@weizmann.ac.il</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wisdom.weizmann.ac.il/~ronen/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Serge</Data></Cell>
+    <Cell><Data ss:Type="String">Belongie</Data></Cell>
+    <Cell><Data ss:Type="String">University of California at San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">sjb@cs.ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://cseweb.ucsd.edu/~sjb/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Horst</Data></Cell>
+    <Cell><Data ss:Type="String">Bischof</Data></Cell>
+    <Cell><Data ss:Type="String">Graz University of Technology</Data></Cell>
+    <Cell><Data ss:Type="String">bischof@icg.tugraz.at</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.icg.tu-graz.ac.at/Members/bischof</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Andrew</Data></Cell>
+    <Cell><Data ss:Type="String">Blake</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Research Cambridge</Data></Cell>
+    <Cell><Data ss:Type="String">ablake@microsoft.com</Data></Cell>
+    <Cell><Data ss:Type="String">http://research.microsoft.com/~ablake/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Michael</Data></Cell>
+    <Cell><Data ss:Type="String">Brown</Data></Cell>
+    <Cell><Data ss:Type="String">National University of Singapore</Data></Cell>
+    <Cell><Data ss:Type="String">brown@comp.nus.edu.sg</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.comp.nus.edu.sg/~brown/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Daniel</Data></Cell>
+    <Cell><Data ss:Type="String">Cremers</Data></Cell>
+    <Cell><Data ss:Type="String">Technische Universität München</Data></Cell>
+    <Cell><Data ss:Type="String">cremers@tum.de</Data></Cell>
+    <Cell><Data ss:Type="String">http://vision.in.tum.de/members/cremers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Irfan</Data></Cell>
+    <Cell><Data ss:Type="String">Essa</Data></Cell>
+    <Cell><Data ss:Type="String">Georgia Institute of Technology</Data></Cell>
+    <Cell><Data ss:Type="String">irfan@gatech.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.ic.gatech.edu/people/irfan-essa</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Rob</Data></Cell>
+    <Cell><Data ss:Type="String">Fergus</Data></Cell>
+    <Cell><Data ss:Type="String">New York University</Data></Cell>
+    <Cell><Data ss:Type="String">fergus@cs.nyu.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://cs.nyu.edu/~fergus/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Vitto</Data></Cell>
+    <Cell><Data ss:Type="String">Ferrari</Data></Cell>
+    <Cell><Data ss:Type="String">University of Edinburgh</Data></Cell>
+    <Cell><Data ss:Type="String">vittorio.ferrari@ed.ac.uk</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.vision.ee.ethz.ch/~vferrari/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Andrew</Data></Cell>
+    <Cell><Data ss:Type="String">Fitzgibbon</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Research Cambridge</Data></Cell>
+    <Cell><Data ss:Type="String">awf@microsoft.com</Data></Cell>
+    <Cell><Data ss:Type="String">http://research.microsoft.com/~awf</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Fleet</Data></Cell>
+    <Cell><Data ss:Type="String">University of Toronto</Data></Cell>
+    <Cell><Data ss:Type="String">fleet@cs.toronto.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.toronto.edu/~fleet/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Forsyth</Data></Cell>
+    <Cell><Data ss:Type="String">University of Illinois at Urbana-Champaign</Data></Cell>
+    <Cell><Data ss:Type="String">daf@illinois.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://luthuli.cs.uiuc.edu/~daf/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Kristen</Data></Cell>
+    <Cell><Data ss:Type="String">Graumann</Data></Cell>
+    <Cell><Data ss:Type="String">University of Texas at Austin</Data></Cell>
+    <Cell><Data ss:Type="String">grauman@cs.utexas.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://cs.utexas.edu/~grauman</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Aaron</Data></Cell>
+    <Cell><Data ss:Type="String">Hertzmann</Data></Cell>
+    <Cell><Data ss:Type="String">University of Toronto </Data></Cell>
+    <Cell><Data ss:Type="String">hertzman@dgp.toronto.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.dgp.toronto.edu/~hertzman/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Derek</Data></Cell>
+    <Cell><Data ss:Type="String">Hoiem</Data></Cell>
+    <Cell><Data ss:Type="String">University of Illinois at Urbana-Champaign</Data></Cell>
+    <Cell><Data ss:Type="String">dhoiem@uiuc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.uiuc.edu/homes/dhoiem</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Michal</Data></Cell>
+    <Cell><Data ss:Type="String">Irani</Data></Cell>
+    <Cell><Data ss:Type="String">Weizmann Institute, Israel</Data></Cell>
+    <Cell><Data ss:Type="String">michal.irani@weizmann.ac.il</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wisdom.weizmann.ac.il/~irani/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Jacobs</Data></Cell>
+    <Cell><Data ss:Type="String">University of Maryland</Data></Cell>
+    <Cell><Data ss:Type="String">djacobs@cs.umd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.umd.edu/~djacobs/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Jiaya</Data></Cell>
+    <Cell><Data ss:Type="String">Jia</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese University of Hong Kong</Data></Cell>
+    <Cell><Data ss:Type="String">leojia@cse.cuhk.edu.hk</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cse.cuhk.edu.hk/~leojia/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fredrik</Data></Cell>
+    <Cell><Data ss:Type="String">Kahl</Data></Cell>
+    <Cell><Data ss:Type="String">Lund University</Data></Cell>
+    <Cell><Data ss:Type="String">fredrik@maths.lth.se</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.maths.lth.se/matematiklth/personal/fredrik/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sing Bing</Data></Cell>
+    <Cell><Data ss:Type="String">Kang</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Research Redmond</Data></Cell>
+    <Cell><Data ss:Type="String">SingBing.Kang@microsoft.com</Data></Cell>
+    <Cell><Data ss:Type="String">http://research.microsoft.com/en-us/people/sbkang/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Kriegman</Data></Cell>
+    <Cell><Data ss:Type="String">University of California at San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">kriegman@cs.ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://cseweb.ucsd.edu/~kriegman/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Christoph</Data></Cell>
+    <Cell><Data ss:Type="String">Lampert</Data></Cell>
+    <Cell><Data ss:Type="String">Institute of Science and Technology Austria</Data></Cell>
+    <Cell><Data ss:Type="String">chl@ist.ac.at</Data></Cell>
+    <Cell><Data ss:Type="String">http://pub.ist.ac.at/~chl/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Erik</Data></Cell>
+    <Cell><Data ss:Type="String">Learned-Miller</Data></Cell>
+    <Cell><Data ss:Type="String">University of Massachusetts at Amherst</Data></Cell>
+    <Cell><Data ss:Type="String">elm@cs.umass.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.umass.edu/~elm/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Kyoung</Data></Cell>
+    <Cell><Data ss:Type="String">Lee</Data></Cell>
+    <Cell><Data ss:Type="String">Seoul National University</Data></Cell>
+    <Cell><Data ss:Type="String">kyoungmu@snu.ac.kr</Data></Cell>
+    <Cell><Data ss:Type="String">http://cv.snu.ac.kr/kmlee</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Anat</Data></Cell>
+    <Cell><Data ss:Type="String">Levin</Data></Cell>
+    <Cell><Data ss:Type="String">Weizmann Institute, Israel</Data></Cell>
+    <Cell><Data ss:Type="String">anat.levin@weizmann.ac.il</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wisdom.weizmann.ac.il/~levina/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Hongdong</Data></Cell>
+    <Cell><Data ss:Type="String">Li</Data></Cell>
+    <Cell><Data ss:Type="String">Australia National University</Data></Cell>
+    <Cell><Data ss:Type="String">hongdong.li@anu.edu.au</Data></Cell>
+    <Cell><Data ss:Type="String">http://users.cecs.anu.edu.au/~hongdong/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Jitendra</Data></Cell>
+    <Cell><Data ss:Type="String">Malik</Data></Cell>
+    <Cell><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">malik@eecs.berkeley.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.berkeley.edu/~malik/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Aleix</Data></Cell>
+    <Cell><Data ss:Type="String">Martinez</Data></Cell>
+    <Cell><Data ss:Type="String">Ohio State University</Data></Cell>
+    <Cell><Data ss:Type="String">aleix@ece.osu.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www2.ece.ohio-state.edu/~aleix/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Jiri</Data></Cell>
+    <Cell><Data ss:Type="String">Matas</Data></Cell>
+    <Cell><Data ss:Type="String">Czech Technical University</Data></Cell>
+    <Cell><Data ss:Type="String">matas@cmp.felk.cvut.cz</Data></Cell>
+    <Cell><Data ss:Type="String">http://cmp.felk.cvut.cz/~matas/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Yasuyuki</Data></Cell>
+    <Cell><Data ss:Type="String">Matsushita</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Research Asia</Data></Cell>
+    <Cell><Data ss:Type="String">yasumat@microsoft.com</Data></Cell>
+    <Cell><Data ss:Type="String">http://research.microsoft.com/en-us/people/yasumat/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Srinivas</Data></Cell>
+    <Cell><Data ss:Type="String">Narasimhan</Data></Cell>
+    <Cell><Data ss:Type="String">Carnegie Mellon University</Data></Cell>
+    <Cell><Data ss:Type="String">srinivas@cs.cmu.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.cmu.edu/~srinivas/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Tomas</Data></Cell>
+    <Cell><Data ss:Type="String">Pajdla</Data></Cell>
+    <Cell><Data ss:Type="String">Czech Technical University</Data></Cell>
+    <Cell><Data ss:Type="String">pajdla@cmp.felk.cvut.cz</Data></Cell>
+    <Cell><Data ss:Type="String">http://cmp.felk.cvut.cz/~pajdla/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Nikos</Data></Cell>
+    <Cell><Data ss:Type="String">Paragios</Data></Cell>
+    <Cell><Data ss:Type="String">Ecole Centrale de Paris </Data></Cell>
+    <Cell><Data ss:Type="String">nikos.paragios@ecp.fr</Data></Cell>
+    <Cell><Data ss:Type="String">http://vision.mas.ecp.fr/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Thomas</Data></Cell>
+    <Cell><Data ss:Type="String">Pock</Data></Cell>
+    <Cell><Data ss:Type="String">Graz University of Technology</Data></Cell>
+    <Cell><Data ss:Type="String">pock@icg.tugraz.at</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.icg.tugraz.at/Members/pock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Marc</Data></Cell>
+    <Cell><Data ss:Type="String">Pollefeys</Data></Cell>
+    <Cell><Data ss:Type="String">ETH</Data></Cell>
+    <Cell><Data ss:Type="String">marc.pollefeys@inf.ethz.ch</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.inf.ethz.ch/personal/pomarc/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Deva</Data></Cell>
+    <Cell><Data ss:Type="String">Ramanan</Data></Cell>
+    <Cell><Data ss:Type="String">University of California at Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">dramanan@ics.uci.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.ics.uci.edu/~dramanan/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ian</Data></Cell>
+    <Cell><Data ss:Type="String">Reid</Data></Cell>
+    <Cell><Data ss:Type="String">Univeristy of Oxford</Data></Cell>
+    <Cell><Data ss:Type="String">ian@robots.ox.ac.uk</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.robots.ox.ac.uk/~ian/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Carsten</Data></Cell>
+    <Cell><Data ss:Type="String">Rother</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Research Cambridge</Data></Cell>
+    <Cell><Data ss:Type="String">carrot@microsoft.com</Data></Cell>
+    <Cell><Data ss:Type="String">http://research.microsoft.com/en-us/um/people/carrot/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cordelia</Data></Cell>
+    <Cell><Data ss:Type="String">Schmid</Data></Cell>
+    <Cell><Data ss:Type="String">INRIA</Data></Cell>
+    <Cell><Data ss:Type="String">cordelia.schmid@inrialpes.fr</Data></Cell>
+    <Cell><Data ss:Type="String">http://lear.inrialpes.fr/~schmid/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Stan</Data></Cell>
+    <Cell><Data ss:Type="String">Sclaroff</Data></Cell>
+    <Cell><Data ss:Type="String">Boston University</Data></Cell>
+    <Cell><Data ss:Type="String">sclaroff@cs.bu.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.bu.edu/~sclaroff/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Josef</Data></Cell>
+    <Cell><Data ss:Type="String">Sivic</Data></Cell>
+    <Cell><Data ss:Type="String">Ecole Normale Supérieure</Data></Cell>
+    <Cell><Data ss:Type="String">Josef.Sivic@ens.fr</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.di.ens.fr/~josef/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cristian </Data></Cell>
+    <Cell><Data ss:Type="String">Sminchisescu</Data></Cell>
+    <Cell><Data ss:Type="String">Lund University</Data></Cell>
+    <Cell><Data ss:Type="String">cristian.sminchisescu@math.lth.se</Data></Cell>
+    <Cell><Data ss:Type="String">http://sminchisescu.ins.uni-bonn.de/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Stefano</Data></Cell>
+    <Cell><Data ss:Type="String">Soatto</Data></Cell>
+    <Cell><Data ss:Type="String">University of California at Los Angeles</Data></Cell>
+    <Cell><Data ss:Type="String">soatto@ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.ucla.edu/~soatto/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Antonio</Data></Cell>
+    <Cell><Data ss:Type="String">Torralba</Data></Cell>
+    <Cell><Data ss:Type="String">MIT</Data></Cell>
+    <Cell><Data ss:Type="String">torralba@csail.mit.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://web.mit.edu/torralba/www/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Tinne</Data></Cell>
+    <Cell><Data ss:Type="String">Tuytelaars</Data></Cell>
+    <Cell><Data ss:Type="String">KU Leuven</Data></Cell>
+    <Cell><Data ss:Type="String">Tinne.Tuytelaars@esat.kuleuven.be</Data></Cell>
+    <Cell><Data ss:Type="String">http://homes.esat.kuleuven.be/~tuytelaa/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Raquel</Data></Cell>
+    <Cell><Data ss:Type="String">Urtasun</Data></Cell>
+    <Cell><Data ss:Type="String">Toyota Technological Institute at Chicago</Data></Cell>
+    <Cell><Data ss:Type="String">rurtasun@ttic.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://ttic.uchicago.edu/~rurtasun/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Manik</Data></Cell>
+    <Cell><Data ss:Type="String">Varma</Data></Cell>
+    <Cell><Data ss:Type="String">Microsoft Research India</Data></Cell>
+    <Cell><Data ss:Type="String">manik@microsoft.com</Data></Cell>
+    <Cell><Data ss:Type="String">http://research.microsoft.com/en-us/um/people/manik/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Rene</Data></Cell>
+    <Cell><Data ss:Type="String">Vidal</Data></Cell>
+    <Cell><Data ss:Type="String">Johns Hopkins University</Data></Cell>
+    <Cell><Data ss:Type="String">rvidal@cis.jhu.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://cis.jhu.edu/~rvidal/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ramin</Data></Cell>
+    <Cell><Data ss:Type="String">Zabih</Data></Cell>
+    <Cell><Data ss:Type="String">Cornell University</Data></Cell>
+    <Cell><Data ss:Type="String">rdz@cs.cornell.edu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cs.cornell.edu/rdz/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Andrew</Data></Cell>
+    <Cell><Data ss:Type="String">Zisserman</Data></Cell>
+    <Cell><Data ss:Type="String">University of Oxford</Data></Cell>
+    <Cell><Data ss:Type="String">az@robots.ox.ac.uk</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.robots.ox.ac.uk/~az/</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

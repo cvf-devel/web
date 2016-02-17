@@ -1,0 +1,742 @@
+[
+    {
+        "group": "General Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=I5s7NQ97OYRdWqbqIlgPU2ZP6E81f25oYEi5EPghH7p3LS7gB249oxS9e-QQlC4m",
+        "people": [
+            {
+                "first": "Larry",
+                "last": "Davis",
+                "url": "http://www.umiacs.umd.edu/~lsd/"
+            },
+            {
+                "first": "Richard",
+                "last": "Hartley",
+                "url": "http://users.cecs.anu.edu.au/~hartley/"
+            }
+        ]
+    },
+    {
+        "group": "Program Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01d82ggBcZwx8Ct_5LQj29oA==&c=SuDdz-FNrdGlWhdc-H_Zb4EgxDtr0hnbk51tpCULlUeeQGH1PFC702dbYKNR1ZJy",
+        "people": [
+            {
+                "first": "Kyros",
+                "last": "Kutulakos",
+                "url": "http://www.cs.toronto.edu/~kyros/"
+            },
+            {
+                "first": "Philip",
+                "last": "Torr",
+                "url": "http://cms.brookes.ac.uk/staff/PhilipTorr/"
+            },
+            {
+                "first": "Steve",
+                "last": "Seitz",
+                "url": "http://homes.cs.washington.edu/~seitz/"
+            },
+            {
+                "first": "Yi",
+                "last": "Ma",
+                "url": "http://research.microsoft.com/en-us/people/mayi/"
+            }
+        ]
+    },
+    {
+        "group": "Workshop Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=9UGDnel5K1yzKjAW8OmxWkij17ps_w-tumNF-BL_IhDfwjwcYMwZmf1-CpYDd5CP",
+        "people": [
+            {
+                "first": "Pushmeet",
+                "last": "Kohli",
+                "url": "http://research.microsoft.com/en-us/um/people/pkohli/"
+            },
+            {
+                "first": "Deva",
+                "last": "Ramanan",
+                "url": "http://www.ics.uci.edu/~dramanan/"
+            },
+            {
+                "first": "Kyoung Mu",
+                "last": "Lee",
+                "url": "http://cv.snu.ac.kr/kmlee"
+            }
+        ]
+    },
+    {
+        "group": "Tutorial Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=JeDJoeHxP7SaxmM9QRPVfg4iGMsXRWj3PLuKLfFaD_pF83PLkrSeCl2kEfIXHI5Y",
+        "people": [
+            {
+                "first": "Derek",
+                "last": "Hoiem",
+                "url": "http://www.cs.illinois.edu/homes/dhoiem/"
+            },
+            {
+                "first": "Rob",
+                "last": "Fergus",
+                "url": "http://cs.nyu.edu/~fergus/"
+            },
+            {
+                "first": "Marshall",
+                "last": "Tappen",
+                "url": "http://www.cs.ucf.edu/~mtappen/"
+            }
+        ]
+    },
+	 {
+	    "group": "Presentation Chair",
+        "people": [
+	            {
+	                "first": "Gang",
+	                "last": "Hua",
+	                "url": "http://www.cs.stevens.edu/~ghua/"
+	            }
+	        ]
+	    },
+    {
+        "group": "Finance Chair",
+        "people": [
+            {
+                "first": "Gerard",
+                "last": "Medioni",
+                "url": "http://iris.usc.edu/people/medioni/"
+            }
+        ]
+    },
+    {
+        "group": "Local Arrangements",
+        "people": [
+            {
+                "first": "Simon",
+                "last": "Lucey",
+                "url": "http://www.ict.csiro.au/staff/simon.lucey/"
+            },
+            {
+                "first": "Massimo",
+                "last": "Piccardi",
+                "url": "http://www-staff.it.uts.edu.au/~massimo/"
+            }
+        ]
+    },
+    {
+        "group": "Corporate Sponsorship",
+        "people": [
+            {
+                "first": "Anthony",
+                "last": "Hoogs",
+                "url": "http://www.kitware.com/company/team/hoogs.html"
+            },
+            {
+                "first": "Anthony",
+                "last": "Dick",
+                "url": "http://cs.adelaide.edu.au/~ard/"
+            }
+        ]
+    },
+    {
+        "group": "Exhibition and Demo Chair",
+        "people": [
+            {
+                "first": "Antonio",
+                "last": "Robles-Kelly",
+                "url": "http://users.cecs.anu.edu.au/~arobkell/"
+            }
+        ]
+    },
+    {
+        "group": "Publications Chair",
+        "people": [
+            {
+                "first": "Jian",
+                "last": "Zhang",
+                "url": "http://www.cse.unsw.edu.au/~jzhang/"
+            }
+        ]
+    },
+    {
+        "group": "Optimization Chair",
+        "people": [
+            {
+                "first": "Chaohui",
+                "last": "Wang",
+                "url": "http://files.is.tue.mpg.de/chwang"
+            }
+        ]
+    },
+    {
+        "group": "Web Chair",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01EoMOmGwOKKv9ECLWqBMFHA==&c=6YyPZOmCKRwkVjTMZ-eJviDvwCWWeyIpj7XvohlyGRs=",
+        "people": [
+            {
+                "first": "Ryan",
+                "last": "Farrell",
+                "url": "http://www.eecs.berkeley.edu/~farrell/"
+            },
+			 {
+	                "first": "Grant",
+	                "last": "Van Horn",
+	                "url": ""
+	            }
+        ]
+    },
+    {
+        "group": "Reviewers",
+        "url": "files/Reviewers.pdf",
+        "people": []
+    },
+    {
+        "group": "Area Chairs",
+        "people": [
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/b/Basri:Ronen.html",
+                "email": "ronen.basri@weizmann.ac.il",
+                "first": "Ronen",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=d6vuvHIAAAAJ&hl=en&oi=ao",
+                "institution": "Weizmann Institute, Israel",
+                "last": "Basri",
+                "primary-subject-area": "Physics-based vision and Shape-from-X",
+                "secondary-subject-areas": "Physics-based vision and Shape-from-X#Illumination and reflectance modeling; 3D computer vision#Non-rigid structure from motion; Low-level vision and image processing#Edge and contour detection; Optimization methods#Sparse coding and dictionaries; Physics-based vision and Shape-from-X#Photometric stereo",
+                "url": "http://www.wisdom.weizmann.ac.il/~ronen/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/b/Belongie:Serge.html",
+                "email": "sjb@cs.ucsd.edu",
+                "first": "Serge",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=ORr4XJYAAAAJ&hl=en&oi=ao",
+                "institution": "University of California at San Diego",
+                "last": "Belongie",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Attributes-based representations; Recognition: detection, categorization, classification, indexing, matching#Attributes-based representations",
+                "url": "http://cseweb.ucsd.edu/~sjb/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/b/Bischof:Horst.html",
+                "email": "bischof@icg.tugraz.at",
+                "first": "Horst",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=_pq05Q4AAAAJ&hl=en&oi=ao",
+                "institution": "Graz University of Technology",
+                "last": "Bischof",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Motion and tracking#Object tracking and motion analysis; Motion and tracking#Optical flow; Statistical methods and learning#Learning, statistics, and inference; Statistical methods and learning#Semi-supervised learning; Statistical methods and learning#Supervised learning; Statistical methods and learning#Supervised learning",
+                "url": "http://www.icg.tu-graz.ac.at/Members/bischof"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/b/Blake:Andrew.html",
+                "email": "ablake@microsoft.com",
+                "first": "Andrew",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/1323658/andrew-blake",
+                "institution": "Microsoft Research Cambridge",
+                "last": "Blake",
+                "primary-subject-area": "Motion and tracking",
+                "secondary-subject-areas": "Optimization methods#Continuous optimization; Optimization methods#Markov Random Fields; Optimization methods#PDEs and level-set methods; Optimization methods#Regularization; Physics-based vision and Shape-from-X#Shape from shading and specularities; Robotics; Segmentation, grouping and shape representation#Active contours and surfaces; Segmentation, grouping and shape representation#Edge and contour detection; Segmentation, grouping and shape representation#Image segmentation; Statistical methods and learning#Bayesian modeling and inference; Video: events, activities & surveillance#Video analysis and event recognition",
+                "url": "http://research.microsoft.com/~ablake/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/b/Brown:Michael_S=.html",
+                "email": "brown@comp.nus.edu.sg",
+                "first": "Michael",
+                "google-microsoft-url": "http://scholar.google.com/citations?user=Gv1QGSMAAAAJ&hl=en",
+                "institution": "National University of Singapore",
+                "last": "Brown",
+                "primary-subject-area": "Computational photography, sensing and display",
+                "secondary-subject-areas": "Document analysis; Low-level vision and image processing#Color processing and tone adjustment; Low-level vision and image processing#De-blurring and super-resolution; Low-level vision and image processing#Image enhancement; Low-level vision and image processing#Image restoration; Vision for graphics",
+                "url": "http://www.comp.nus.edu.sg/~brown/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/c/Cremers:Daniel.html",
+                "email": "cremers@tum.de",
+                "first": "Daniel",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=cXQciMEAAAAJ&hl=en&oi=ao",
+                "institution": "Technische Universit&auml;t M&uuml;nchen",
+                "last": "Cremers",
+                "primary-subject-area": "Optimization methods",
+                "secondary-subject-areas": "3D computer vision; 3D computer vision#3D modeling from a single view; Computational photography, sensing and display#De-blurring and super-resolution; Computational photography, sensing and display#Depth sensors; Low-level vision and image processing; Motion and tracking; Optimization methods#Continuous optimization; Optimization methods#Discrete optimization; Optimization methods#Markov Random Fields; Optimization methods#PDEs and level-set methods; Optimization methods#Regularization; Optimization methods#Sparse coding and dictionaries; Segmentation, grouping and shape representation; Segmentation, grouping and shape representation#Image segmentation; Segmentation, grouping and shape representation#Semantic segmentation; Segmentation, grouping and shape representation#Shape representation and matching; Statistical methods and learning; Statistical methods and learning#Bayesian modeling and inference",
+                "url": "http://vision.in.tum.de/members/cremers"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/e/Essa:Irfan_A=.html",
+                "email": "irfan@gatech.edu",
+                "first": "Irfan",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=XM97iScAAAAJ&hl=en&oi=ao",
+                "institution": "Georgia Institute of Technology",
+                "last": "Essa",
+                "primary-subject-area": "Computational photography, sensing and display",
+                "secondary-subject-areas": "Computational photography, sensing and display#Computational video; Computational photography, sensing and display#Image and video re-targeting; Computational photography, sensing and display#Image completion; Motion and tracking#Image alignment; Motion and tracking#Motion estimation; Video: events, activities & surveillance; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Video analysis and event recognition; Video: events, activities & surveillance#Video indexing & retrieval; Vision for graphics",
+                "url": "http://www.ic.gatech.edu/people/irfan-essa"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fergus:Rob.html",
+                "email": "fergus@cs.nyu.edu",
+                "first": "Rob",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=GgQ9GEkAAAAJ&hl=en&oi=ao",
+                "institution": "New York University",
+                "last": "Fergus",
+                "primary-subject-area": "Statistical methods and learning",
+                "secondary-subject-areas": "Statistical methods and learning#Deep belief nets; Low-level vision and image processing#Early and biologically-inspired vision; Recognition: detection, categorization, classification, indexing, matching#Detection and categorization; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Statistical methods and learning#Semi-supervised learning; Statistical methods and learning#Unsupervised learning",
+                "url": "http://cs.nyu.edu/~fergus/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/f/Ferrari:Vittorio.html",
+                "email": "vittorio.ferrari@ed.ac.uk",
+                "first": "Vitto",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=4QvYJ00AAAAJ&hl=en&oi=ao",
+                "institution": "University of Edinburgh",
+                "last": "Ferrari",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Category recognition; Recognition: detection, categorization, classification, indexing, matching#Context and scene understanding; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Statistical methods and learning#Learning, statistics, and inference; Statistical methods and learning#Transfer learning",
+                "url": "http://www.vision.ee.ethz.ch/~vferrari/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fitzgibbon:Andrew_W=.html",
+                "email": "awf@microsoft.com",
+                "first": "Andrew",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=73t3lIcAAAAJ&hl=en&oi=ao",
+                "institution": "Microsoft Research Cambridge",
+                "last": "Fitzgibbon",
+                "primary-subject-area": "Optimization methods",
+                "secondary-subject-areas": "3D computer vision; Computational photography, sensing and display; Low-level vision and image processing; Low-level vision and image processing#Early and biologically-inspired vision; Motion and tracking; Video: events, activities & surveillance#Dynamic textures; Video: events, activities & surveillance#Video indexing & retrieval; Vision for graphics",
+                "url": "http://research.microsoft.com/~awf"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fleet:David_J=.html",
+                "email": "fleet@cs.toronto.edu",
+                "first": "David",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=njOmQFsAAAAJ&hl=en&oi=ao",
+                "institution": "University of Toronto",
+                "last": "Fleet",
+                "primary-subject-area": "Motion and tracking",
+                "secondary-subject-areas": "Face and gesture#Body motion analysis; Face and gesture#Person detection and tracking; Motion and tracking#Model-based reconstruction and tracking; Motion and tracking#Motion estimation; Motion and tracking#Object tracking and motion analysis; Motion and tracking#Optical flow; Recognition: detection, categorization, classification, indexing, matching#Human pose estimation",
+                "url": "http://www.cs.toronto.edu/~fleet/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/f/Forsyth:David_A=.html",
+                "email": "daf@illinois.edu",
+                "first": "David",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=5H0arvkAAAAJ&hl=en&oi=ao",
+                "institution": "University of Illinois at Urbana-Champaign",
+                "last": "Forsyth",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Face and gesture#Body motion analysis; Face and gesture#Person detection and tracking; Low-level vision and image processing#Color processing and tone adjustment; Physics-based vision and Shape-from-X#Illumination and reflectance modeling; Physics-based vision and Shape-from-X#Photometric stereo; Physics-based vision and Shape-from-X#Shape from shading and specularities; Physics-based vision and Shape-from-X#Shape from shadows; Physics-based vision and Shape-from-X#Shape from texture; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Activity recognition; Vision for graphics",
+                "url": "http://luthuli.cs.uiuc.edu/~daf/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/g/Grauman:Kristen.html",
+                "email": "grauman@cs.utexas.edu",
+                "first": "Kristen",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/563908/kristen-grauman",
+                "institution": "University of Texas at Austin",
+                "last": "Grauman",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Computational photography, sensing and display#Video summarization; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Video analysis and event recognition; Video: events, activities & surveillance#Video indexing & retrieval",
+                "url": "http://cs.utexas.edu/~grauman"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hertzmann:Aaron.html",
+                "email": "hertzman@dgp.toronto.edu",
+                "first": "Aaron",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=ZcWO2AEAAAAJ&hl=en&oi=ao",
+                "institution": "University of Toronto",
+                "last": "Hertzmann",
+                "primary-subject-area": "Vision for graphics",
+                "secondary-subject-areas": "3D computer vision#Non-rigid structure from motion; Computational photography, sensing and display#De-blurring and super-resolution; Low-level vision and image processing#De-blurring and super-resolution; Low-level vision and image processing#Texture analysis and synthesis; Physics-based vision and Shape-from-X#Photometric stereo; Recognition: detection, categorization, classification, indexing, matching#Human pose estimation; Vision for the web#Analysis of images on social networks",
+                "url": "http://www.dgp.toronto.edu/~hertzman/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hoiem:Derek.html",
+                "email": "dhoiem@uiuc.edu",
+                "first": "Derek",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=HoQtR3cAAAAJ&hl=en&oi=ao",
+                "institution": "University of Illinois at Urbana-Champaign",
+                "last": "Hoiem",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "3D computer vision#3D modeling from a single view; Low-level vision and image processing#Edge and contour detection; Recognition: detection, categorization, classification, indexing, matching#Attributes-based representations; Recognition: detection, categorization, classification, indexing, matching#Category recognition; Recognition: detection, categorization, classification, indexing, matching#Context and scene understanding; Recognition: detection, categorization, classification, indexing, matching#Datasets & performance evaluation; Recognition: detection, categorization, classification, indexing, matching#Detection and categorization; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Recognition: detection, categorization, classification, indexing, matching#Scene understanding; Segmentation, grouping and shape representation#Edge and contour detection; Segmentation, grouping and shape representation#Image segmentation; Segmentation, grouping and shape representation#Semantic segmentation; Segmentation, grouping and shape representation#Shape representation and matching; Vision for graphics",
+                "url": "http://www.cs.uiuc.edu/homes/dhoiem"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/i/Irani:Michal.html",
+                "email": "michal.irani@weizmann.ac.il",
+                "first": "Michal",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=5hJNWakAAAAJ&hl=en&oi=ao",
+                "institution": "Weizmann Institute, Israel",
+                "last": "Irani",
+                "primary-subject-area": "Computational photography, sensing and display",
+                "secondary-subject-areas": "3D computer vision#Image-based modeling; Computational photography, sensing and display#Computational video; Computational photography, sensing and display#High dynamic range imaging; Computational photography, sensing and display#Image and video re-targeting; Computational photography, sensing and display#Image completion; Computational photography, sensing and display#Video summarization; Low-level vision and image processing#De-blurring and super-resolution; Low-level vision and image processing#Denoising; Low-level vision and image processing#Image enhancement; Motion and tracking#Image alignment",
+                "url": "http://www.wisdom.weizmann.ac.il/~irani/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/j/Jacobs:David_W=.html",
+                "email": "djacobs@cs.umd.edu",
+                "first": "David",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=WH2KmRgAAAAJ&hl=en&oi=ao",
+                "institution": "University of Maryland",
+                "last": "Jacobs",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Face and gesture#Face detection and head tracking; Face and gesture#Face recognition; Physics-based vision and Shape-from-X#Illumination and reflectance modeling; Recognition: detection, categorization, classification, indexing, matching#Detecting faces and bodies; Recognition: detection, categorization, classification, indexing, matching#Detection and categorization; Recognition: detection, categorization, classification, indexing, matching#Feature matching and indexing; Recognition: detection, categorization, classification, indexing, matching#Instance recognition; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Segmentation, grouping and shape representation#Grouping; Segmentation, grouping and shape representation#Image segmentation",
+                "url": "http://www.cs.umd.edu/~djacobs/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/j/Jia:Jiaya.html",
+                "email": "leojia@cse.cuhk.edu.hk",
+                "first": "Jiaya",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=XPAkzTEAAAAJ&hl=en&oi=ao",
+                "institution": "Chinese University of Hong Kong",
+                "last": "Jia",
+                "primary-subject-area": "Computational photography, sensing and display",
+                "secondary-subject-areas": "Low-level vision and image processing#Color processing and tone adjustment; Low-level vision and image processing#De-blurring and super-resolution; Low-level vision and image processing#Denoising; Low-level vision and image processing#Early and biologically-inspired vision; Low-level vision and image processing#Edge and contour detection; Low-level vision and image processing#Image enhancement; Low-level vision and image processing#Image restoration; Low-level vision and image processing#Morphology; Motion and tracking#Image alignment; Motion and tracking#Motion estimation; Motion and tracking#Optical flow; Physics-based vision and Shape-from-X#Photometric stereo; Vision for graphics",
+                "url": "http://www.cse.cuhk.edu.hk/~leojia/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kahl:Fredrik.html",
+                "email": "fredrik@maths.lth.se",
+                "first": "Fredrik",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=P_w6UgMAAAAJ&hl=en&oi=ao",
+                "institution": "Lund University",
+                "last": "Kahl",
+                "primary-subject-area": "Optimization methods",
+                "secondary-subject-areas": "3D computer vision; Medical and biological image analysis#Medical image segmentation; Segmentation, grouping and shape representation#Active contours and surfaces; Segmentation, grouping and shape representation#Image segmentation; Segmentation, grouping and shape representation#Semantic segmentation",
+                "url": "http://www.maths.lth.se/matematiklth/personal/fredrik/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kang:Sing_Bing.html",
+                "email": "sbkang@microsoft.com",
+                "first": "Sing Bing",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=O086vYcAAAAJ&hl=en&oi=ao",
+                "institution": "Microsoft Research Redmond",
+                "last": "Kang",
+                "primary-subject-area": "3D computer vision",
+                "secondary-subject-areas": "Computational photography, sensing and display#Computational video; Computational photography, sensing and display#De-blurring and super-resolution; Computational photography, sensing and display#High dynamic range imaging; Computational photography, sensing and display#Image completion; Computational photography, sensing and display#Image stitching; Low-level vision and image processing#Color processing and tone adjustment; Low-level vision and image processing#De-blurring and super-resolution; Low-level vision and image processing#Denoising; Low-level vision and image processing#Image enhancement; Low-level vision and image processing#Image restoration; Motion and tracking#Image alignment; Vision for graphics",
+                "url": "http://research.microsoft.com/en-us/people/sbkang/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kriegman:David_J=.html",
+                "email": "kriegman@cs.ucsd.edu",
+                "first": "David",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=EqetexsAAAAJ&hl=en&oi=ao",
+                "institution": "University of California at San Diego",
+                "last": "Kriegman",
+                "primary-subject-area": "Physics-based vision and Shape-from-X",
+                "secondary-subject-areas": "Computational photography, sensing and display#Computational illumination; Face and gesture#Biometrics; Face and gesture#Face detection and head tracking; Face and gesture#Face recognition; Face and gesture#Human identification",
+                "url": "http://cseweb.ucsd.edu/~kriegman/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lampert:Christoph_H=.html",
+                "email": "chl@ist.ac.at",
+                "first": "Christoph",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=iCf3SwgAAAAJ&hl=en&oi=ao",
+                "institution": "Institute of Science and Technology Austria",
+                "last": "Lampert",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Optimization methods#Continuous optimization; Optimization methods#Kernel methods; Optimization methods#Markov Random Fields; Optimization methods#Regularization; Statistical methods and learning; Statistical methods and learning#Graphical models; Statistical methods and learning#Learning, statistics, and inference; Statistical methods and learning#Semi-supervised learning; Statistical methods and learning#Supervised learning; Statistical methods and learning#Transfer learning",
+                "url": "http://pub.ist.ac.at/~chl/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/l/Learned=Miller:Erik_G=.html",
+                "email": "elm@cs.umass.edu",
+                "first": "Erik",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=Li-BrU4AAAAJ&hl=en&oi=ao",
+                "institution": "University of Massachusetts at Amherst",
+                "last": "Learned-Miller",
+                "primary-subject-area": "Motion and tracking",
+                "secondary-subject-areas": "Face and gesture#Face recognition; Motion and tracking#Image alignment; Motion and tracking#Motion estimation; Motion and tracking#Object tracking and motion analysis; Motion and tracking#Optical flow; Recognition: detection, categorization, classification, indexing, matching#Detecting faces and bodies; Segmentation, grouping and shape representation#Image segmentation; Statistical methods and learning",
+                "url": "http://www.cs.umass.edu/~elm/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lee:Kyoung_Mu.html",
+                "email": "kyoungmu@snu.ac.kr",
+                "first": "Kyoung Mu",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=xnOKRZ4AAAAJ&hl=en&oi=ao",
+                "institution": "Seoul National University",
+                "last": "Lee",
+                "primary-subject-area": "Motion and tracking",
+                "secondary-subject-areas": "3D computer vision#Stereo correspondence; Low-level vision and image processing#Feature extraction and matching; Optimization methods#Markov Random Fields; Recognition: detection, categorization, classification, indexing, matching#Context and scene understanding; Recognition: detection, categorization, classification, indexing, matching#Feature matching and indexing; Segmentation, grouping and shape representation#Grouping; Segmentation, grouping and shape representation#Image segmentation",
+                "url": "http://cv.snu.ac.kr/kmlee"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/l/Levin:Anat.html",
+                "email": "anat.levin@weizmann.ac.il",
+                "first": "Anat",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=9aw_QGAAAAAJ&hl=en&oi=ao",
+                "institution": "Weizmann Institute, Israel",
+                "last": "Levin",
+                "primary-subject-area": "Computational photography, sensing and display",
+                "secondary-subject-areas": "Computational photography, sensing and display#De-blurring and super-resolution; Computational photography, sensing and display#Depth sensors; Computational photography, sensing and display#High dynamic range imaging; Computational photography, sensing and display#Image completion; Computational photography, sensing and display#New sensors and cameras; Low-level vision and image processing#Color processing and tone adjustment; Low-level vision and image processing#De-blurring and super-resolution; Low-level vision and image processing#Denoising; Low-level vision and image processing#Image enhancement; Low-level vision and image processing#Image restoration; Physics-based vision and Shape-from-X#Illumination and reflectance modeling",
+                "url": "http://www.wisdom.weizmann.ac.il/~levina/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/l/Li:Hongdong.html",
+                "email": "hongdong.li@anu.edu.au",
+                "first": "Hongdong",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=Mq89JAcAAAAJ&hl=en&oi=ao",
+                "institution": "Australia National University",
+                "last": "Li",
+                "primary-subject-area": "3D computer vision",
+                "secondary-subject-areas": "3D computer vision#3D modeling and reconstruction; 3D computer vision#3D modeling from a single view; 3D computer vision#Calibration and pose estimation; 3D computer vision#Non-rigid structure from motion; 3D computer vision#Rigid structure from motion; 3D computer vision#Stereo correspondence; Motion and tracking#Model-based reconstruction and tracking; Motion and tracking#Motion estimation; Motion and tracking#Optical flow; Optimization methods#Continuous optimization; Optimization methods#Discrete optimization; Optimization methods#Kernel methods; Optimization methods#Markov Random Fields",
+                "url": "http://users.cecs.anu.edu.au/~hongdong/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/m/Malik:Jitendra.html",
+                "email": "malik@eecs.berkeley.edu",
+                "first": "Jitendra",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=oY9R5YQAAAAJ&hl=en&oi=ao",
+                "institution": "UC Berkeley",
+                "last": "Malik",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "None",
+                "url": "http://www.cs.berkeley.edu/~malik/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/m/Mart=iacute=nez:Aleix_M=.html",
+                "email": "aleix@ece.osu.edu",
+                "first": "Aleix",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/3319134/aleix-m-martinez",
+                "institution": "Ohio State University",
+                "last": "Martinez",
+                "primary-subject-area": "Face and gesture",
+                "secondary-subject-areas": "3D computer vision#Non-rigid structure from motion; 3D computer vision#Rigid structure from motion; Recognition: detection, categorization, classification, indexing, matching#Detecting faces and bodies; Statistical methods and learning#Learning, statistics, and inference; Statistical methods and learning#Supervised learning",
+                "url": "http://www2.ece.ohio-state.edu/~aleix/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/m/Matas:Jiri.html",
+                "email": "matas@cmp.felk.cvut.cz",
+                "first": "Jiri",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=EJCNY6QAAAAJ&hl=en&oi=ao",
+                "institution": "Czech Technical University",
+                "last": "Matas",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Low-level vision and image processing#Edge and contour detection; Low-level vision and image processing#Feature extraction and matching; Motion and tracking#Image alignment; Motion and tracking#Object tracking and motion analysis; Segmentation, grouping and shape representation#Grouping",
+                "url": "http://cmp.felk.cvut.cz/~matas/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/m/Matsushita:Yasuyuki.html",
+                "email": "yasumat@microsoft.com",
+                "first": "Yasuyuki",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=eomC7sIAAAAJ&hl=en&oi=ao",
+                "institution": "Microsoft Research Asia",
+                "last": "Matsushita",
+                "primary-subject-area": "Physics-based vision and Shape-from-X",
+                "secondary-subject-areas": "Physics-based vision and Shape-from-X#Illumination and reflectance modeling; Physics-based vision and Shape-from-X#Photometric modeling; Physics-based vision and Shape-from-X#Photometric stereo; Physics-based vision and Shape-from-X#Shape from focus; Physics-based vision and Shape-from-X#Shape from shading and specularities",
+                "url": "http://research.microsoft.com/en-us/people/yasumat/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/n/Narasimhan:Srinivasa_G=.html",
+                "email": "srinivas@cs.cmu.edu",
+                "first": "Srinivasa",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/1508356/srinivasa-g-narasimhan",
+                "institution": "Carnegie Mellon University",
+                "last": "Narasimhan",
+                "primary-subject-area": "Computational photography, sensing and display",
+                "secondary-subject-areas": "Physics-based vision and Shape-from-X; Vision for graphics",
+                "url": "http://www.cs.cmu.edu/~srinivas/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/p/Pajdla:Tom=aacute=s.html",
+                "email": "pajdla@cmp.felk.cvut.cz",
+                "first": "Tomas",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=gnR4zf8AAAAJ&hl=en&oi=ao",
+                "institution": "Czech Technical University",
+                "last": "Pajdla",
+                "primary-subject-area": "3D computer vision",
+                "secondary-subject-areas": "Computational photography, sensing and display#New sensors and cameras; Optimization methods#Continuous optimization; Optimization methods#Discrete optimization",
+                "url": "http://cmp.felk.cvut.cz/~pajdla/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/p/Paragios:Nikos.html",
+                "email": "nikos.paragios@ecp.fr",
+                "first": "Nikos",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=ztx2zRKJIYwC&hl=en&oi=ao",
+                "institution": "Ecole Centrale de Paris",
+                "last": "Paragios",
+                "primary-subject-area": "Motion and tracking",
+                "secondary-subject-areas": "Segmentation, grouping and shape representation",
+                "url": "http://vision.mas.ecp.fr/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/p/Pock:Thomas.html",
+                "email": "pock@icg.tugraz.at",
+                "first": "Thomas",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=FwNaHxQAAAAJ&hl=en&oi=ao",
+                "institution": "Graz University of Technology",
+                "last": "Pock",
+                "primary-subject-area": "Optimization methods",
+                "secondary-subject-areas": "Optimization methods#Continuous optimization; 3D computer vision#Multi-view stereo; 3D computer vision#Stereo correspondence; Low-level vision and image processing#Denoising; Low-level vision and image processing#Image restoration; Motion and tracking#Motion estimation; Motion and tracking#Optical flow; Optimization methods#Markov Random Fields; Optimization methods#PDEs and level-set methods; Optimization methods#Regularization; Optimization methods#Sparse coding and dictionaries",
+                "url": "http://www.icg.tugraz.at/Members/pock"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/p/Pollefeys:Marc.html",
+                "email": "marc.pollefeys@inf.ethz.ch",
+                "first": "Marc",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=YYH0BjEAAAAJ&hl=en&oi=ao",
+                "institution": "ETH",
+                "last": "Pollefeys",
+                "primary-subject-area": "3D computer vision",
+                "secondary-subject-areas": "None",
+                "url": "http://www.inf.ethz.ch/personal/pomarc/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/r/Ramanan:Deva.html",
+                "email": "dramanan@ics.uci.edu",
+                "first": "Deva",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao",
+                "institution": "University of California at Irvine",
+                "last": "Ramanan",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Category recognition; Recognition: detection, categorization, classification, indexing, matching#Detecting faces and bodies; Recognition: detection, categorization, classification, indexing, matching#Human pose estimation; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Segmentation, grouping and shape representation#Shape representation and matching; Statistical methods and learning#Semi-supervised learning; Statistical methods and learning#Unsupervised learning; Video: events, activities & surveillance",
+                "url": "http://www.ics.uci.edu/~dramanan/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/r/Reid:Ian.html",
+                "email": "ian@robots.ox.ac.uk",
+                "first": "Ian",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/1781924/ian-david-reid",
+                "institution": "Univeristy of Oxford",
+                "last": "Reid",
+                "primary-subject-area": "3D computer vision",
+                "secondary-subject-areas": "3D computer vision#3D modeling and reconstruction; 3D computer vision#3D modeling from a single view; Face and gesture#Person detection and tracking; Motion and tracking#Model-based reconstruction and tracking; Motion and tracking#Object tracking and motion analysis; Robotics; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Video surveillance",
+                "url": "http://www.robots.ox.ac.uk/~ian/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/r/Rother:Carsten.html",
+                "email": "carrot@microsoft.com",
+                "first": "Carsten",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=8iOtuUwAAAAJ&hl=en&oi=ao",
+                "institution": "Microsoft Research Cambridge",
+                "last": "Rother",
+                "primary-subject-area": "Segmentation, grouping and shape representation",
+                "secondary-subject-areas": "Computational photography, sensing and display#Image and video re-targeting; Low-level vision and image processing#Denoising; Motion and tracking#Optical flow; Optimization methods#Markov Random Fields; Recognition: detection, categorization, classification, indexing, matching#Scene understanding; Segmentation, grouping and shape representation#Image segmentation; Statistical methods and learning#Learning, statistics, and inference",
+                "url": "http://research.microsoft.com/en-us/um/people/carrot/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/s/Schmid:Cordelia.html",
+                "email": "cordelia.schmid@inrialpes.fr",
+                "first": "Cordelia",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=IvqCXP4AAAAJ&hl=en&oi=ao",
+                "institution": "INRIA",
+                "last": "Schmid",
+                "primary-subject-area": "Video: events, activities & surveillance",
+                "secondary-subject-areas": "Video: events, activities & surveillance#Action recognition; Recognition: detection, categorization, classification, indexing, matching#Attributes-based representations; Recognition: detection, categorization, classification, indexing, matching#Category recognition; Recognition: detection, categorization, classification, indexing, matching#Context and scene understanding; Recognition: detection, categorization, classification, indexing, matching#Detection and categorization; Recognition: detection, categorization, classification, indexing, matching#Feature matching and indexing; Recognition: detection, categorization, classification, indexing, matching#Human pose estimation; Recognition: detection, categorization, classification, indexing, matching#Image and video retrieval; Recognition: detection, categorization, classification, indexing, matching#Instance recognition; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Recognition: detection, categorization, classification, indexing, matching#Scene understanding; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Video analysis and event recognition; Video: events, activities & surveillance#Video indexing & retrieval",
+                "url": "http://lear.inrialpes.fr/~schmid/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sclaroff:Stan.html",
+                "email": "sclaroff@cs.bu.edu",
+                "first": "Stan",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=nXBQn7gAAAAJ&hl=en&oi=ao",
+                "institution": "Boston University",
+                "last": "Sclaroff",
+                "primary-subject-area": "Face and gesture",
+                "secondary-subject-areas": "Face and gesture#Gesture analysis; Face and gesture#Body motion analysis; Face and gesture#Person detection and tracking; Motion and tracking#Object tracking and motion analysis; Recognition: detection, categorization, classification, indexing, matching#Human pose estimation; Recognition: detection, categorization, classification, indexing, matching#Image and video retrieval; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Video analysis and event recognition; Video: events, activities & surveillance#Video indexing & retrieval; Video: events, activities & surveillance#Video surveillance",
+                "url": "http://www.cs.bu.edu/~sclaroff/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sivic:Josef.html",
+                "email": "Josef.Sivic@ens.fr",
+                "first": "Josef",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=NCtKHnQAAAAJ&hl=en&oi=ao",
+                "institution": "Ecole Normale Sup&eacute;rieure",
+                "last": "Sivic",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Video: events, activities & surveillance",
+                "url": "http://www.di.ens.fr/~josef/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sminchisescu:Cristian.html",
+                "email": "cristian.sminchisescu@math.lth.se",
+                "first": "Cristian",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=LHTI1W8AAAAJ&hl=en&oi=ao",
+                "institution": "Lund University",
+                "last": "Sminchisescu",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Human pose estimation; Video: events, activities & surveillance",
+                "url": "http://sminchisescu.ins.uni-bonn.de/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/s/Soatto:Stefano.html",
+                "email": "soatto@ucla.edu",
+                "first": "Stefano",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=lH1PdF8AAAAJ&hl=en&oi=ao",
+                "institution": "University of California at Los Angeles",
+                "last": "Soatto",
+                "primary-subject-area": "Video: events, activities & surveillance",
+                "secondary-subject-areas": "Motion and tracking; Optimization methods; Recognition: detection, categorization, classification, indexing, matching; Robotics; Statistical methods and learning",
+                "url": "http://www.cs.ucla.edu/~soatto/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/t/Torralba:Antonio.html",
+                "email": "torralba@csail.mit.edu",
+                "first": "Antonio",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=8cxDHS4AAAAJ&hl=en&oi=ao",
+                "institution": "MIT",
+                "last": "Torralba",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Category recognition; Recognition: detection, categorization, classification, indexing, matching#Context and scene understanding; Recognition: detection, categorization, classification, indexing, matching#Datasets & performance evaluation; Recognition: detection, categorization, classification, indexing, matching#Feature matching and indexing; Recognition: detection, categorization, classification, indexing, matching#Instance recognition; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Recognition: detection, categorization, classification, indexing, matching#Scene understanding",
+                "url": "http://web.mit.edu/torralba/www/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/t/Tuytelaars:Tinne.html",
+                "email": "Tinne.Tuytelaars@esat.kuleuven.be",
+                "first": "Tinne",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=0ygxw2YAAAAJ&hl=en&oi=ao",
+                "institution": "KU Leuven",
+                "last": "Tuytelaars",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Category recognition; Recognition: detection, categorization, classification, indexing, matching#Context and scene understanding; Recognition: detection, categorization, classification, indexing, matching#Detection and categorization; Recognition: detection, categorization, classification, indexing, matching#Feature extraction and description; Recognition: detection, categorization, classification, indexing, matching#Feature matching and indexing; Recognition: detection, categorization, classification, indexing, matching#Image and video retrieval; Recognition: detection, categorization, classification, indexing, matching#Instance recognition; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Recognition: detection, categorization, classification, indexing, matching#Scene understanding; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Video analysis and event recognition",
+                "url": "http://homes.esat.kuleuven.be/~tuytelaa/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/u/Urtasun:Raquel.html",
+                "email": "rurtasun@ttic.edu",
+                "first": "Raquel",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=jyxO2akAAAAJ&hl=en&oi=ao",
+                "institution": "Toyota Technological Institute at Chicago",
+                "last": "Urtasun",
+                "primary-subject-area": "Statistical methods and learning",
+                "secondary-subject-areas": "Optimization methods#Markov Random Fields; Recognition: detection, categorization, classification, indexing, matching",
+                "url": "http://ttic.uchicago.edu/~rurtasun/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/v/Varma:Manik.html",
+                "email": "manik@microsoft.com",
+                "first": "Manik",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/703979/manik-varma",
+                "institution": "Microsoft Research India",
+                "last": "Varma",
+                "primary-subject-area": "Low-level vision and image processing",
+                "secondary-subject-areas": "None",
+                "url": "http://research.microsoft.com/en-us/um/people/manik/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/v/Vidal:Ren=eacute=.html",
+                "email": "rvidal@cis.jhu.edu",
+                "first": "Rene",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=uT8fgagAAAAJ&hl=en&oi=ao",
+                "institution": "Johns Hopkins University",
+                "last": "Vidal",
+                "primary-subject-area": "Optimization methods",
+                "secondary-subject-areas": "Optimization methods#Sparse coding and dictionaries; Optimization methods#Markov Random Fields; Segmentation, grouping and shape representation#Semantic segmentation; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Activity recognition; Video: events, activities & surveillance#Dynamic textures",
+                "url": "http://cis.jhu.edu/~rvidal/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zabih:Ramin.html",
+                "email": "rdz@cs.cornell.edu",
+                "first": "Ramin",
+                "google-microsoft-url": "http://scholar.google.ca/citations?user=8Lp0W54AAAAJ&hl=en&oi=ao",
+                "institution": "Cornell University",
+                "last": "Zabih",
+                "primary-subject-area": "Optimization methods",
+                "secondary-subject-areas": "None",
+                "url": "http://www.cs.cornell.edu/rdz/"
+            },
+            {
+                "dblp-url": "http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zisserman:Andrew.html",
+                "email": "az@robots.ox.ac.uk",
+                "first": "Andrew",
+                "google-microsoft-url": "http://academic.research.microsoft.com/Author/252484/andrew-zisserman",
+                "institution": "University of Oxford",
+                "last": "Zisserman",
+                "primary-subject-area": "Recognition: detection, categorization, classification, indexing, matching",
+                "secondary-subject-areas": "Recognition: detection, categorization, classification, indexing, matching#Attributes-based representations; Recognition: detection, categorization, classification, indexing, matching#Detecting faces and bodies; Recognition: detection, categorization, classification, indexing, matching#Detection and categorization; Recognition: detection, categorization, classification, indexing, matching#Feature matching and indexing; Recognition: detection, categorization, classification, indexing, matching#Human pose estimation; Recognition: detection, categorization, classification, indexing, matching#Image and video retrieval; Recognition: detection, categorization, classification, indexing, matching#Instance recognition; Recognition: detection, categorization, classification, indexing, matching#Object detection; Recognition: detection, categorization, classification, indexing, matching#Object recognition; Recognition: detection, categorization, classification, indexing, matching#Part-based recognition; Statistical methods and learning#Supervised learning; Statistical methods and learning#Transfer learning; Video: events, activities & surveillance#Action recognition; Video: events, activities & surveillance#Video indexing & retrieval",
+                "url": "http://www.robots.ox.ac.uk/~az/"
+            }
+        ]
+    }
+]

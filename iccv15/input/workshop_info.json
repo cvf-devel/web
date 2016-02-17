@@ -1,0 +1,310 @@
+[
+    {
+	"workshop_info": {
+	    "title": "5th Workshop on 3D Representation and Recognition (3dRR-15)",
+	    "organizers": "Yu Xiang, Hao Su, Min Sun, Silvio Savarese, Leonidas Guibas",
+	    "url": "http://cvgl.stanford.edu/3dRR15/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "09:00-17:00",
+	    "workshop_length": "full",
+	    "location": "Marriott-Gallery"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop",
+	    "organizers": "Stefanos Zafeiriou, Georgios Tzimiropoulos, Maja Pantic",
+	    "url": "http://ibug.doc.ic.ac.uk/resources/300-VW/",
+	    "workshop_date": "12/18/15",
+	    "workshop_times": "09:30-15:30",
+	    "workshop_length": "full",
+	    "location": "Marriott-Ballroom DE"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "2nd Workshop on Computer Vision for Affective Computing (CV4AC)",
+	    "organizers": "Abhinav Dhall, Roland Goecke, Simon Lucey, Nicu Sebe",
+	    "url": "https://sites.google.com/site/wcv4ac2015/",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "08:40-12:45",
+	    "workshop_length": "am-half",
+	    "location": "Grand Hyatt-Rapel"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Computer Vision for Accessible and Affordable HealthCare",
+	    "organizers": "George Leifman, Ramesh Raskar, Ashok Veeraraghavan",
+	    "url": "http://cameraculture.media.mit.edu/iccv-aaah-workshop/",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "13:15-17:00",
+	    "workshop_length": "pm-half",
+	    "location": "Marriott-Maipo"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3rd International Workshop on Assistive Computer Vision and Robotics",
+	    "organizers": "Giovanni Maria Farinella, Marco Leo, Gerard G. Medioni,  Mohan Trivedi",
+	    "url": "http://iplab.dmi.unict.it/acvr2015/",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "8:30-18:00",
+	    "workshop_length": "full",
+	    "location": "Grand Hyatt-Elqui"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "ChaLearn Looking at People: Workshop and Competitions",
+	    "organizers": "Sergio Escalera, Jordi Gonzàlez, Xavier Baró, Hugo J. Escalante, Isabelle Guyon",
+	    "url": "http://gesture.chalearn.org/",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "8:45-22:00",
+	    "workshop_length": "full",
+	    "location": "Grand Hyatt-Rapel"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Color and Photometry in Computer Vision",
+	    "organizers": "Theo Gevers, Jose Alvarez, Joost van de Weijer, Arjan Gijsenij",
+	    "url": "https://wcpcv.forge.nicta.com.au/",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "08:45-12:10",
+	    "workshop_length": "am-half",
+	    "location": "Marriott-Ballroom DEF"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "1st International Workshop on Extreme Imaging",
+	    "organizers": "William T. Freeman, Andreas Savakis",
+	    "url": "http://extremeimaging.csail.mit.edu/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "08:30-18:00",
+	    "workshop_length": "full",
+	    "location": "Marriott-Sierra Nevada"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Forensic Application of Computer Vision",
+	    "organizers": "P. Jonathon Phillips, Kevin Bowyer, Claudio Perez, Domingo Mery",
+	    "url": "http://facv2015.ing.puc.cl",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "14:00-18:30",
+	    "workshop_length": "pm-half",
+	    "location": "Grand Hyatt-Rapel"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "The Future of Real-Time SLAM: Sensors, Processors, Representations, and Algorithms",
+	    "organizers": "Stefan Leutenegger, Tom Whelan, Richard Newcombe and Andrew Davison",
+	    "url": "https://wp.doc.ic.ac.uk/thefutureofslam/",
+	    "workshop_date": "12/18/15",
+	    "workshop_times": "09:00-17:30",
+	    "workshop_length": "full",
+	    "location": "Marriott-Ballroom G"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "ImageNet and MS COCO Visual Recognition Challenges",
+	    "organizers": "Yin Cui, Wei Liu, Matteo Ronchi",
+	    "url": "http://image-net.org/challenges/ilsvrc+mscoco2015",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "09:00-18:00",
+	    "workshop_length": "full",
+	    "location": "Marriott-Ballroom G"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Inverse Rendering",
+	    "organizers": "Anita Sellent, Stefan Roth, Peter Gehler, Carsten Rother",
+	    "url": "http://cvlab-dresden.de/IR2015/",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "8:45-17:30",
+	    "workshop_length": "full",
+	    "location": "Marriott-Gallery"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Describing and Understanding Video & The Large Scale Movie Description Challenge (LSMDC)",
+	    "organizers": "Anna Rohrbach, Bernt Schiele, Marcus Rohrbach, Atousa Torabi, Christopher Pal, Hugo Larochelle, Aaron Courville",
+	    "url": "https://sites.google.com/site/describingmovies/",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "8:25-12:30",
+	    "workshop_length": "am-half",
+	    "location": "Marriott-Ballroom DEF"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Machine Learning for Intelligent Image and Video Processing",
+	    "organizers": "Michael Hirsch, Sebastian Nowozin",
+	    "url": "http://ml4ip-iccv2015.is.tuebingen.mpg.de/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "08:55-12:00",
+	    "workshop_length": "am-half",
+	    "location": "Marriott Courtyard-Alamo ABC"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "IEEE/ISPRS 3rd Joint Workshop on Multi-Sensor Fusion for Dynamic Scene Understanding",
+	    "organizers": "Rama Chellappa, Christian Heipke, Alper Yilmaz, Clément Mallet, Michael Ying Yang, Yury Vizilter",
+	    "url": "http://www.sfpt.fr/msf15/",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "8:20-17:30",
+	    "workshop_length": "full",
+	    "location": "Marriott-Sierra Nevada"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "1st International Workshop on Recovering 6D Object Pose",
+	    "organizers": "Tae-Kyun Kim, Vincent Lepetit, Carsten Rother, Jiri Matas, Rigas Kouskouridas",
+	    "url": "http://www.iis.ee.ic.ac.uk/ComputerVision/3DPose-2015.html",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "08:30-18:00",
+	    "workshop_length": "full",
+	    "location": "Marriott-Ballroom DEF"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3D Reconstruction and Understanding with Video and Sound",
+	    "organizers": "Ruigang Yang, Dinesh Manocha, Marc Pollefeys, Rif A. Saurous, Rahul Sukthankar",
+	    "url": "http://www.vis.uky.edu/~song/AVS/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "08:00-17:30",
+	    "workshop_length": "full",
+	    "location": "Grand Hyatt-Elqui"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3rd Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving",
+	    "organizers": "Jose Alvarez, Mathieu Salzmann, Lars Petersson",
+	    "url": "https://cvrsuad2015.forge.nicta.com.au",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "8:30-17:30",
+	    "workshop_length": "full",
+	    "location": "Marriott Courtyard-Alamo ABC"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Robust Subspace Learning and Computer Vision",
+	    "organizers": "Thierry Bouwmans",
+	    "url": "http://rsl-cv2015.univ-lr.fr/workshop/",
+	    "workshop_date": "12/18/15",
+	    "workshop_times": "08:30-18:30",
+	    "workshop_length": "full",
+	    "location": "Marriott-Gallery"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Vision from Satellite to Street",
+	    "organizers": "Anil Cheriydat, Shawn Newsam, Mei Han, Jiangye Yuan",
+	    "url": "http://web.ornl.gov/~jiy/open/VisionfromSatellitetoStreet.htm",
+	    "workshop_date": "12/18/15",
+	    "workshop_times": "08:55-12:30",
+	    "workshop_length": "am-half",
+	    "location": "Marriott-Sierra Nevada"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3D Scene Understanding",
+	    "organizers": "Markus Enzweiler, Sebastian Ramos, Michael Yang, Raquel Urtasun, Nick Barnes, Caroline Pantofaru",
+	    "url": "https://sites.google.com/site/3dsun15/",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "13:15-18:00",
+	    "workshop_length": "pm-half",
+	    "location": "Marriott-Gallery"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "2nd IEEE International Workshop on Computer Vision in Sports (CVsports)",
+	    "organizers": "Thomas Moeslund, Graham Thomas, Adrian Hilton, Peter Carr",
+	    "url": "http://www.vap.aau.dk/cvsports/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "09:00-17:30",
+	    "workshop_length": "full",
+	    "location": "Grand Hyatt-Rapel"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "TASK-CV: Transferring and Adapting Source Knowledge in Computer Vision",
+	    "organizers": "Antonio M. López, Hugo Larochelle, Francesco Orabona, Erik Rodner, Tatiana Tommasi, David Vázquez, Jiaolong Xu",
+	    "url": "http://www.cvc.uab.es/adas/task-cv2015/",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "14:00-18:30",
+	    "workshop_length": "pm-half",
+	    "location": "Marriott-Tacora"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "1st Workshop on Object Understanding for Interaction",
+	    "organizers": "Joseph Lim, Abhinav Gupta, Phillip Isola, Jianxiong Xiao, Ashutosh Saxena",
+	    "url": "http://oui.csail.mit.edu/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "09:00-17:00",
+	    "workshop_length": "full",
+	    "location": "Grand Hyatt-Loa"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Video Summarization for Large-scale Analytics Workshop",
+	    "organizers": "Sharath Pankanti, Kannappan Palaniappan, Guna Seetharaman",
+	    "url": "https://sites.google.com/site/lsvsiccv2015/video-summarization-for-large-scale-analytics-workshop",
+	    "workshop_date": "12/11/15",
+	    "workshop_times": "08:00-17:00",
+	    "workshop_length": "full",
+	    "location": "Grand Hyatt-Elqui"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Closing the Loop Between Vision and Language",
+	    "organizers": "Mohamed Elhoseiny, Ahmed Elgammal, Leonid Sigal",
+	    "url": "https://sites.google.com/site/clvlworkshop/",
+	    "workshop_date": "12/17/15",
+	    "workshop_times": "08:25-17:00",
+	    "workshop_length": "full",
+	    "location": "Marriott-Ballroom ABC"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3rd International Workshop on Web-scale Vision and Social Media (VSM)",
+	    "organizers": "Lamberto Ballan, Marco Bertini, Thomas Mensink",
+	    "url": "https://sites.google.com/site/vsm2015iccv/",
+	    "workshop_date": "12/18/15",
+	    "workshop_times": "08:30-16:30",
+	    "workshop_length": "full",
+	    "location": "Marriott-Ballroom ABC"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3rd Visual Object Tracking Challenge Workshop, VOT2015",
+	    "organizers": "Matej Kristan, Aleš Leonardis, Jiri Matas, Michael Felsberg ",
+	    "url": "http://www.votchallenge.net/vot2015/",
+	    "workshop_date": "12/12/15",
+	    "workshop_times": "13:00-19:00",
+	    "workshop_length": "pm-half",
+	    "location": "Marriott-Ballroom DEF"
+	}
+    }
+]

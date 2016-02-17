@@ -1,0 +1,8 @@
+#iccvmenubar {padding:0; width:960px;}
+#iccvmenubar li { float:left; list-style: none;bottom:0;}
+#iccvmenubar li a { display:block; color:#FFFFFF;}
+#iccvmenubar li a:hover { color:#ff8f00; }
+#iccvmenubar li ul {margin: 0; padding: 0; position: absolute; visibility: hidden; border: 1px solid black; border-top: 1px solid black; z-index:100}
+#iccvmenubar li ul li {float:none; display: inline; padding:0px;}
+#iccvmenubar li ul li a { width: auto; height:auto; background:#000000; padding:5px 5px 5px 10px;}
+#iccvmenubar li ul li a:hover { background:#000000;}

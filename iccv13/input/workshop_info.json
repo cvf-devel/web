@@ -1,0 +1,881 @@
+[
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "2nd International Workshop on Dynamic Shape Capture and Analysis (4DMOD)",
+      "url": "http://campar.in.tum.de/FourDMod13/WebHome",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Slobodan",
+        "last": "Ilic",
+        "url": ""
+      },
+      {
+        "first": "Edmond",
+        "last": "Boyer",
+        "url": ""
+      },
+      {
+        "first": "Adrian",
+        "last": "Hilton",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "300 Faces in-the-Wild Challenge (300-W)",
+      "url": "http://ibug.doc.ic.ac.uk/resources/300-W/",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Maja",
+        "last": "Pantic",
+        "url": ""
+      },
+      {
+        "first": "Georgios",
+        "last": "Tzimiropoulos",
+        "url": ""
+      },
+      {
+        "first": "Stefanos",
+        "last": "Zafeiriou",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/11/13",
+      "submission_status": "updated",
+      "title": "3rd Workshop on Consumer Depth Cameras for Computer Vision (CDC4CV)",
+      "url": "http://www.vision.ee.ethz.ch/CDC4CV/",
+      "workshop_date": "12/02/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Andrea",
+        "last": "Fossati",
+        "url": ""
+      },
+      {
+        "first": "Juergen",
+        "last": "Gall",
+        "url": ""
+      },
+      {
+        "first": "Helmut",
+        "last": "Grabner",
+        "url": ""
+      },
+      {
+        "first": "Miles",
+        "last": "Hansard",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/05/13",
+      "title": "4th Workshop on Computer Vision in Vehicle Technology: From Earth to Mars",
+      "url": "http://www.cvc.uab.es/adas/cvvt2013/",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "David",
+        "last": "Ger&oacute;nimo",
+        "url": ""
+      },
+      {
+        "first": "Atsushi",
+        "last": "Imiya",
+        "url": ""
+      },
+      {
+        "first": "Antonio M.",
+        "last": "L&oacute;pez",
+        "url": ""
+      },
+      {
+        "first": "Theo",
+        "last": "Gevers",
+        "url": ""
+      },
+      {
+        "first": "Urbano",
+        "last": "Nunes",
+        "url": ""
+      },
+      {
+        "first": "Dariu M.",
+        "last": "Gavrila",
+        "url": ""
+      },
+      {
+        "first": "Tomas",
+        "last": "Pajdla",
+        "url": ""
+      },
+      {
+        "first": "Steven",
+        "last": "Beauchemin",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "11/07/13",
+      "title": "THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes",
+      "url": "http://crcv.ucf.edu/ICCV13-Action-Workshop/",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Ivan",
+        "last": "Laptev",
+        "url": ""
+      },
+      {
+        "first": "Massimo",
+        "last": "Piccardi",
+        "url": ""
+      },
+      {
+        "first": "Mubarak",
+        "last": "Shah",
+        "url": ""
+      },
+      {
+        "first": "Rahul",
+        "last": "Sukthankar",
+        "url": ""
+      },
+      {
+        "first": "Yu-Gang",
+        "last": "Jiang",
+        "url": ""
+      },
+      {
+        "first": "Jingen",
+        "last": "Liu",
+        "url": ""
+      },
+      {
+        "first": "Amir Roshan",
+        "last": "Zamir",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/06/13",
+      "submission_status": "updated",
+      "title": "Workshop on Wearable Computer Vision Systems (WCVS)",
+      "url": "https://sites.google.com/site/wwcv2013/",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Ana C.",
+        "last": "Murillo",
+        "url": ""
+      },
+      {
+        "first": "Javier",
+        "last": "Civera",
+        "url": ""
+      },
+      {
+        "first": "Mohammad",
+        "last": "Moghimi",
+        "url": ""
+      },
+      {
+        "first": "Serge",
+        "last": "Belongie",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/14/13",
+      "title": "IEEE Workshop on the VOT2013 Visual Object Tracking Challenge",
+      "url": "http://www.votchallenge.net/",
+      "workshop_date": "12/02/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Roman",
+        "last": "Pflugfelder",
+        "url": ""
+      },
+      {
+        "first": "Matej",
+        "last": "Kristan",
+        "url": ""
+      },
+      {
+        "first": "Ales",
+        "last": "Leonardis",
+        "url": ""
+      },
+      {
+        "first": "Jiri",
+        "last": "Matas",
+        "url": ""
+      },
+      {
+        "first": "Fatih",
+        "last": "Porikli",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "VisDA: 1st International Workshop on Visual Domain Adaptation",
+      "url": "http://visda2013.seas.harvard.edu ",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Brian",
+        "last": "Kulis",
+        "url": ""
+      },
+      {
+        "first": "Ruonan",
+        "last": "Li",
+        "url": ""
+      },
+      {
+        "first": "Kate",
+        "last": "Saenko",
+        "url": ""
+      },
+      {
+        "first": "Fei",
+        "last": "Sha",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "2nd International Workshop on Large-Scale Video Search and Mining (LSVSM)",
+      "url": "http://www.ntu.edu.sg/home/jsyuan/lsvsm13/",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Junsong",
+        "last": "Yuan",
+        "url": ""
+      },
+      {
+        "first": "John",
+        "last": "Smith",
+        "url": ""
+      },
+      {
+        "first": "Shih-Fu",
+        "last": "Chang",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/09/13",
+      "submission_status": "updated",
+      "title": "Large Scale Visual Commerce (LSVisCom)",
+      "url": "http://www.lsviscom.org/",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Anurag",
+        "last": "Bhardwaj",
+        "url": ""
+      },
+      {
+        "first": "Robinson",
+        "last": "Piramuthu",
+        "url": ""
+      },
+      {
+        "first": "Serge",
+        "last": "J. Belongie",
+        "url": ""
+      },
+      {
+        "first": "Tsuhan",
+        "last": "Chen",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "Underwater Vision Workshop",
+      "url": "http://marine.acfr.usyd.edu.au/iccv13uv/",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Stefan",
+        "last": "Williams",
+        "url": ""
+      },
+      {
+        "first": "Navid",
+        "last": "Nourani-Vatani",
+        "url": ""
+      },
+      {
+        "first": "Ariell",
+        "last": "Friedman",
+        "url": ""
+      },
+      {
+        "first": "Daniel",
+        "last": "Steinberg",
+        "url": ""
+      },
+      {
+        "first": "Oscar",
+        "last": "Pizarro",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "",
+      "title": "Vision-Based Sports Analytics",
+      "url": "http://www.visionbasedsportsanalytics.net/",
+      "workshop_date": "12/02/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Patrick",
+        "last": "Lucey",
+        "url": ""
+      },
+      {
+        "first": "Peter",
+        "last": "Carr",
+        "url": ""
+      },
+      {
+        "first": "Iain",
+        "last": "Matthews",
+        "url": ""
+      },
+      {
+        "first": "Stuart",
+        "last": "Morgan",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "11/15/13",
+      "title": "ImageNet Large Scale Visual Recognition Challenge 2013 (ILSVRC2013) Workshop",
+      "url": "http://www.image-net.org/challenges/LSVRC/2013/iccv2013.php",
+      "workshop_date": "12/07/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Olga",
+        "last": "Russakovsky",
+        "url": ""
+      },
+      {
+        "first": "Jonathan",
+        "last": "Krause",
+        "url": ""
+      },
+      {
+        "first": "Jia",
+        "last": "Deng",
+        "url": ""
+      },
+      {
+        "first": "Alex",
+        "last": "Berg",
+        "url": ""
+      },
+      {
+        "first": "Fei-Fei",
+        "last": "Li",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/05/13",
+      "title": "4th Workshop on 3D Representation and Recognition (3dRR-13)",
+      "url": "http://homes.cs.washington.edu/~sunmin/3dRR13/3dRR13.html",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Min",
+        "last": "Sun",
+        "url": ""
+      },
+      {
+        "first": "Michael",
+        "last": "Stark",
+        "url": ""
+      },
+      {
+        "first": "Silvio",
+        "last": "Savarese",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/30/13",
+      "title": "Decoding Subtle Cues from Social Interactions",
+      "url": "http://www.cbi.gatech.edu/CBSICCV2013/",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "David A.",
+        "last": "Forsyth",
+        "url": ""
+      },
+      {
+        "first": "Yin",
+        "last": "Li",
+        "url": ""
+      },
+      {
+        "first": "James M.",
+        "last": "Rehg",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "TBD",
+      "title": "Reconstruction Meets Recognition Challenge",
+      "url": "http://ttic.uchicago.edu/~rurtasun/rmrc/index.php",
+      "workshop_date": "12/02/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Raquel",
+        "last": "Urtasun",
+        "url": ""
+      },
+      {
+        "first": "Rob",
+        "last": "Fergus",
+        "url": ""
+      },
+      {
+        "first": "Derek",
+        "last": "Hoiem",
+        "url": ""
+      },
+      {
+        "first": "Antonio",
+        "last": "Torralba",
+        "url": ""
+      },
+      {
+        "first": "Andreas",
+        "last": "Geiger",
+        "url": ""
+      },
+      {
+        "first": "Philip",
+        "last": "Lenz",
+        "url": ""
+      },
+      {
+        "first": "Nathan",
+        "last": "Silberman",
+        "url": ""
+      },
+      {
+        "first": "Jianxiong",
+        "last": "Xiao",
+        "url": ""
+      },
+      {
+        "first": "Sanja",
+        "last": "Fidler",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "Big Data in 3D Computer Vision Workshop",
+      "url": "http://www.multimediauts.org/BigData3DCV/",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Jian",
+        "last": "Zhang",
+        "url": ""
+      },
+      {
+        "first": "Mohammed",
+        "last": "Bennamoun",
+        "url": ""
+      },
+      {
+        "first": "Dan",
+        "last": "Schonfeld",
+        "url": ""
+      },
+      {
+        "first": "Zhengyou",
+        "last": "Zhang",
+        "url": ""
+      },
+      {
+        "first": "Fatih",
+        "last": "Porikli",
+        "url": ""
+      },
+      {
+        "first": "Dong",
+        "last": "Xu",
+        "url": ""
+      },
+      {
+        "first": "Hongdong",
+        "last": "Li",
+        "url": ""
+      },
+      {
+        "first": "Qiang",
+        "last": "Wu",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/10/13",
+      "title": "Workshop on Computer Vision for Autonomous Driving",
+      "url": "http://www.cs.cmu.edu/~CVAD2013",
+      "workshop_date": "12/02/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Bart",
+        "last": "Nabbe",
+        "url": ""
+      },
+      {
+        "first": "Yaser",
+        "last": "Sheikh",
+        "url": ""
+      },
+      {
+        "first": "Uwe",
+        "last": "Franke",
+        "url": ""
+      },
+      {
+        "first": "Martial",
+        "last": "Hebert",
+        "url": ""
+      },
+      {
+        "first": "Fernando",
+        "last": "De la Torre",
+        "url": ""
+      },
+      {
+        "first": "Raquel",
+        "last": "Urtasun",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/13/13",
+      "submission_status": "updated",
+      "title": "1st Workshop on Understanding Human Activities: Context and Interactions (HACI 2013)",
+      "url": "http://haci2013.umiacs.umd.edu/",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Sameh",
+        "last": "Khamis",
+        "url": ""
+      },
+      {
+        "first": "Mohamed",
+        "last": "R. Amer",
+        "url": ""
+      },
+      {
+        "first": "Wongun",
+        "last": "Choi",
+        "url": ""
+      },
+      {
+        "first": "Tian",
+        "last": "Lan",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "The 5th International Workshop on Video Event Categorization, Tagging and Retrieval (VECTaR2013)",
+      "url": "http://www.computing.dundee.ac.uk/staff/jgzhang/VECTaR2013.htm  ",
+      "workshop_date": "12/08/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Tieniu",
+        "last": "Tan",
+        "url": ""
+      },
+      {
+        "first": "Thomas",
+        "last": "S. Huang",
+        "url": ""
+      },
+      {
+        "first": "Liang",
+        "last": "Wang",
+        "url": ""
+      },
+      {
+        "first": "Ling",
+        "last": "Shao",
+        "url": ""
+      },
+      {
+        "first": "Jianguo",
+        "last": "Zhang",
+        "url": ""
+      },
+      {
+        "first": "Yun",
+        "last": "Fu",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/01/13",
+      "title": "IEEE Workshop on Computer Vision for Converging Perspectives",
+      "url": "http://web.ornl.gov/~czx/open/cvcp13.html",
+      "workshop_date": "12/08/13",
+      "workshop_length": "am-half"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Anil",
+        "last": "Cheriyadat",
+        "url": ""
+      },
+      {
+        "first": "Shawn",
+        "last": "Newsam",
+        "url": ""
+      },
+      {
+        "first": "Mei",
+        "last": "Han",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/17/13",
+      "title": "Inference for probabilistic graphical models (PGMs)",
+      "url": "http://cs.adelaide.edu.au/~chhshen/iccv2013_workshop/",
+      "workshop_date": "12/02/13",
+      "workshop_length": "pm-half"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Qinfeng (Javen)",
+        "last": "Shi",
+        "url": ""
+      },
+      {
+        "first": "Chunhua",
+        "last": "Shen ",
+        "url": ""
+      },
+      {
+        "first": "Stephen",
+        "last": "Gould ",
+        "url": ""
+      },
+      {
+        "first": "Jason L.",
+        "last": "Williams ",
+        "url": ""
+      },
+      {
+        "first": "Tiberio",
+        "last": "Caetano",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "Graphical models for scene understanding: challenges and perspectives",
+      "url": "http://www.centrale-ponts.fr/personnel/komodakis/GraphM-SceneU-iccv2013",
+      "workshop_date": "12/02/13",
+      "workshop_length": "am-half"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Nikos",
+        "last": "Komodakis",
+        "url": ""
+      },
+      {
+        "first": "Christoph",
+        "last": "Schnoerr",
+        "url": ""
+      },
+      {
+        "first": "Carsten",
+        "last": "Rother",
+        "url": ""
+      },
+      {
+        "first": "Raquel",
+        "last": "Urtasun",
+        "url": ""
+      },
+      {
+        "first": "Bogdan",
+        "last": "Savchynskyy",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/25/13",
+      "title": "Workshop on Computer Vision for Accelerated Bioscience",
+      "url": "http://australianbioinformatics.net/cvab-2013",
+      "workshop_date": "12/02/13",
+      "workshop_length": "full-day"
+    },
+    "workshop_organizers": [
+      {
+        "first": "David",
+        "last": "Lovell",
+        "url": ""
+      },
+      {
+        "first": "Matt",
+        "last": "Adcock",
+        "url": ""
+      },
+      {
+        "first": "Shahram",
+        "last": "Izadi",
+        "url": ""
+      },
+      {
+        "first": "Chuong",
+        "last": "Nguyen",
+        "url": ""
+      },
+      {
+        "first": "Hongdong",
+        "last": "Li",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "09/07/13",
+      "title": "Color and Photometry in Computer Vision",
+      "url": "http://www.wcpcv.com/2013/",
+      "workshop_date": "12/08/13",
+      "workshop_length": "pm-half"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Theo",
+        "last": "Gevers",
+        "url": ""
+      },
+      {
+        "first": "Joost",
+        "last": "van de Weijer",
+        "url": ""
+      },
+      {
+        "first": "Todd",
+        "last": "Zickler",
+        "url": ""
+      },
+      {
+        "first": "Jose",
+        "last": "Alvarez",
+        "url": ""
+      }
+    ]
+  }
+]

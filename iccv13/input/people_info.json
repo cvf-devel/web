@@ -1,0 +1,512 @@
+[
+    {
+        "group": "General Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=I5s7NQ97OYRdWqbqIlgPU2ZP6E81f25oYEi5EPghH7p3LS7gB249oxS9e-QQlC4m",
+        "people": [
+            {
+                "first": "Larry",
+                "last": "Davis",
+                "url": "http://www.umiacs.umd.edu/~lsd/"
+            },
+            {
+                "first": "Richard",
+                "last": "Hartley",
+                "url": "http://users.cecs.anu.edu.au/~hartley/"
+            }
+        ]
+    },
+    {
+        "group": "Program Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=C6DoW64GC7OOTL6bGXsxZmtZeE2ZYkuYZbCMtrjkyQMnEr87r08IRFpf1wK3q33B",
+        "people": [
+            {
+                "first": "Kyros",
+                "last": "Kutulakos",
+                "url": "http://www.cs.toronto.edu/~kyros/"
+            },
+            {
+                "first": "Philip",
+                "last": "Torr",
+                "url": "http://cms.brookes.ac.uk/staff/PhilipTorr/"
+            },
+            {
+                "first": "Steve",
+                "last": "Seitz",
+                "url": "http://homes.cs.washington.edu/~seitz/"
+            },
+            {
+                "first": "Yi",
+                "last": "Ma",
+                "url": "http://research.microsoft.com/en-us/people/mayi/"
+            }
+        ]
+    },
+    {
+        "group": "Workshop Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=9UGDnel5K1yzKjAW8OmxWkij17ps_w-tumNF-BL_IhDfwjwcYMwZmf1-CpYDd5CP",
+        "people": [
+            {
+                "first": "Pushmeet",
+                "last": "Kohli",
+                "url": "http://research.microsoft.com/en-us/um/people/pkohli/"
+            },
+            {
+                "first": "Deva",
+                "last": "Ramanan",
+                "url": "http://www.ics.uci.edu/~dramanan/"
+            },
+            {
+                "first": "Kyoung Mu",
+                "last": "Lee",
+                "url": "http://cv.snu.ac.kr/kmlee"
+            }
+        ]
+    },
+    {
+        "group": "Tutorial Chairs",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01q-31RtaoNPER-uCcqWOcPQ==&c=JeDJoeHxP7SaxmM9QRPVfg4iGMsXRWj3PLuKLfFaD_pF83PLkrSeCl2kEfIXHI5Y",
+        "people": [
+            {
+                "first": "Derek",
+                "last": "Hoiem",
+                "url": "http://www.cs.illinois.edu/homes/dhoiem/"
+            },
+            {
+                "first": "Rob",
+                "last": "Fergus",
+                "url": "http://cs.nyu.edu/~fergus/"
+            },
+            {
+                "first": "Marshall",
+                "last": "Tappen",
+                "url": "http://www.cs.ucf.edu/~mtappen/"
+            }
+        ]
+    },
+    {
+        "group": "Finance Chair",
+        "people": [
+            {
+                "first": "Gerard",
+                "last": "Medioni",
+                "url": "http://iris.usc.edu/people/medioni/"
+            }
+        ]
+    },
+    {
+        "group": "Local Arrangements",
+        "people": [
+            {
+                "first": "Simon",
+                "last": "Lucey",
+                "url": "http://www.ict.csiro.au/staff/simon.lucey/"
+            },
+            {
+                "first": "Massimo",
+                "last": "Piccardi",
+                "url": "http://www-staff.it.uts.edu.au/~massimo/"
+            }
+        ]
+    },
+    {
+        "group": "Corporate Sponsorship",
+        "people": [
+            {
+                "first": "Anthony",
+                "last": "Hoogs",
+                "url": "http://www.kitware.com/company/team/hoogs.html"
+            },
+            {
+                "first": "Anthony",
+                "last": "Dick",
+                "url": "http://cs.adelaide.edu.au/~ard/"
+            }
+        ]
+    },
+    {
+        "group": "Optimization Chair",
+        "people": [
+            {
+                "first": "Chaohui",
+                "last": "Wang",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "group": "Web Chair",
+        "email_link": "http://www.google.com/recaptcha/mailhide/d?k=01EoMOmGwOKKv9ECLWqBMFHA==&c=6YyPZOmCKRwkVjTMZ-eJviDvwCWWeyIpj7XvohlyGRs=",
+        "people": [
+            {
+                "first": "Ryan",
+                "last": "Farrell",
+                "url": "http://www.eecs.berkeley.edu/~farrell/"
+            },
+            {
+                "first": "Grant",
+                "last": "Van Horn",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "group": "Reviewers",
+        "url": "files/Reviewers.pdf",
+        "people": []
+    },
+    {
+        "group": "Area Chairs",
+        "people": [
+            {
+                "first": "Ronen" ,
+                "last": "Basri" ,
+                "institution": "Weizmann Institute, Israel" ,
+                "email": "ronen.basri@weizmann.ac.il" ,
+                "url": "http://www.wisdom.weizmann.ac.il/~ronen/" 
+            },
+            {
+                "first": "Serge" ,
+                "last": "Belongie" ,
+                "institution": "University of California at San Diego" ,
+                "email": "sjb@cs.ucsd.edu" ,
+                "url": "http://cseweb.ucsd.edu/~sjb/" 
+            },
+            {
+                "first": "Horst" ,
+                "last": "Bischof" ,
+                "institution": "Graz University of Technology" ,
+                "email": "bischof@icg.tugraz.at" ,
+                "url": "http://www.icg.tu-graz.ac.at/Members/bischof" 
+            },
+            {
+                "first": "Andrew" ,
+                "last": "Blake" ,
+                "institution": "Microsoft Research Cambridge" ,
+                "email": "ablake@microsoft.com" ,
+                "url": "http://research.microsoft.com/~ablake/" 
+            },
+            {
+                "first": "Michael" ,
+                "last": "Brown" ,
+                "institution": "National University of Singapore" ,
+                "email": "brown@comp.nus.edu.sg" ,
+                "url": "http://www.comp.nus.edu.sg/~brown/" 
+            },
+            {
+                "first": "Daniel" ,
+                "last": "Cremers" ,
+                "institution": "Technische Universit&auml;t M&uuml;nchen" ,
+                "email": "cremers@tum.de" ,
+                "url": "http://vision.in.tum.de/members/cremers" 
+            },
+            {
+                "first": "Irfan" ,
+                "last": "Essa" ,
+                "institution": "Georgia Institute of Technology" ,
+                "email": "irfan@gatech.edu" ,
+                "url": "http://www.ic.gatech.edu/people/irfan-essa" 
+            },
+            {
+                "first": "Rob" ,
+                "last": "Fergus" ,
+                "institution": "New York University" ,
+                "email": "fergus@cs.nyu.edu" ,
+                "url": "http://cs.nyu.edu/~fergus/" 
+            },
+            {
+                "first": "Vitto" ,
+                "last": "Ferrari" ,
+                "institution": "University of Edinburgh" ,
+                "email": "vittorio.ferrari@ed.ac.uk" ,
+                "url": "http://www.vision.ee.ethz.ch/~vferrari/" 
+            },
+            {
+                "first": "Andrew" ,
+                "last": "Fitzgibbon" ,
+                "institution": "Microsoft Research Cambridge" ,
+                "email": "awf@microsoft.com" ,
+                "url": "http://research.microsoft.com/~awf" 
+            },
+            {
+                "first": "David" ,
+                "last": "Fleet" ,
+                "institution": "University of Toronto" ,
+                "email": "fleet@cs.toronto.edu" ,
+                "url": "http://www.cs.toronto.edu/~fleet/" 
+            },
+            {
+                "first": "David" ,
+                "last": "Forsyth" ,
+                "institution": "University of Illinois at Urbana-Champaign" ,
+                "email": "daf@illinois.edu" ,
+                "url": "http://luthuli.cs.uiuc.edu/~daf/" 
+            },
+            {
+                "first": "Kristen" ,
+                "last": "Graumann" ,
+                "institution": "University of Texas at Austin" ,
+                "email": "grauman@cs.utexas.edu" ,
+                "url": "http://cs.utexas.edu/~grauman" 
+            },
+            {
+                "first": "Aaron" ,
+                "last": "Hertzmann" ,
+                "institution": "University of Toronto " ,
+                "email": "hertzman@dgp.toronto.edu" ,
+                "url": "http://www.dgp.toronto.edu/~hertzman/" 
+            },
+            {
+                "first": "Derek" ,
+                "last": "Hoiem" ,
+                "institution": "University of Illinois at Urbana-Champaign" ,
+                "email": "dhoiem@uiuc.edu" ,
+                "url": "http://www.cs.uiuc.edu/homes/dhoiem" 
+            },
+            {
+                "first": "Michal" ,
+                "last": "Irani" ,
+                "institution": "Weizmann Institute, Israel" ,
+                "email": "michal.irani@weizmann.ac.il" ,
+                "url": "http://www.wisdom.weizmann.ac.il/~irani/" 
+            },
+            {
+                "first": "David" ,
+                "last": "Jacobs" ,
+                "institution": "University of Maryland" ,
+                "email": "djacobs@cs.umd.edu" ,
+                "url": "http://www.cs.umd.edu/~djacobs/" 
+            },
+            {
+                "first": "Jiaya" ,
+                "last": "Jia" ,
+                "institution": "Chinese University of Hong Kong" ,
+                "email": "leojia@cse.cuhk.edu.hk" ,
+                "url": "http://www.cse.cuhk.edu.hk/~leojia/" 
+            },
+            {
+                "first": "Fredrik" ,
+                "last": "Kahl" ,
+                "institution": "Lund University" ,
+                "email": "fredrik@maths.lth.se" ,
+                "url": "http://www.maths.lth.se/matematiklth/personal/fredrik/" 
+            },
+            {
+                "first": "Sing Bing" ,
+                "last": "Kang" ,
+                "institution": "Microsoft Research Redmond" ,
+                "email": "SingBing.Kang@microsoft.com" ,
+                "url": "http://research.microsoft.com/en-us/people/sbkang/" 
+            },
+            {
+                "first": "David" ,
+                "last": "Kriegman" ,
+                "institution": "University of California at San Diego" ,
+                "email": "kriegman@cs.ucsd.edu" ,
+                "url": "http://cseweb.ucsd.edu/~kriegman/" 
+            },
+            {
+                "first": "Christoph" ,
+                "last": "Lampert" ,
+                "institution": "Institute of Science and Technology Austria" ,
+                "email": "chl@ist.ac.at" ,
+                "url": "http://pub.ist.ac.at/~chl/" 
+            },
+            {
+                "first": "Erik" ,
+                "last": "Learned-Miller" ,
+                "institution": "University of Massachusetts at Amherst" ,
+                "email": "elm@cs.umass.edu" ,
+                "url": "http://www.cs.umass.edu/~elm/" 
+            },
+            {
+                "first": "Kyoung" ,
+                "last": "Lee" ,
+                "institution": "Seoul National University" ,
+                "email": "kyoungmu@snu.ac.kr" ,
+                "url": "http://cv.snu.ac.kr/kmlee" 
+            },
+            {
+                "first": "Anat" ,
+                "last": "Levin" ,
+                "institution": "Weizmann Institute, Israel" ,
+                "email": "anat.levin@weizmann.ac.il" ,
+                "url": "http://www.wisdom.weizmann.ac.il/~levina/" 
+            },
+            {
+                "first": "Hongdong" ,
+                "last": "Li" ,
+                "institution": "Australia National University" ,
+                "email": "hongdong.li@anu.edu.au" ,
+                "url": "http://users.cecs.anu.edu.au/~hongdong/" 
+            },
+            {
+                "first": "Jitendra" ,
+                "last": "Malik" ,
+                "institution": "UC Berkeley" ,
+                "email": "malik@eecs.berkeley.edu" ,
+                "url": "http://www.cs.berkeley.edu/~malik/" 
+            },
+            {
+                "first": "Aleix" ,
+                "last": "Martinez" ,
+                "institution": "Ohio State University" ,
+                "email": "aleix@ece.osu.edu" ,
+                "url": "http://www2.ece.ohio-state.edu/~aleix/" 
+            },
+            {
+                "first": "Jiri" ,
+                "last": "Matas" ,
+                "institution": "Czech Technical University" ,
+                "email": "matas@cmp.felk.cvut.cz" ,
+                "url": "http://cmp.felk.cvut.cz/~matas/" 
+            },
+            {
+                "first": "Yasuyuki" ,
+                "last": "Matsushita" ,
+                "institution": "Microsoft Research Asia" ,
+                "email": "yasumat@microsoft.com" ,
+                "url": "http://research.microsoft.com/en-us/people/yasumat/" 
+            },
+            {
+                "first": "Srinivas" ,
+                "last": "Narasimhan" ,
+                "institution": "Carnegie Mellon University" ,
+                "email": "srinivas@cs.cmu.edu" ,
+                "url": "http://www.cs.cmu.edu/~srinivas/" 
+            },
+            {
+                "first": "Tomas" ,
+                "last": "Pajdla" ,
+                "institution": "Czech Technical University" ,
+                "email": "pajdla@cmp.felk.cvut.cz" ,
+                "url": "http://cmp.felk.cvut.cz/~pajdla/" 
+            },
+            {
+                "first": "Nikos" ,
+                "last": "Paragios" ,
+                "institution": "Ecole Centrale de Paris " ,
+                "email": "nikos.paragios@ecp.fr" ,
+                "url": "http://vision.mas.ecp.fr/" 
+            },
+            {
+                "first": "Thomas" ,
+                "last": "Pock" ,
+                "institution": "Graz University of Technology" ,
+                "email": "pock@icg.tugraz.at" ,
+                "url": "http://www.icg.tugraz.at/Members/pock" 
+            },
+            {
+                "first": "Marc" ,
+                "last": "Pollefeys" ,
+                "institution": "ETH" ,
+                "email": "marc.pollefeys@inf.ethz.ch" ,
+                "url": "http://www.inf.ethz.ch/personal/pomarc/" 
+            },
+            {
+                "first": "Deva" ,
+                "last": "Ramanan" ,
+                "institution": "University of California at Irvine" ,
+                "email": "dramanan@ics.uci.edu" ,
+                "url": "http://www.ics.uci.edu/~dramanan/" 
+            },
+            {
+                "first": "Ian" ,
+                "last": "Reid" ,
+                "institution": "Univeristy of Oxford" ,
+                "email": "ian@robots.ox.ac.uk" ,
+                "url": "http://www.robots.ox.ac.uk/~ian/" 
+            },
+            {
+                "first": "Carsten" ,
+                "last": "Rother" ,
+                "institution": "Microsoft Research Cambridge" ,
+                "email": "carrot@microsoft.com" ,
+                "url": "http://research.microsoft.com/en-us/um/people/carrot/" 
+            },
+            {
+                "first": "Cordelia" ,
+                "last": "Schmid" ,
+                "institution": "INRIA" ,
+                "email": "cordelia.schmid@inrialpes.fr" ,
+                "url": "http://lear.inrialpes.fr/~schmid/" 
+            },
+            {
+                "first": "Stan" ,
+                "last": "Sclaroff" ,
+                "institution": "Boston University" ,
+                "email": "sclaroff@cs.bu.edu" ,
+                "url": "http://www.cs.bu.edu/~sclaroff/" 
+            },
+            {
+                "first": "Josef" ,
+                "last": "Sivic" ,
+                "institution": "Ecole Normale Sup&eacute;rieure" ,
+                "email": "Josef.Sivic@ens.fr" ,
+                "url": "http://www.di.ens.fr/~josef/" 
+            },
+            {
+                "first": "Cristian " ,
+                "last": "Sminchisescu" ,
+                "institution": "Lund University" ,
+                "email": "cristian.sminchisescu@math.lth.se" ,
+                "url": "http://sminchisescu.ins.uni-bonn.de/" 
+            },
+            {
+                "first": "Stefano" ,
+                "last": "Soatto" ,
+                "institution": "University of California at Los Angeles" ,
+                "email": "soatto@ucla.edu" ,
+                "url": "http://www.cs.ucla.edu/~soatto/" 
+            },
+            {
+                "first": "Antonio" ,
+                "last": "Torralba" ,
+                "institution": "MIT" ,
+                "email": "torralba@csail.mit.edu" ,
+                "url": "http://web.mit.edu/torralba/www/" 
+            },
+            {
+                "first": "Tinne" ,
+                "last": "Tuytelaars" ,
+                "institution": "KU Leuven" ,
+                "email": "Tinne.Tuytelaars@esat.kuleuven.be" ,
+                "url": "http://homes.esat.kuleuven.be/~tuytelaa/" 
+            },
+            {
+                "first": "Raquel" ,
+                "last": "Urtasun" ,
+                "institution": "Toyota Technological Institute at Chicago" ,
+                "email": "rurtasun@ttic.edu" ,
+                "url": "http://ttic.uchicago.edu/~rurtasun/" 
+            },
+            {
+                "first": "Manik" ,
+                "last": "Varma" ,
+                "institution": "Microsoft Research India" ,
+                "email": "manik@microsoft.com" ,
+                "url": "http://research.microsoft.com/en-us/um/people/manik/" 
+            },
+            {
+                "first": "Rene" ,
+                "last": "Vidal" ,
+                "institution": "Johns Hopkins University" ,
+                "email": "rvidal@cis.jhu.edu" ,
+                "url": "http://cis.jhu.edu/~rvidal/" 
+            },
+            {
+                "first": "Ramin" ,
+                "last": "Zabih" ,
+                "institution": "Cornell University" ,
+                "email": "rdz@cs.cornell.edu" ,
+                "url": "http://www.cs.cornell.edu/rdz/" 
+            },
+            {
+                "first": "Andrew" ,
+                "last": "Zisserman" ,
+                "institution": "University of Oxford" ,
+                "email": "az@robots.ox.ac.uk" ,
+                "url": "http://www.robots.ox.ac.uk/~az/" 
+            }
+        ]
+    }
+]
