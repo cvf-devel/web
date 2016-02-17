@@ -66,7 +66,7 @@ function li_id($page_list)
                         #tabs-people li { position: relative; top:-5px; left:-10px;}
 			.iccvpagewidth {max-width: 1024px; min-width: 400px;}
 			.iccvpageheight {min-height: 600px;}
-                        #logo { width: 525px; height: 220px; margin: 0 auto; position: absolute; bottom: -1px; right: 0px;
+                        #logo { width: 565px; height: 220px; margin: 0 auto; position: absolute; bottom: -1px; right: 0px;
                              background: url(images/iccv2015_logo_200h_final.png); text-indent: -9999px; z-index: 80; }
 
                         #main-page  {margin:0; margin-left: auto; margin-right: auto; width:1024px; position:relative; min-height:600px; border: 1px solid black; background: #FFFFFF; }
@@ -84,7 +84,7 @@ function li_id($page_list)
                         #slideshow {
                             margin-left: auto;
                             margin-right: auto;
-                            width: 1024px;
+                            width: 1105px;
                             height: 200px;
                             position: relative;
                         }
@@ -98,7 +98,7 @@ function li_id($page_list)
                             left: -1px;
                             width: 984px;
                             height: 202px;
-                            border: 1px solid black;
+                            border: 0px solid black;
                         }
                         div#slideshow ul#slides li {
                             margin: 0 0 20px 0;
@@ -211,7 +211,8 @@ function li_id($page_list)
                                 <div id="logo"></div>
                                 <ul id="slides">
                                         <li><img src="images/slideshow/slideshow-01.png" alt="Title"/></li>
-                                        <li><img src="images/slideshow/slideshow-02.png" alt="Title"/></li>
+                                       <!-- same problem as in cvpr2013 with the slides not showing up correctly
+					 <li><img src="images/slideshow/slideshow-02.png" alt="Title"/></li>
                                         <li><img src="images/slideshow/slideshow-03.png" alt="Title"/></li>
                                         <li><img src="images/slideshow/slideshow-04.png" alt="Title"/></li>
                                         <li><img src="images/slideshow/slideshow-05.png" alt="Title"/></li>
@@ -227,7 +228,7 @@ function li_id($page_list)
                                         <li><img src="images/slideshow/slideshow-15.png" alt="Title"/></li>
                                         <li><img src="images/slideshow/slideshow-16b.png" alt="Title"/></li>
                                         <li><img src="images/slideshow/slideshow-17.png" alt="Title"/></li>
-                                        <li><img src="images/slideshow/slideshow-18.png" alt="Title"/></li>
+                                        <li><img src="images/slideshow/slideshow-18.png" alt="Title"/></li> -->
                                 </ul>
                         </div>
 		<!--<div class="iccvpagewidth" id="page-tabs">
