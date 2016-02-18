@@ -1,0 +1,22 @@
+<p>The human brain is the most sophisticated image processing system known, capable of impressive feats of recognition and discrimination under challenging natural conditions. Reverse-engineering the brain might enable us to design artificial systems with the same capabilities. My laboratory uses a data-driven system identification approach to tackle this reverse-engineering problem. Our approach consists of four broad stages. First, we use functional MRI to measure brain activity while people watch naturalistic movies. We divide these data into two parts, one use to fit models and one for testing model predictions. Second, we use a system identification framework (based on multiple linearizing feature spaces) to model activity measured at each point in the brain. Third, we inspect the most accurate models to understand how the brain represents low-, mid- and high-level information in the movies. Finally, we use the estimated models to decode brain activity, reconstructing the structural and semantic content in the movies. Any effort to reverse-engineer the brain is inevitably limited by the spatial and temporal resolution of brain measurements, and at this time the resolution of human brain measurements is relatively poor. Still, as measurement technology progresses this framework could inform development of biologically-inspired computer vision systems, and it could aid in development of practical new brain reading technologies.</p>
+
+<p><b>Biography:</b></p>
+
+<p>Jack Gallant is Chancellor's Professor of Psychology at the
+University of California at Berkeley. He is affiliated with the
+graduate programs in Bioengineering, Biophysics, Neuroscience and
+Vision Science. He received his Ph.D. from Yale University and did
+post-doctoral work at the California Institute of Technology and
+Washington University Medical School. His research program focuses on
+computational modeling of the human brain. These models accurately
+describe how the brain encodes information during complex,
+naturalistic tasks, and they show how information about the external
+and internal world are mapped systematically across the surface of the
+cerebral cortex. These models can also be used to decode information
+in the brain in order to reconstruct mental experiences. Gallant's
+brain decoding algorithm was one of Times Magazine's Inventions of the
+Year in 2011, and he appears frequently on radio and
+television. Further information about ongoing work in the Gallant lab,
+links to talks and papers, and links to an online interactive brain
+viewer can be found at the lab web page: <a
+href="http://gallantlab.org">http://gallantlab.org</a>.</p>

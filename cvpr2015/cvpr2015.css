@@ -1,0 +1,98 @@
+html {
+    min-height: 100%;
+    overflow-y: scroll;
+}
+body { 
+    font:       70% "Trebuchet MS", sans-serif; 
+
+    background-color: #fff;
+    /* gradient code from : http://ie.microsoft.com/testdrive/graphics/cssgradientbackgroundmaker/ */
+
+    /* IE10 Consumer Preview */ 
+    /* background-image: -ms-linear-gradient(top left, #881C1C 0%, #FFFFFF 100%); */
+    /* Mozilla Firefox */ 
+    /* background-image: -moz-linear-gradient(top left, #881C1C 0%, #FFFFFF 100%); */
+    /* Opera */ 
+    /* background-image: -o-linear-gradient(top left, #881C1C 0%, #FFFFFF 100%); */
+    /* Webkit (Safari/Chrome 10) */ 
+    /* background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #881C1C), color-stop(1, #FFFFFF)); */
+    /* Webkit (Chrome 11+) */ 
+    /* background-image: -webkit-linear-gradient(top left, #881C1C 0%, #FFFFFF 100%); */
+    /* W3C Markup, IE10 Release Preview */ 
+    /* background-image: linear-gradient(to bottom right, #881C1C 0%, #FFFFFF 100%); */
+}
+
+#center_col { 
+    margin-top:    30px; 
+    margin-left:   auto; 
+    margin-right:  auto; 
+    margin-bottom: 30px;
+    width:         800px; 
+    position:      relative; 
+    min-height:    200px; 
+    box-shadow:     4px 0px 6px 0px rgba(0,0,0,0.5), 
+    -4px 0px 6px 0px rgba(0,0,0,0.5);
+}
+
+#menubox {
+    margin:       0; 
+    margin-left:  auto; 
+    margin-right: auto;
+    position:     relative;
+    margin-top:   -11px;
+    z-index: 4;
+}
+
+#top_logo { 
+    width:       264px; 
+    height:      140px; 
+    margin:      0 auto; 
+    position:    absolute; 
+    top:         47px; 
+    right:       -1px;
+    background:  url(images/cvpr_logo2.png); 
+    z-index:     3; 
+}
+
+#slideshow {
+    margin-left:  auto;
+    margin-right: auto;
+    width:        800px;
+    height:       160px;
+    position:     relative;
+    z-index:      2;
+}
+div#slideshow ul#slides {
+    list-style: none;
+    left:   -1px;
+    width:  760px;
+    height: 162px;
+    border: 1px solid black;
+}
+div#slideshow ul#slides li {
+    margin: 0 0 20px 0;
+}
+
+#main_content {
+    font-size:  125%; 
+    background: #ffffff; 
+    padding:    25px;
+    margin-top: -11px;
+}
+
+#photo_footer {
+    font-size: 80%;
+    color: #666;
+}
+
+.cvprtable { 
+    border:          1px solid rgb(180,180,180); 
+    padding:         5px;
+    border-spacing:  0px; 
+    border-collapse: collapse; 
+}
+.cvprtableline { border: 1px }
+.cvprtableheader { 
+    background-color: #ece9d4;
+    color: #881c1c;
+}

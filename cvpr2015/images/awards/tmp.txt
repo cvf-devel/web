@@ -1,0 +1,81 @@
+Best Paper
+Prize committee
+Kobus Barnard, Horst Bischof, Pedro Felzenszwalb, David Forsyth, Svetlana Lazebnik, Jiri Matas (chair)
+
+Best Paper
+DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time
+Richard A. Newcombe, Dieter Fox, Steven M. Seitz       
+Sponsored by Megvii
+Hardware prize sponsored by NVIDIA
+
+Honorable mention
+Efficient Globally Optimal Consensus Maximisation with Tree Search
+Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
+Sponsored by SenseTime
+Hardware prize sponsored by NVIDIA
+
+Honorable Mention
+Fully Convolutional Networks for Semantic Segmentation
+Jonathan Long, Evan Shelhamer, Trevor Darrell
+Sponsored by Intel
+Hardware prize sponsored by NVIDIA
+
+Honorable Mention
+Picture: A Probabilistic Programming Language for Scene Perception
+Tejas D Kulkarni, Pushmeet Kohli, Joshua B Tenenbaum, Vikash Mansinghka
+Sponsored by Cognex
+Hardware prize sponsored by NVIDIA
+
+
+Student
+Category-Specific Object Reconstruction from a Single Image
+Abhishek Kar, Shubham Tulsiani, João Carreira, Jitendra Malik
+ Sponsored by Google
+Hardware prize sponsored by NVIDIA
+
+
+
+
+
+TC Award Process
+
+Overseen by the PAMI-TC Awards Committee
+David Forsyth, Bill Freeman, Richard Hartley, Jitendra Malik, Cordelia Schmid, Andrew Zisserman
+Decide policy, select the group that chooses the winners of each award
+
+Prizes come with a plaque plus $3,000
+
+Process, including conflicts policy, described at
+http://www.computer.org/portal/web/tcpami/Award-Committee
+
+
+Longuet-Higgins Prize
+
+Recognizes a CVPR paper from 10 years ago that has had significant impact
+
+Prize committee:
+David Forsyth, William T. Freeman, Jitendra Malik (chair), Cordelia Schmid
+
+
+Histograms of oriented gradients for human detection
+	
+	Navneet Dalal and Bill Triggs
+
+A non-local algorithm for image denoising
+
+	Antoni Buades, Bartomeu Coll, and Jean-Michel Morel
+
+Sponsored by Microsoft Research
+
+
+PAMI Young Researcher Award
+
+Eligible if Ph.D. awarded on January 1, 2008 or later
+Nomination process, including 2 letters of reference
+NSF definition of conflicts of interest with candidates
+Award committee:
+Bill Freeman, David Kriegman, Maja Pantic, Cordelia Schmid (chair), Tinne Tuytelaars
+
+John Wright
+
+Sponsored by Elsevier's Image and Vision Computing Journal

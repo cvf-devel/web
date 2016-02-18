@@ -1,0 +1,387 @@
+[
+  {
+    "tutorial_info": {
+      "title": "OpenCV 3.0: Solving Problems",
+      "url": "http://code.opencv.org/projects/opencv/wiki/CVPR2014",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Gary",
+        "last": "Bradski",
+        "url": ""
+      },
+      {
+        "first": "Vadim",
+        "last": "Pisarevsky",
+        "url": ""
+      },
+      {
+        "first": "Vincent",
+        "last": "Rabaud",
+        "url": ""
+      },
+      {
+        "first": "Grace",
+        "last": "Vesom",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Founding a computer vision startup",
+      "url": "http://www.maths.lth.se/matematiklth/personal/solem/cvpr2014-tutorial.html",
+      "tutorial_date": "6/28/14",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Till",
+        "last": "Quack",
+        "url": ""
+      },
+      {
+        "first": "Jan Erik",
+        "last": "Solem",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Describing images in natural language",
+      "url": "http://nlp.cs.illinois.edu/HockenmaierGroup/CVPR14Tutorial",
+      "tutorial_date": "6/28/14",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Julia",
+        "last": "Hockenmaier",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Emerging topics in human activity recognition",
+      "url": "http://cvrc.ece.utexas.edu/mryoo/cvpr2014tutorial/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Michael",
+        "last": "Ryoo",
+        "url": ""
+      },
+      {
+        "first": "Ivan",
+        "last": "Laptev",
+        "url": ""
+      },
+      {
+        "first": "Greg",
+        "last": "Mori",
+        "url": ""
+      },
+      {
+        "first": "Sangmin",
+        "last": "Oh",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Visual SLAM",
+      "url": "http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/",
+      "tutorial_date": "6/28/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Frank",
+        "last": "Dellaert",
+        "url": ""
+      },
+      {
+        "first": "Michael",
+        "last": "Kaess",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Video Segmentation",
+      "url": "http://www.cse.buffalo.edu/~jcorso/t/CVPR14_videoseg/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Jason",
+        "last": "Corso",
+        "url": ""
+      },
+      {
+        "first": "Irfan",
+        "last": "Essa",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "BASIS-14: BASes for Images and Surfaces",
+      "url": "http://cvn.ecp.fr/personnel/iasonas/basis14/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Alex",
+        "last": "Bronstein",
+        "url": ""
+      },
+      {
+        "first": "Michael",
+        "last": "Bronstein",
+        "url": ""
+      },
+      {
+        "first": "Iasonas",
+        "last": "Kokkinos",
+        "url": ""
+      },
+      {
+        "first": "George",
+        "last": "Papandreou",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Large-scale visual recognition",
+      "url": "https://sites.google.com/site/lsvrtutorialcvpr14/",
+      "tutorial_date": "6/28/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Zaid",
+        "last": "Harchaoui",
+        "url": ""
+      },
+      {
+        "first": "Herv&eacute;",
+        "last": "J&eacute;gou",
+        "url": ""
+      },
+      {
+        "first": "Florent",
+        "last": "Perronnin",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Learning visual semantics: models, massive computation, and innovative applications",
+      "url": "http://mp7.watson.ibm.com/LearningVisualSemantics/index.htm",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "John",
+        "last": "Smith",
+        "url": ""
+      },
+      {
+        "first": "Rogerio",
+        "last": "Feris",
+        "url": ""
+      },
+      {
+        "first": "Liangliang",
+        "last": "Cao",
+        "url": ""
+      },
+      {
+        "first": "Shih-Fu",
+        "last": "Chang",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Deep learning for computer vision",
+      "url": "https://sites.google.com/site/deeplearningcvpr2014/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Graham",
+        "last": "Taylor",
+        "url": ""
+      },
+      {
+        "first": "Marc'Aurelio",
+        "last": "Ranzato",
+        "url": ""
+      },
+      {
+        "first": "Honglak",
+        "last": "Lee",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "State of the art 3D reconstruction techniques: Very large scale 3D reconstruction and the role of priors",
+      "url": "http://3dreconstruct.cs.cornell.edu/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "am-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Noah",
+        "last": "Snavely",
+        "url": ""
+      },
+      {
+        "first": "Yasutaka",
+        "last": "Furukawa",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Towards solving real-world vision problems with RGB-D cameras",
+      "url": "http://www.iai.uni-bonn.de/~gall/tutorials/visionRGBD14.html",
+      "tutorial_date": "6/28/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Juergen",
+        "last": "Gall",
+        "url": ""
+      },
+      {
+        "first": "Xiaofeng",
+        "last": "Ren",
+        "url": ""
+      },
+      {
+        "first": "Pushmeet",
+        "last": "Kohli",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Large-scale visual place recognition and image-based localization",
+      "url": "https://sites.google.com/site/lsvpr2014/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Torsten",
+        "last": "Sattler",
+        "url": ""
+      },
+      {
+        "first": "Akihiko",
+        "last": "Torii",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Learning and inference in discrete graphical models",
+      "url": "http://imagine.enpc.fr/~komodakn/GraphicalModels_CVPR2014.html",
+      "tutorial_date": "6/28/14",
+      "tutorial_length": "pm-half"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Nikos",
+        "last": "Komodakis",
+        "url": ""
+      },
+      {
+        "first": "Nikos",
+        "last": "Paragios",
+        "url": ""
+      },
+      {
+        "first": "Stephen",
+        "last": "Gould",
+        "url": ""
+      },
+      {
+        "first": "Matthew",
+        "last": "Blaschko",
+        "url": ""
+      },
+      {
+        "first": "Pushmeet",
+        "last": "Kohli",
+        "url": ""
+      },
+      {
+        "first": "Karteek",
+        "last": "Alahari",
+        "url": ""
+      },
+      {
+        "first": "Dhruv",
+        "last": "Batra",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "tutorial_info": {
+      "title": "Dense image correspondences for computer vision",
+      "url": "https://sites.google.com/site/cvpr2014tutorial/",
+      "tutorial_date": "6/23/14",
+      "tutorial_length": "full-day"
+    },
+    "tutorial_organizers": [
+      {
+        "first": "Michael",
+        "last": "Rubinstein",
+        "url": ""
+      },
+      {
+        "first": "Jaechul",
+        "last": "Kim",
+        "url": ""
+      },
+      {
+        "first": "Zhuowen",
+        "last": "Tu",
+        "url": ""
+      },
+      {
+        "first": "Ce",
+        "last": "Liu",
+        "url": ""
+      }
+    ]
+  }
+]

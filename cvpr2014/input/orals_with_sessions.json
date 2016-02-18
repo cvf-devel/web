@@ -1,0 +1,552 @@
+[
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 1585,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 1265,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 970,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 125,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 754,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1A",
+    "paper_id": 961,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 386,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 691,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 1796,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 1294,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 432,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 1B",
+    "paper_id": 955,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 648,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 1938,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 492,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 1058,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2A",
+    "paper_id": 673,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 1054,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 2012,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 363,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 308,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 2B",
+    "paper_id": 803,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 959,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 1310,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 507,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 1333,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 1759,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3A",
+    "paper_id": 337,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 242,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 512,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 1710,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 1769,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 776,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 3B",
+    "paper_id": 457,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4B",
+    "paper_id": 824,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4B",
+    "paper_id": 493,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4B",
+    "paper_id": 396,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4B",
+    "paper_id": 418,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4B",
+    "paper_id": 1779,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4B",
+    "paper_id": 1335,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4A",
+    "paper_id": -1,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4A",
+    "paper_id": -2,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4A",
+    "paper_id": -3,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4A",
+    "paper_id": -4,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4A",
+    "paper_id": -5,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 4A",
+    "paper_id": -6,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5A",
+    "paper_id": 886,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5A",
+    "paper_id": 1175,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5A",
+    "paper_id": 1670,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5A",
+    "paper_id": 1819,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5B",
+    "paper_id": 787,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5B",
+    "paper_id": 1230,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5B",
+    "paper_id": 1921,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 5B",
+    "paper_id": 1429,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6A",
+    "paper_id": 539,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6A",
+    "paper_id": 1031,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6A",
+    "paper_id": 1326,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6A",
+    "paper_id": 1078,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6A",
+    "paper_id": 1161,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6A",
+    "paper_id": 683,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6B",
+    "paper_id": 2043,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6B",
+    "paper_id": 261,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6B",
+    "paper_id": 860,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6B",
+    "paper_id": 1012,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6B",
+    "paper_id": 2026,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 6B",
+    "paper_id": 819,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7A",
+    "paper_id": 1097,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7A",
+    "paper_id": 256,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7A",
+    "paper_id": 829,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7A",
+    "paper_id": 163,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7A",
+    "paper_id": 984,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7A",
+    "paper_id": 402,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7B",
+    "paper_id": 312,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7B",
+    "paper_id": 384,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7B",
+    "paper_id": 1062,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7B",
+    "paper_id": 1927,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7B",
+    "paper_id": 2090,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 7B",
+    "paper_id": 782,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8A",
+    "paper_id": 444,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8A",
+    "paper_id": 1731,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8A",
+    "paper_id": 373,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8A",
+    "paper_id": 320,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8A",
+    "paper_id": 1475,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8A",
+    "paper_id": 826,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8B",
+    "paper_id": 241,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8B",
+    "paper_id": 1818,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8B",
+    "paper_id": 846,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8B",
+    "paper_id": 971,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8B",
+    "paper_id": 262,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 8B",
+    "paper_id": 458,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9A",
+    "paper_id": 1108,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9A",
+    "paper_id": 532,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9A",
+    "paper_id": 513,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9A",
+    "paper_id": 120,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9A",
+    "paper_id": 1242,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9A",
+    "paper_id": 1347,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9B",
+    "paper_id": 1797,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9B",
+    "paper_id": 1801,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9B",
+    "paper_id": 1995,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9B",
+    "paper_id": 570,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9B",
+    "paper_id": 1978,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 9B",
+    "paper_id": 1599,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10A",
+    "paper_id": 489,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10A",
+    "paper_id": 630,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10A",
+    "paper_id": 562,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10A",
+    "paper_id": 1279,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10B",
+    "paper_id": 61,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10B",
+    "paper_id": 150,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10B",
+    "paper_id": 1210,
+    "session_name": "TBD"
+  },
+  {
+    "oral_session_id": "O 10B",
+    "paper_id": 366,
+    "session_name": "TBD"
+  }
+]

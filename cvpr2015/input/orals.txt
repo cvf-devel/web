@@ -1,0 +1,71 @@
+Hypercolumns for object segmentation and fine-grained localization
+Untangling Local and Global Deformations in Deep Learning for Image Recognition
+Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction
+Going deeper with convolutions
+Understanding image representations by measuring their equivariance and equivalence
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+DynamicFusion: Reconstruction and Tracking of Non-Rigid Scenes in Real-Time
+Fusion in Motion: Nonrigid Surface Reconstruction with a Single Depth Sensor
+An Efficient Volumetric Framework for Shape Tracking
+Part-based modelling of compound scenes from images
+SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite
+Small-Variance Nonparametric Clustering on the Hypersphere
+Discovering States and Transformations in Image Collections
+Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals
+FlowWeb: Joint Image Set Alignment by Weaving Consistent, Pixel-wise Correspondences
+EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow
+Phase-Based Frame Interpolation for Video
+Towards Open World Recognition
+Category-Specific Object Reconstruction from a Single Image
+Discriminative Shape From Shading in Uncalibrated Illumination
+Learning to Generate Chairs with Convolutional Neural Networks
+3D ShapeNets: A Deep Representation for Volumetric Shape Modeling
+Sketch-based 3D Shape Retrieval using Convolutional Neural Network
+Data-Driven 3D Voxel Patterns for Object Category Recognition
+Show and Tell: A Neural Image Caption Generator
+Deep Visual-Semantic Alignments for Generating Image Descriptions
+Long-term Recurrent Convolutional Networks for Visual Recognition and Description
+Image Specificity
+Don’t Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks
+Becoming the Expert - Interactive Multi-Class Machine Teaching
+Building the World in Six Days
+Joint Vanishing Point Extraction and Tracking
+Robust Camera Location Estimation by Convex Programming
+Efficient Globally Optimal Consensus Maximisation with Tree Search
+RnP - Rolling Shutter Absolute Camera Pose
+Building Proteins in a Day: Efficient 3D Molecular Reconstruction
+Causal Video Object Segmentation From Persistence of Occlusions
+Semantic Object Segmentation via Detection in Weakly Labeled Video
+Fully Convolutional Networks for Semantic Segmentation
+Shape-Tailored Local Descriptors and their Application to Segmentation and Tracking
+Deep convolutional filter banks for texture recognition and segmentation
+Active Learning for Structured Probabilistic Models with Histogram Approximation
+Picture: A probabilistic programming language for scene perception
+Rent3D: Floor-Plan Priors for Monocular Layout Estimation
+The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose
+3D Shape Reconstruction from 2D Landmarks: A Convex Formulation
+Holistic 3D Scene Understanding from a Single Geo-tagged Image
+High Accuracy 3D Object Localization with Joint SFM and Detection Cues
+How many bits does it take for a stimulus to be salient?
+Deeply Learned Attributes for Crowded Scene Understanding
+Joint Inference of Groups, Events and Human Roles in Aerial Videos
+Modeling Video Evolution For Action Recognition
+Space-Time Tree Ensemble for Action Recognition
+Social Saliency Prediction
+Visual Vibrometry: Estimating Material Properties from Small Motion in Video
+Recovering Inner Slices of Translucent Objects by Multi-frequency Illumination
+Fast Bilateral-Space Stereo for Synthetic Refocus
+Simultaneous Video Defogging and Stereo Reconstruction
+One-day outdoor photometric stereo via skylight estimation
+Domain Size Pooling in Local Descriptors
+Learning Deep Representations for Bird's Eye-to-Street View Geolocalization
+Understanding Deep Image Representations by Inverting Them
+Situational Object Boundary Detection
+Fast 2D Border Ownership Assignment
+A Flexible Tensor Block Coordinate Ascent Scheme for Hypergraph Matching
+Generalized Video Deblurring for Dynamic Scenes
+Approximate Nearest Neighbor Fields in Video
+Single Image Super-resolution from Transformed Self-Exemplars
+$\ell_0$TV: A New Method for Image Restoration in the Presence of Impulse Noise
+On learning optimized reaction diffusion processes for effective image restoration
+Fast and Flexible Convolutional Sparse Coding

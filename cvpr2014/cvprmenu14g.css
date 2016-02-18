@@ -1,0 +1,8 @@
+#cvprmenubar {padding:0; width:800px; border-bottom:1px solid rgb(19,40,71); background:#0069AA}
+#cvprmenubar li { float:left; list-style: none;bottom:0;}
+#cvprmenubar li a { display:block; color:rgb(19,40,71); text-decoration:none; background:#d7dde7; padding: 6px 10px; border-right:1px solid rgb(19,40,71); border-bottom:1px solid rgb(19,40,71); border-top-left-radius:5px; border-top-right-radius:5px;}
+#cvprmenubar li a:hover { background:#EDF4FF; }
+#cvprmenubar li ul {margin: 0; padding: 0; position: absolute; visibility: hidden; border: 1px solid rgb(19,40,71); border-top: 1px solid rgb(19,40,71); z-index:100}
+#cvprmenubar li ul li {float:none; display: inline;}
+#cvprmenubar li ul li a { width: auto; background:#98afd6; border-bottom:none; border-top-left-radius:0px; border-top-right-radius:0px}
+#cvprmenubar li ul li a:hover { background:#7e92b2;}

@@ -1,0 +1,17 @@
+3D Computer vision
+Big data, large scale methods
+Computational photography, sensing, and display
+Convolutional Neural Networks and Deep Learning
+Face and gesture
+Kinect/3D
+Low-level vision and image processing
+Medical, biological and cell microscopy image analysis
+Motion and tracking
+Optimization methods
+Performance evaluations and datasets
+Physics-based vision and shape from X
+Recognition: detection, categorization, indexing, matching
+Segmentation, grouping, and shape representation
+Statistical methods and learning
+Video: events, activities, and surveillance
+Vision for robotics/web/graphics/document analysis/biometrics

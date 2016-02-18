@@ -1,0 +1,281 @@
+[
+    {
+	"workshop_info": {
+	    "title": "DeepVision: Deep Learning in Computer Vision 2015",
+	    "url": "http://www.deep-vision.net",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 102"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Semantics for Visual Reconstruction and SLAM",
+	    "url": "https://roboticvision.atlassian.net/wiki/display/PUB/CVPR+2015+Workshop+on+Semantics+for+Visual+Reconstruction%2C+Localization+and+Mapping",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 103"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Vision Industry and Entrepreneur Workshop (VIEW 2015)",
+	    "url": "http://computervisioncentral.com/view",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 202"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Performance Metrics for Correspondence Problems: A Reality Check for Stereo, Flow and Reconstruction",
+	    "url": "http://hci.iwr.uni-heidelberg.de//Static/cvpr15ws-correspondence/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 202"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "THUMOS Challenge: The third International Competition and Workshop on Action Recognition with a Large Number of Classes",
+	    "url": "http://www.thumos.info/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 206"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Medical Imaging meets Computer Vision (MCV) at the era of (big) Data, (deep) Learning and novel Representations",
+	    "url": "https://sites.google.com/site/cvprmcv15/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 203"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Bioimage Computing (BIC)",
+	    "url": "http://bioimagecomputing.com/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 101"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "OpenCV People's Choice Winning Papers and State of the Art Vision Challenge Workshop",
+	    "url": "http://code.opencv.org/projects/opencv/wiki/VisionChallenge",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 101"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Women in Computer Vision (WiCV)",
+	    "url": "https://sites.google.com/site/wicv2015/home",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 203"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Vision meets Cognition: Functionality, Physics, Intentionality and Causality",
+	    "url": "http://www.visionmeetscognition.org/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 104"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Biometrics Workshop",
+	    "url": "http://vislab.ucr.edu/Biometrics15/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 104"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Perception Beyond the Visual Spectrum (PBVS)",
+	    "url": "http://www.vcipl.okstate.edu/otcbvs/15/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 105"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Large Scale Visual Commerce (LSVisCom)",
+	    "url": "http://lsviscom.org/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 105"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Language and Vision",
+	    "url": "http://languageandvision.com/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 201"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Visual Place Recognition in Changing Environments",
+	    "url": "https://roboticvision.atlassian.net/wiki/display/PUB/CVPR+2015+Workshop+on+Visual+Place+Recognition+in+Changing+Environments",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 204"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "The Future of Datasets in Vision",
+	    "url": "https://sites.google.com/site/cvpr2015futureofdataworkshop",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 204"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "GRoup and crOWd behavior analysis and understanding (GROW 2015)",
+	    "url": "http://qil.uh.edu/grow2015/",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 107"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Big Data Meets Computer Vision: 3rd International Workshop on Large Scale Visual Recognition and Retrieval (BigVision 2015)",
+	    "url": "https://sites.google.com/site/bigvision2015cvpr",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 102"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Large-scale Scene Understanding Challenge",
+	    "url": "http://lsun.cs.princeton.edu",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 103"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Scene Understanding Workshop (SUNw'15)",
+	    "url": "http://sunw.csail.mit.edu",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 103"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "ChaLearn Looking at People",
+	    "url": "http://gesture.chalearn.org/",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 101"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Observing and Understanding Hands in Action (Hands 2015)",
+	    "url": "http://www.ics.uci.edu/~jsupanci/HANDS-2015/index.html",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 104"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "AMFG Toward Extreme Face and Gesture Analysis",
+	    "url": "http://www.northeastern.edu/smilelab/AMFG2015/home.html",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 105"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "3D from a Single Image",
+	    "url": "http://3dsi.stanford.edu/",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 107"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Embedded Vision Workshop (EVW)",
+	    "url": "http://computervisioncentral.com/evw2015",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "full-day",
+	    "location": "Room 108"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Computational Cameras and Displays",
+	    "url": "http://ollie-imac.cs.northwestern.edu/~ollie/CCD2015",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 109"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Large-Scale Video Search and Mining (LSVSM)",
+	    "url": "http://www.ntu.edu.sg/home/jsyuan/lsvsm15/index.html",
+	    "workshop_date": "6/11/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 109"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Fine-Grained Visual Categorization (FGVC3)",
+	    "url": "http://www.fgvc.org/",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 110"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Multi-Sensor Fusion for Dynamic Scene Understanding (MSF'15)",
+	    "url": "http://www.sfpt.fr/msf15/",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 110"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Looking from above: when Earth observation meets vision (EARTHVISION)",
+	    "url": "http://www.grss-ieee.org/earthvision2015/",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "am-half",
+	    "location": "Room 111"
+	}
+    },
+    {
+	"workshop_info": {
+	    "title": "Computer Vision in Vehicle Technology: Assisted Driving, Exploration Rovers, Aerial and Underwater Vehicles",
+	    "url": "http://www.cvc.uab.es/adas/cvvt2015/",
+	    "workshop_date": "6/12/15",
+	    "workshop_length": "pm-half",
+	    "location": "Room 111"
+	}
+    }
+]

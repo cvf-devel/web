@@ -1,0 +1,60 @@
+<p>Deep learning methods have had a profound impact on a number of areas in recent years, including natural image understanding and speech recognition. Other areas seem on the verge of being similarly impacted, notably natural language processing, biomedical image analysis, and the analysis of sequential signals in a variety of application domains. But deep learning systems, as they exist today, have many limitations.</p>
+
+<p>First, they lack mechanisms for reasoning, search, and inference. Complex and/or ambiguous inputs require deliberate reasoning to arrive at a consistent interpretation. Producing structured outputs, such as a long text, or a label map for image segmentation, require sophisticated search and inference algorithms to satisfy complex sets of constraints. One approach to this problem is to marry deep learning with structured prediction (an idea first presented at CVPR 1997). While several deep learning systems augmented with structured prediction modules trained end to end have been proposed for OCR, body pose estimation, and semantic segmentation, new concepts are needed for tasks that require more complex reasoning.</p>
+
+<p>Second, they lack short-term memory. Many tasks in natural language understanding, such as question-answering, require a way to temporarily store isolated facts. Correctly interpreting events in a video and being able to answer questions about it requires remembering abstract representations of what happens in the video. Deep learning systems, including recurrent nets, are notoriously inefficient at storing temporary memories. This has led researchers to propose neural nets systems augmented with separate memory modules, such as LSTM, Memory Networks, Neural Turing Machines, and Stack-Augmented RNN. While these proposals are interesting, new ideas are needed.</p>
+
+<p>Lastly, they lack the ability to perform unsupervised learning. Animals and humans learn most of the structure of the perceptual world in an unsupervised manner. While the interest of the ML community in neural nets was revived in the mid-2000s by progress in unsupervised learning, the vast majority of practical applications of deep learning have used purely supervised learning. There is little doubt that future progress in computer vision will require breakthroughs in unsupervised learning, particularly for video understanding, But what principles should unsupervised learning be based on?</p>
+
+<p>Preliminary works in each of these areas pave the way for future progress in image and video understanding.</p>
+
+<p><b>Biography:</b></p>
+
+<p>Yann LeCun is Director of AI Research at Facebook, and Silver
+Professor of Data Science, Computer Science, Neural Science, and
+Electrical Engineering at New York University, affiliated with the NYU
+Center for Data Science, the Courant Institute of Mathematical
+Science, the Center for Neural Science, and the Electrical and
+Computer Engineering Department.</p>
+
+<p>He received the Electrical Engineer Diploma from Ecole Superieure
+d'Ingenieurs en Electrotechnique et Electronique (ESIEE), Paris in
+1983, and a PhD in Computer Science from Universite Pierre et Marie
+Curie (Paris) in 1987. After a postdoc at the University of Toronto,
+he joined AT&amp;T Bell Laboratories in Holmdel, NJ in 1988. He became
+head of the Image Processing Research Department at AT&amp;T
+Labs-Research in 1996, and joined NYU as a professor in 2003, after a
+brief period as a Fellow of the NEC Research Institute in
+Princeton. From 2012 to 2014 he directed NYU's initiative in data
+science and became the founding director of the NYU Center for Data
+Science. He was named Director of AI Research at Facebook in late 2013
+and retains a part-time position on the NYU faculty.</p>
+
+<p>His current interests include AI, machine learning, computer
+perception, mobile robotics, and computational neuroscience. He has
+published over 180 technical papers and book chapters on these topics
+as well as on neural networks, handwriting recognition, image
+processing and compression, and on dedicated circuits and
+architectures for computer perception. The character recognition
+technology he developed at Bell Labs is used by several banks around
+the world to read checks and was reading between 10 and 20% of all the
+checks in the US in the early 2000s. His image compression technology,
+called DjVu, is used by hundreds of web sites and publishers and
+millions of users to access scanned documents on the Web. Since the
+late 80's he has been working on deep learning methods, particularly
+the convolutional network model, which is the basis of many products
+and services deployed by companies such as Facebook, Google,
+Microsoft, Baidu, IBM, NEC, AT&amp;T and others for image and video
+understanding, document recognition, human-computer interaction, and
+speech recognition.</p>
+
+<p>LeCun has been on the editorial board of IJCV, IEEE PAMI, and IEEE
+Trans. Neural Networks, was program chair of CVPR'06, and is chair of
+ICLR 2013 and 2014. He is on the science advisory board of Institute
+for Pure and Applied Mathematics, and has advised many large and small
+companies about machine learning technology, including several
+startups he co-founded. He is the lead faculty at NYU for the
+Moore-Sloan Data Science Environment, a $36M initiative in
+collaboration with UC Berkeley and University of Washington to develop
+data-driven methods in the sciences. He is the recipient of the 2014
+IEEE Neural Network Pioneer Award.</p>

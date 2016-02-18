@@ -1,0 +1,343 @@
+{
+  "sessions": [
+    {
+      "session_id": "O 1A",
+      "session_name": "Matching and Reconstruction",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsAM"
+    },
+    {
+      "session_id": "O 1B",
+      "session_name": "Segmentation and Grouping",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsAM"
+    },
+    {
+      "session_id": "O 2A",
+      "session_name": "Statistical Methods and Learning I",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsPM"
+    },
+    {
+      "session_id": "O 2B",
+      "session_name": "Action Recognition",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayOralsPM"
+    },
+
+
+
+    {
+      "session_id": "O 3A",
+      "session_name": "Motion and Tracking",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsAM"
+    },
+    {
+      "session_id": "O 3B",
+      "session_name": "Discrete Optimization",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsAM"
+    },
+    {
+      "session_id": "O 4A",
+      "session_name": "PAMI/IJCV Special Journal Session",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsPM"
+    },
+    {
+      "session_id": "O 4B",
+      "session_name": "Attribute-based Recognition and Human Pose Estimation",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsPM"
+    },
+    {
+      "session_id": "O 5A",
+      "session_name": "Face and Gesture",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsPlenary"
+    },
+    {
+      "session_id": "O 5B",
+      "session_name": "Convolutional Neural Nets",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayOralsPlenary"
+    },
+
+
+
+    {
+      "session_id": "O 6A",
+      "session_name": "Physics-based Vision and Shape-from-X",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsAM"
+    },
+    {
+      "session_id": "O 6B",
+      "session_name": "Video: Events, Activities and Surveillance",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsAM"
+    },
+    {
+      "session_id": "O 7A",
+      "session_name": "Low-level Vision and Image Processing",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsPM"
+    },
+    {
+      "session_id": "O 7B",
+      "session_name": "Medical and Biological Image Analysis",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayOralsPM"
+    },
+
+
+
+
+    {
+      "session_id": "O 8A",
+      "session_name": "Recognition: Detection, Categorization, and Classification",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayOralsAM"
+    },
+    {
+      "session_id": "O 8B",
+      "session_name": "Computational Photography: Sensing and Display",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayOralsAM"
+    },
+    {
+      "session_id": "O 9A",
+      "session_name": "Statistical Methods and Learning II",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayOralsPM"
+    },
+    {
+      "session_id": "O 9B",
+      "session_name": "3D Geometry / Shape",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayOralsPM"
+    },
+    {
+      "session_id": "O 10A",
+      "session_name": "Optimization Methods",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayOralsPlenary"
+    },
+    {
+      "session_id": "O 10B",
+      "session_name": "View Synthesis and Other Applications",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayOralsPlenary"
+    },
+
+
+
+
+    {
+      "session_id": "P P1",
+      "session_name": "Poster Session (Recognition, Segmentation, Stereo and SFM)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayPostersAM"
+    },
+    {
+      "session_id": "P P2",
+      "session_name": "Poster Session (3D Vision, Recognition, Statistical Methods and Learning, Action Recognition)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "TuesdayPostersPM"
+    },
+    {
+      "session_id": "P P3",
+      "session_name": "Poster Session (Motion and Tracking, Optimization Methods, Statistical Methods and Learning, Stereo and SFM)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayPostersAM"
+    },
+    {
+      "session_id": "P P4",
+      "session_name": "Poster Session (Face and Gesture, Recognition)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "WednesdayPostersPM"
+    },
+    {
+      "session_id": "P P5",
+      "session_name": "Poster Session (Physics-based Vision, Recognition, Video: Events, Activities and Surveillance)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayPostersAM"
+    },
+    {
+      "session_id": "P P6",
+      "session_name": "Poster Session (Biologically Inpired Vision, Low-level Vision, Medical and Biological Image Analysis, Segmentation)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "ThursdayPostersPM"
+    },
+    {
+      "session_id": "P P7",
+      "session_name": "Poster Session (Computational Photography, Motion and Tracking, Recognition)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayPostersAM"
+    },
+    {
+      "session_id": "P P8",
+      "session_name": "Poster Session (3D Vision, Optimization Methods, Shape, Vision for Graphics, Web and Vision Systems, Document Analysis)",
+      "session_room": "ROOM_TBD",
+      "session_slot": "FridayPostersPM"
+    }
+  ],
+  "slots": [
+    {
+      "begin": "2014-06-24T08:30:00",
+      "end": "2014-06-24T10:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "TuesdayOralsAM"
+    },
+    {
+      "begin": "2014-06-24T10:00:00",
+      "end": "2014-06-24T12:00:00",
+      "label": "Poster Session (56 posters)",
+      "slot_id": "TuesdayPostersAM"
+    },
+    {
+      "begin": "2014-06-24T12:00:00",
+      "end": "2014-06-24T13:30:00",
+      "label": "Lunch",
+      "slot_id": "TuesdayLunch"
+    },
+    {
+      "begin": "2014-06-24T13:30:00",
+      "end": "2014-06-24T14:45:00",
+      "label": "Parallel Oral Sessions (5 papers each)",
+      "slot_id": "TuesdayOralsPM"
+    },
+    {
+      "begin": "2014-06-24T15:15:00",
+      "end": "2014-06-24T16:30:00",
+      "label": "Awards / Plenary (Doris Tsao)",
+      "slot_id": "TuesdayOralsPlenary"
+    },
+    {
+      "begin": "2014-06-24T16:30:00",
+      "end": "2014-06-24T18:30:00",
+      "label": "Poster Session (58 posters)",
+      "slot_id": "TuesdayPostersPM"
+    },
+
+
+
+    {
+      "begin": "2014-06-25T08:30:00",
+      "end": "2014-06-25T10:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "WednesdayOralsAM"
+    },
+    {
+      "begin": "2014-06-25T10:00:00",
+      "end": "2014-06-25T12:00:00",
+      "label": "Poster Session (56 posters)",
+      "slot_id": "WednesdayPostersAM"
+    },
+    {
+      "begin": "2014-06-25T12:00:00",
+      "end": "2014-06-25T13:30:00",
+      "label": "Lunch",
+      "slot_id": "WednesdayLunch"
+    },
+    {
+      "begin": "2014-06-25T13:30:00",
+      "end": "2014-06-25T15:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "WednesdayOralsPM"
+    },
+    {
+      "begin": "2014-06-25T15:30:00",
+      "end": "2014-06-25T16:30:00",
+      "label": "Parallel Oral Sessions (4 papers each)",
+      "slot_id": "WednesdayOralsPlenary"
+    },
+    {
+      "begin": "2014-06-25T16:30:00",
+      "end": "2014-06-25T18:30:00",
+      "label": "Poster Session (53 posters)",
+      "slot_id": "WednesdayPostersPM"
+    },
+
+
+
+    {
+      "begin": "2014-06-26T08:30:00",
+      "end": "2014-06-26T10:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "ThursdayOralsAM"
+    },
+    {
+      "begin": "2014-06-26T10:00:00",
+      "end": "2014-06-26T12:00:00",
+      "label": "Poster Session (55 posters)",
+      "slot_id": "ThursdayPostersAM"
+    },
+    {
+      "begin": "2014-06-26T12:00:00",
+      "end": "2014-06-26T13:30:00",
+      "label": "Lunch",
+      "slot_id": "ThursdayLunch"
+    },
+    {
+      "begin": "2014-06-26T13:30:00",
+      "end": "2014-06-26T15:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "ThursdayOralsPM"
+    },
+    {
+      "begin": "2014-06-26T15:30:00",
+      "end": "2014-06-26T16:30:00",
+      "label": "Plenary Session (Stephane Mallat)",
+      "slot_id": "ThursdayOralsPlenary"
+    },
+    {
+      "begin": "2014-06-26T16:30:00",
+      "end": "2014-06-26T18:30:00",
+      "label": "Poster Session (55 posters)",
+      "slot_id": "ThursdayPostersPM"
+    },
+
+
+
+    {
+      "begin": "2014-06-27T08:30:00",
+      "end": "2014-06-27T10:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "FridayOralsAM"
+    },
+    {
+      "begin": "2014-06-27T10:00:00",
+      "end": "2014-06-27T12:00:00",
+      "label": "Poster Session (56 posters)",
+      "slot_id": "FridayPostersAM"
+    },
+    {
+      "begin": "2014-06-27T12:00:00",
+      "end": "2014-06-27T13:30:00",
+      "label": "Lunch",
+      "slot_id": "FridayLunch"
+    },
+    {
+      "begin": "2014-06-27T13:30:00",
+      "end": "2014-06-27T15:00:00",
+      "label": "Parallel Oral Sessions (6 papers each)",
+      "slot_id": "FridayOralsPM"
+    },
+    {
+      "begin": "2014-06-27T15:30:00",
+      "end": "2014-06-27T16:30:00",
+      "label": "Parallel Oral Sessions (4 papers each)",
+      "slot_id": "FridayOralsPlenary"
+    },
+    {
+      "begin": "2014-06-27T16:30:00",
+      "end": "2014-06-27T18:30:00",
+      "label": "Poster Session (47 posters)",
+      "slot_id": "FridayPostersPM"
+    }
+
+
+  ]
+}

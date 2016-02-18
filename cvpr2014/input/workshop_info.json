@@ -1,0 +1,652 @@
+[
+  {
+    "workshop_info": {
+      "submission_deadline": "3/31/14",
+      "title": "Mobile Vision",
+      "url": "http://www.cs.stevens.edu/~ghua/ghweb/Workshops/MobileVisionWorkshop2014-Home.htm",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Gang",
+        "last": "Hua",
+        "url": ""
+      },
+      {
+        "first": "Matthew",
+        "last": "Turk",
+        "url": ""
+      },
+      {
+        "first": "Kari",
+        "last": "Pulli",
+        "url": ""
+      },
+      {
+        "first": "Raja",
+        "last": "Bala",
+        "url": ""
+      },
+      {
+        "first": "Marc",
+        "last": "Pollefeys",
+        "url": ""
+      },
+      {
+        "first": "Zhengyou",
+        "last": "Zhang",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "",
+      "title": "Vision Industry and Entrepreneur Workshop (VIEW)",
+      "url": "http://cvisioncentral.com/promotion/view2014/",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Sek",
+        "last": "Chai",
+        "url": "http://www.linkedin.com/in/schai"
+      },
+      {
+        "first": "Boaz",
+        "last": "Super",
+        "url": "http://www.linkedin.com/in/boazsuper/"
+      },
+      {
+        "first": "Terry",
+        "last": "Boult",
+        "url": "http://www.vast.uccs.edu/~tboult/"
+      },
+      {
+        "first": "Himanshu",
+        "last": "Arora",
+        "url": ""
+      },
+      {
+        "first": "Arnab",
+        "last": "Dhua",
+        "url": ""
+      },
+      {
+        "first": "Marshall",
+        "last": "Tappen",
+        "url": ""
+      },
+      {
+        "first": "Raja",
+        "last": "Bala",
+        "url": ""
+      },
+      {
+        "first": "Yu",
+        "last": "Wang",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "4/23/14",
+      "title": "Perceptual Organization",
+      "url": "http://vision.caltech.edu/pocv2014/index.html",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Michael",
+        "last": "Maire",
+        "url": "http://vision.caltech.edu/~mmaire/"
+      },
+      {
+        "first": "Stella",
+        "last": "Yu",
+        "url": "http://www.icsi.berkeley.edu/~stellayu/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "4/23/14",
+      "title": "Scene Understanding Workshop",
+      "url": "http://sunw.csail.mit.edu/",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Aditya",
+        "last": "Khosla",
+        "url": "http://people.csail.mit.edu/khosla"
+      },
+      {
+        "first": "Derek",
+        "last": "Hoiem",
+        "url": "http://www.cs.uiuc.edu/~dhoiem/"
+      },
+      {
+        "first": "James",
+        "last": "Hays",
+        "url": "http://cs.brown.edu/~hays/"
+      },
+      {
+        "first": "Jianxiong",
+        "last": "Xiao",
+        "url": "http://vision.princeton.edu/people/xj/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/28/14",
+      "title": "Workshop on Computer Vision and Human Computation",
+      "url": "http://ttic.uchicago.edu/~smaji/hcompvision14.html",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Jia",
+        "last": "Deng",
+        "url": "http://web.eecs.umich.edu/~jiadeng/"
+      },
+      {
+        "first": "Subhransu",
+        "last": "Maji",
+        "url": "http://ttic.uchicago.edu/~smaji/"
+      },
+      {
+        "first": "Pietro",
+        "last": "Perona",
+        "url": "http://www.vision.caltech.edu/pietroperona.htm"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/21/14",
+      "title": "Vision Meets Cognition",
+      "url": "http://www.visionmeetscognition.org/fpic2014/",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Yibiao",
+        "last": "Zhao",
+        "url": "http://www.stat.ucla.edu/~ybzhao"
+      },
+      {
+        "first": "Lap-Fai",
+        "last": "Yu",
+        "url": "http://lapfaiyu.org/"
+      },
+      {
+        "first": "Bo",
+        "last": "Zheng",
+        "url": "http://www.cvl.iis.u-tokyo.ac.jp/~zheng"
+      },
+      {
+        "first": "Peter",
+        "last": "Battaglia",
+        "url": "http://web.mit.edu/~pbatt/www"
+      },
+      {
+        "first": "Tao",
+        "last": "Gao",
+        "url": "http://web.mit.edu/~taogao/www"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/29/14",
+      "title": "Perception Beyond the Visible Spectrum (PBVS)",
+      "url": "http://www.otcbvs.com",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Riad I.",
+        "last": "Hammoud",
+        "url": ""
+      },
+      {
+        "first": "Guoliang",
+        "last": "Fan",
+        "url": ""
+      },
+      {
+        "first": "Firooz",
+        "last": "Sadjadi",
+        "url": ""
+      },
+      {
+        "first": "Behzad",
+        "last": "Kamgar-Parsi",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/21/14",
+      "title": "Registration of Very Large Images",
+      "url": "http://www.imgfsr.com/CVPR2014IRW/",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Ardy",
+        "last": "Goshtasby",
+        "url": "http://cecs.wright.edu/~agoshtas/home.html"
+      },
+      {
+        "first": "Chang",
+        "last": "Shu",
+        "url": "http://people.scs.carleton.ca/~c_shu/"
+      },
+      {
+        "first": "Akihiro",
+        "last": "Sugimoto",
+        "url": "http://research.nii.ac.jp/~sugimoto/"
+      },
+      {
+        "first": "John",
+        "last": "Camp",
+        "url": ""
+      },
+      {
+        "first": "Nathan",
+        "last": "Netanyahu",
+        "url": "http://cs.biu.ac.il/en/node/644"
+      },
+      {
+        "first": "Claude",
+        "last": "Cariou",
+        "url": ""
+      },
+      {
+        "first": "Hector",
+        "last": "Erives",
+        "url": "http://www.ee.nmt.edu/~erives/"
+      },
+      {
+        "first": "Clark",
+        "last": "Taylor",
+        "url": ""
+      },
+      {
+        "first": "Lyubomir",
+        "last": "Zagorchev",
+        "url": ""
+      },
+      {
+        "first": "Marcel",
+        "last": "Jackowski",
+        "url": "http://www.ime.usp.br/~mjack/Welcome.html"
+      },
+      {
+        "first": "Martin",
+        "last": "Satter",
+        "url": ""
+      },
+      {
+        "first": "Simon",
+        "last": "Warfield",
+        "url": "http://www.crl.med.harvard.edu/people/warfield/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/29/14",
+      "title": "Biometrics",
+      "url": "http://www.vislab.ucr.edu/Biometrics14/",
+      "workshop_date": "6/23/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Bir",
+        "last": "Bhanu",
+        "url": "http://vislab.ucr.edu/PEOPLE/BIR_BHANU/index.php"
+      },
+      {
+        "first": "Ross",
+        "last": "Beveridge",
+        "url": "http://www.cs.colostate.edu/~ross/"
+      },
+      {
+        "first": "Ajay",
+        "last": "Kumar",
+        "url": "http://www.comp.polyu.edu.hk/~csajaykr/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/12/14",
+      "title": "Embedded Vision",
+      "url": "http://www.computervisioncentral.com/evw2014",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Goksel",
+        "last": "Dedeoglu",
+        "url": "http://goksel-dedeoglu.com/"
+      },
+      {
+        "first": "Fridtjof",
+        "last": "Stein",
+        "url": ""
+      },
+      {
+        "first": "Stefano",
+        "last": "Mattoccia",
+        "url": "http://vision.deis.unibo.it/~smatt/Site/Home.html"
+      },
+      {
+        "first": "Jagadeesh",
+        "last": "Sankaran",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/15/14",
+      "title": "Computational Models for Social Interactions and Behavior (CMSI): Scientific Grounding, Sensing and Applications",
+      "url": "http://cmsi-cvpr2014.com/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Ajay",
+        "last": "Divakaran",
+        "url": "http://www.sri.com/about/people/ajay-divakaran"
+      },
+      {
+        "first": "Maneesh",
+        "last": "Singh",
+        "url": "https://www.linkedin.com/pub/maneesh-singh/9/3ab/352"
+      },
+      {
+        "first": "Mohamed",
+        "last": "Amer",
+        "url": "http://blogs.oregonstate.edu/amer/"
+      },
+      {
+        "first": "Saad",
+        "last": "Khan",
+        "url": "https://www.linkedin.com/pub/saad-khan/b/199/a17"
+      },
+      {
+        "first": "Behjat",
+        "last": "Siddiquie",
+        "url": "https://www.linkedin.com/in/behjatsiddiquie"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/28/14",
+      "title": "BigVision",
+      "url": "https://sites.google.com/site/bigvision2014cvpr/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Jia",
+        "last": "Deng",
+        "url": "http://web.eecs.umich.edu/~jiadeng/"
+      },
+      {
+        "first": "Alex",
+        "last": "Berg",
+        "url": "http://acberg.com/"
+      },
+      {
+        "first": "Yuanqing",
+        "last": "Lin",
+        "url": "http://www.linyq.com/"
+      },
+      {
+        "first": "Jason",
+        "last": "Corso",
+        "url": "http://www.cse.buffalo.edu/~jcorso/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/28/14",
+      "title": "Web-scale Vision and Social Media (VSM)",
+      "url": "http://www.micc.unifi.it/vsm2014/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Lamberto",
+        "last": "Ballan",
+        "url": "http://www.lambertoballan.net/"
+      },
+      {
+        "first": "Alex",
+        "last": "Berg",
+        "url": "http://acberg.com/"
+      },
+      {
+        "first": "Marco",
+        "last": "Bertini",
+        "url": "http://www.micc.unifi.it/bertini/"
+      },
+      {
+        "first": "Thomas",
+        "last": "Mensink",
+        "url": "http://staff.science.uva.nl/~tmensink/"
+      },
+      {
+        "first": "Rahul",
+        "last": "Sukthankar",
+        "url": "http://www.cs.cmu.edu/~rahuls/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "4/1/14",
+      "title": "Egocentric (First-Person) Vision",
+      "url": "http://egocentric-vision.org/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Kris",
+        "last": "Kitani",
+        "url": "http://www.cs.cmu.edu/~kkitani/Top.html"
+      },
+      {
+        "first": "Yong Jae",
+        "last": "Lee",
+        "url": "https://webspace.utexas.edu/yl3663/~ylee/"
+      },
+      {
+        "first": "Michael S.",
+        "last": "Ryoo",
+        "url": "http://cvrc.ece.utexas.edu/mryoo/"
+      },
+      {
+        "first": "Alireza",
+        "last": "Fathi",
+        "url": "http://ai.stanford.edu/~alireza/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/28/14",
+      "title": "Long-term Detection and Tracking",
+      "url": "http://www.micc.unifi.it/LTDT2014/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Octavia",
+        "last": "Camps",
+        "url": "http://www.northeastern.edu/engineeringresearch/faculty/octavia-camps/"
+      },
+      {
+        "first": "Rita",
+        "last": "Cucchiara",
+        "url": "http://personale.unimore.it/rubrica/dettaglio/cucchiara"
+      },
+      {
+        "first": "Alberto",
+        "last": "Del Bimbo",
+        "url": "http://www.micc.unifi.it/delbimbo"
+      },
+      {
+        "first": "Jiri",
+        "last": "Matas",
+        "url": "http://cmp.felk.cvut.cz/~matas/"
+      },
+      {
+        "first": "Federico",
+        "last": "Pernici",
+        "url": "http://www.micc.unifi.it/pernici"
+      },
+      {
+        "first": "Stan",
+        "last": "Sclaroff",
+        "url": "http://www.cs.bu.edu/~sclaroff/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/21/14",
+      "title": "Computational Cameras and Displays",
+      "url": "http://www.ece.rice.edu/~vb10/CVPR2014/CCD2014/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Ashok",
+        "last": "Veeraraghavan",
+        "url": "http://www.ece.rice.edu/~av21/"
+      },
+      {
+        "first": "Oliver",
+        "last": "Cossairt",
+        "url": "http://users.eecs.northwestern.edu/~ollie/"
+      },
+      {
+        "first": "Kaushik",
+        "last": "Mitra",
+        "url": "http://www.umiacs.umd.edu/~kmitra/"
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/31/14",
+      "title": "Change Detection",
+      "url": "http://changedetection.net/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Pierre-Marc",
+        "last": "Jodoin",
+        "url": ""
+      },
+      {
+        "first": "Janusz",
+        "last": "Konrad",
+        "url": ""
+      },
+      {
+        "first": "Prakash",
+        "last": "Ishwar",
+        "url": ""
+      },
+      {
+        "first": "Fatih",
+        "last": "Porikli",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/12/14",
+      "title": "Multi-Sensor Fusion for Outdoor Dynamic Scene Understanding",
+      "url": "http://www.tnt.uni-hannover.de/msf/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Mubarak",
+        "last": "Shah",
+        "url": "http://crcv.ucf.edu/people/faculty/shah.html"
+      },
+      {
+        "first": "Wolfgang",
+        "last": "F&ouml;rstner",
+        "url": "http://www.ipb.uni-bonn.de/foerstner/?no_cache=1"
+      },
+      {
+        "first": "Alper",
+        "last": "Yilmaz",
+        "url": "http://pcvlab.ceegs.ohio-state.edu/"
+      },
+      {
+        "first": "Cl&eacute;ment",
+        "last": "Mallet",
+        "url": "http://recherche.ign.fr/labos/matis/"
+      },
+      {
+        "first": "Michael",
+        "last": "Ying Yang",
+        "url": "http://www.tnt.uni-hannover.de/staff/yang/"
+      },
+      {
+        "first": "Yury",
+        "last": "Vizilter",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "workshop_info": {
+      "submission_deadline": "3/15/14",
+      "title": "DeepVision: Deep learning in Computer Vision",
+      "url": "http://www.deep-vision.net/",
+      "workshop_date": "6/28/14"
+    },
+    "workshop_organizers": [
+      {
+        "first": "Jose M.",
+        "last": "Alvarez",
+        "url": ""
+      },
+      {
+        "first": "Yann",
+        "last": "LeCun",
+        "url": ""
+      },
+      {
+        "first": "Fatih",
+        "last": "Porikli",
+        "url": ""
+      },
+      {
+        "first": "Yi",
+        "last": "Li",
+        "url": ""
+      }
+    ]
+  }
+]

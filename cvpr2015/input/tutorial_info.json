@@ -1,0 +1,490 @@
+[
+    {
+	"tutorial_info": {
+	    "title": "Contactless 3D Fingerprint Identification",
+	    "url": "http://www4.comp.polyu.edu.hk/~csajaykr/CVPR15/CVPR15T.htm",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 104"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Ajay",
+		"last": "Kumar",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "3-D Vision with Robotics Applications in MATLAB",
+	    "url": "http://www.mathworks.com/company/events/tradeshows/tradeshow100798.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 101"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Dima",
+		"last": "Lisin",
+		"url": ""
+	    },
+	    {
+		"first": "Witek",
+		"last": "Jachimczyk",
+		"url": ""
+	    },
+	    {
+		"first": "Zhen",
+		"last": "Wu",
+		"url": ""
+	    },
+	    {
+		"first": "Avi",
+		"last": "Nehemiah",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Applied Deep Learning for Computer Vision with Torch",
+	    "url": "http://torch.ch/docs/cvpr15.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 200"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Koray",
+		"last": "Kavukcuoglu",
+		"url": ""
+	    },
+	    {
+		"first": "Ronan",
+		"last": "Collobert",
+		"url": ""
+	    },
+	    {
+		"first": "Soumith",
+		"last": "Chintala",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Group Behavior Analysis and Its Applications",
+	    "url": "http://www.seas.upenn.edu/~hypar/GroupBehavior/cvpr15_tutorial_group_behavior.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 201"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Hyun Soo",
+		"last": "Park",
+		"url": ""
+	    },
+	    {
+		"first": "Wongun",
+		"last": "Choi",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "ImageNet Large Scale Visual Recognition Challenge Tutorial",
+	    "url": "http://image-net.org/tutorials/cvpr2015/",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 203"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Olga",
+		"last": "Russakovsky",
+		"url": ""
+	    },
+	    {
+		"first": "Jonathan",
+		"last": "Krause",
+		"url": ""
+	    },
+	    {
+		"first": "Karen",
+		"last": "Simonyan",
+		"url": ""
+	    },
+	    {
+		"first": "Yangqing",
+		"last": "Jia",
+		"url": ""
+	    },
+	    {
+		"first": "Jia",
+		"last": "Deng",
+		"url": ""
+	    },
+	    {
+		"first": "Alex",
+		"last": "Berg",
+		"url": ""
+	    },
+	    {
+		"first": "Fei-Fei",
+		"last": "Li",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "OpenCV 3.0 Technical Tutorials: Beginner to Specialist",
+	    "url": "http://code.opencv.org/projects/opencv/wiki/OpenCV_Tutorial_CVPR_2015",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 202"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Gary",
+		"last": "Bradski",
+		"url": ""
+	    },
+	    {
+		"first": "Vadim",
+		"last": "Pisarevsky",
+		"url": ""
+	    },
+	    {
+		"first": "Vincent",
+		"last": "Rabaud",
+		"url": ""
+	    },
+	    {
+		"first": "Grace",
+		"last": "Vesom",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Computer Vision for Visual Effects",
+	    "url": "http://cvfxbook.com/cvpr2015/",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "am-half",
+	    "location": "Room 105"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Rich",
+		"last": "Radke",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "3D Indoor Scene Understanding",
+	    "url": "http://www.cs.toronto.edu/~fidler/3DsceneTutorialCVPR15.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 202"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Sanja",
+		"last": "Fidler",
+		"url": ""
+	    },
+	    {
+		"first": "Raquel",
+		"last": "Urtasun",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Applied math as applied in cinema",
+	    "url": "http://www.dtic.upf.edu/~mbertalmio/cvpr2015.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 105"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Marcelo",
+		"last": "Bertalmio",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "DIY Deep Learning: a Hands-On Tutorial with Caffe",
+	    "url": "http://tutorial.caffe.berkeleyvision.org/",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 200"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Evan",
+		"last": "Shelhamer",
+		"url": ""
+	    },
+	    {
+		"first": "Jeff",
+		"last": "Donahue",
+		"url": ""
+	    },
+	    {
+		"first": "Yangqing",
+		"last": "Jia",
+		"url": ""
+	    },
+	    {
+		"first": "Jonathan",
+		"last": "Long",
+		"url": ""
+	    },
+	    {
+		"first": "Ross",
+		"last": "Girshick",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Distance Metric Learning for Visual Recognition",
+	    "url": "http://vipl.ict.ac.cn/homepage/CVPR15Metric/",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 201"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Jiwen",
+		"last": "Lu",
+		"url": ""
+	    },
+	    {
+		"first": "Ruiping",
+		"last": "Wang",
+		"url": ""
+	    },
+	    {
+		"first": "Wei-Shi",
+		"last": "Zheng",
+		"url": ""
+	    },
+	    {
+		"first": "Weihong",
+		"last": "Deng",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Fast image processing with Halide",
+	    "url": "http://halide-lang.org/cvpr2015.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 101"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Jonathan",
+		"last": "Ragan-Kelley",
+		"url": ""
+	    },
+	    {
+		"first": "Andrew",
+		"last": "Adams",
+		"url": ""
+	    },
+	    {
+		"first": "Fredo",
+		"last": "Durand",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Large-Scale Visual Place Recognition and Image-Based Localization",
+	    "url": "https://sites.google.com/site/lsvpr2015/",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 204"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Torsten",
+		"last": "Sattler",
+		"url": ""
+	    },
+	    {
+		"first": "Akihiko",
+		"last": "Torii",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "OpenVX: a framework for accelerating Computer Vision",
+	    "url": "https://sites.google.com/a/itseez.com/openvx-tutorial/home",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 104"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Victor",
+		"last": "Erukhimov",
+		"url": ""
+	    },
+	    {
+		"first": "Kari",
+		"last": "Pulli",
+		"url": ""
+	    },
+	    {
+		"first": "Thierry",
+		"last": "Lepley",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Sparse and Low-Rank Modeling for High-Dimensional Data Analysis",
+	    "url": "http://www.eecs.berkeley.edu/~ehsan.elhamifar/cvpr15tutorial.htm",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "pm-half",
+	    "location": "Room 203"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Guillermo",
+		"last": "Sapiro",
+		"url": ""
+	    },
+	    {
+		"first": "Rene",
+		"last": "Vidal",
+		"url": ""
+	    },
+	    {
+		"first": "John",
+		"last": "Wright",
+		"url": ""
+	    },
+	    {
+		"first": "Ehsan",
+		"last": "Elhamifar",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Open Source Structure-from-Motion",
+	    "url": "http://www.kitware.com/cvpr2015-tutorial.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "z-full-day",
+	    "location": "Room 206"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Matt",
+		"last": "Leotta",
+		"url": ""
+	    },
+	    {
+		"first": "Sameer",
+		"last": "Agarwal",
+		"url": ""
+	    },
+	    {
+		"first": "Frank",
+		"last": "Dellaert",
+		"url": ""
+	    },
+	    {
+		"first": "Pierre",
+		"last": "Moulon",
+		"url": ""
+	    },
+	    {
+		"first": "Vincent",
+		"last": "Rabaud",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Search and Planning for Inference and Learning in Computer Vision",
+	    "url": "http://cvn.ecp.fr/personnel/iasonas/spil15/index.html",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "z-full-day",
+	    "location": "Room 102"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Iasonas",
+		"last": "Kokkinos",
+		"url": ""
+	    },
+	    {
+		"first": "Sinisa",
+		"last": "Todorovic",
+		"url": ""
+	    },
+	    {
+		"first": "Tianfu",
+		"last": "Wu",
+		"url": ""
+	    }
+	]
+    },
+    {
+	"tutorial_info": {
+	    "title": "Energy Minimization and Discrete Optimization",
+	    "url": "http://www.inf.ethz.ch/personal/ladickyl/CVPR_Tutorial2015.htm",
+	    "tutorial_date": "6/7/15",
+	    "tutorial_length": "z-full-day",
+	    "location": "Room 103"
+	},
+	"tutorial_organizers": [
+	    {
+		"first": "Stefanie",
+		"last": "Jegelka",
+		"url": ""
+	    },
+	    {
+		"first": "Lubor",
+		"last": "Ladicky",
+		"url": ""
+	    },
+	    {
+		"first": "Srikumar",
+		"last": "Ramlingam",
+		"url": ""
+	    },
+	    {
+		"first": "Christopher",
+		"last": "Russell",
+		"url": ""
+	    }
+	]
+    }
+]

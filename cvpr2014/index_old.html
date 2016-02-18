@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>CVPR 2013 Webpage</title>
+		<!--<link type="text/css" href="../css/cvpr13-theme/jquery-ui-1.8.21.custom.css" rel="stylesheet" />-->
+		<link type="text/css" href="../css/smoothness/jquery-ui-1.8.21.custom.css" rel="stylesheet" />
+		<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="../js/jquery-ui-1.8.21.custom.min.js"></script>
+		<script type="text/javascript" src="../js/jquery.cycle.all.js"></script>
+		<style type="text/css">
+			/*demo page css*/
+			/*body{ font: 62.5% "Trebuchet MS", sans-serif; margin: 50px;}*/
+			body{ font: 70% "Trebuchet MS", sans-serif; }
+			.demoHeaders { margin-top: 2em; }
+                        #tabs-people li { position: relative; top:-5px; left:-10px;}
+			.cvprpagewidth {max-width: 800px; min-width: 400px;}
+			.cvprpageheight {min-height: 600px;}
+                        #logo { width: 301px; height: 150px; margin: 0 auto; position: absolute; bottom: -7px; right: -45px;
+                             background: url(images/Logo4Banner.png); text-indent: -9999px; z-index: 80; }
+                        h1 { width: 170px; height: 400px; margin: 0 auto; position: absolute; bottom: 0px; right: -10px;
+                             background: url(images/Towers.png); text-indent: -9999px; z-index: 100; }
+                        #page-tabs {position: relative; margin-left: auto; margin-right: auto;}
+                        #topspacer {
+                            margin-top: 30px;
+                            position: relative;
+                        }
+                        #slideshow {
+                            margin-left: auto;
+                            margin-right: auto;
+                            width: 800px;
+                            height: 125px;
+                            position: relative;
+                        }
+                        div#slideshow ul#slides {
+                            list-style: none;
+                        }
+                        div#slideshow ul#slides li {
+                            margin: 0 0 20px 0;
+                        }
+                        .institution { font-style: italic }
+                        #home-table { margin-left:auto; margin-right:auto; position:relative; font-size:125%; }
+                        .larger-table { margin-left:auto; margin-right:auto; position:relative; font-size:125%; }
+
+                        .cvprpageheader   { font-size:150%; font-weight: bold}
+                        .cvprsectionheader   { font-size:125%; font-weight: bold; text-decoration:underline}
+                        .cvprparagraphheader { font-weight: bold }
+                        .faq_q {text-decoration:underline}
+                        .faq_a {}
+
+                        a:link    {color:#3333ff}
+                        a:visited {color:#3333ff}
+                        a:hover   {color:#3333ff;background-color:#eeeeff}
+                        a:active  {color:#3333ff}
+		</style>
+		<script type="text/javascript">
+/*
+                        var MAX_HEIGHT = 600;
+                        var MAX_WIDTH  = 500;
+
+                        jQuery.fn.fixSize = function() {
+
+                          //var w = $("#page-tabs").width();
+                          //if (w > MAX_WIDTH)
+                            //$("#page-tabs").width(MAX_WIDTH);
+
+                          //alert("called func");
+                          var h = $("#tabs-home").height();
+                          if ( h < MAX_HEIGHT )
+                            $("#tabs-home").height(MAX_HEIGHT);
+
+                          h = $("#tabs-people").height();
+                          if ( h < MAX_HEIGHT )
+                            $("#tabs-people").height(MAX_HEIGHT);
+
+                          h = $("#tabs-dates").height();
+                          if ( h < MAX_HEIGHT )
+                            $("#tabs-dates").height(MAX_HEIGHT);
+
+                          h = $("#tabs-venue").height();
+                          if ( h < MAX_HEIGHT )
+                            $("#tabs-venue").height(MAX_HEIGHT);
+                        }
+*/
+			$(document).ready(function(){
+
+				// Tabs
+				$('#page-tabs').tabs();
+				//$('#page-tabs').tabs('select','#tabs-people');
+
+				//$('#page-tabs').tabs();
+
+				$('ul#slides').cycle({
+                                    fx: 'fade', pause: 1, prev: '#prev', next: '#next'
+                                });
+
+				//$('body').css('overflow','hidden');
+
+                                //var h = $("#tabs-home").height();
+                                //if ( h < HEIGHT )
+                                  //$("#tabs-home").height(HEIGHT);
+                                //$(window).resize(function(){
+                                  //var w = $(window).width();
+                                  //var h = $(window).height();
+                                  //$(window).fixSize();
+                                  //alert("You resized the window to "+w+"x"+h+"!");
+                                //});
+			});
+		</script>
+	</head>
+	<body>
+
+		<!-- Tabs -->
+                        <div id="topspacer"></div>
+                        <div id="slideshow">
+                                <div id="logo"></div>
+                                <ul id="slides">
+                                        <li><img src="images/trees.png" alt="Title"/></li>
+                                        <li><img src="images/mt_hood.png" alt="Title"/></li>
+                                        <li><img src="images/rose.png" alt="Title"/></li>
+                                        <li><img src="images/roof.png" alt="Title"/></li>
+                                        <li><img src="images/books.png" alt="Title"/></li>
+                                </ul>
+                        </div>
+		<div class="cvprpagewidth" id="page-tabs">
+			<ul>
+				<li><a href="#tabs-home">Home</a></li>
+				<li><a href="#tabs-people">People</a></li>
+				<li><a href="#tabs-dates">Important Dates</a></li>
+				<li><a href="#tabs-submission">Submission</a></li>
+				<li><a href="#tabs-workshops">Workshops</a></li>
+				<li><a href="#tabs-tutorials">Tutorials</a></li>
+				<li><a href="#tabs-venue">Venue</a></li>
+			</ul>
+			<div class="cvprpagewidth cvprpageheight" id="tabs-home">
+<table id="home-table" border="0" width="720">
+<tr height="25"><td colspan="3">&nbsp;</td></tr>
+<tr><td colspan="3">CVPR is the premier annual Computer Vision event comprising the main CVPR conference and several co-located workshops and short courses.  With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.
+<br><br>
+In 2013, it will take place at the Oregon Convention Center in Portland, Oregon.<br><br>
+</td></tr>
+<tr><td>Main Conference:</td><td>June 25-27, 2013</td><td width="40%">&nbsp;</td></tr>
+<tr><td>Workshops/Short Courses:</td><td>June 23-24, 28, 2013</td></tr>
+</table>
+                        </div>
+			<div class="cvprpagewidth cvprpageheight" id="tabs-people">
+                            <p>
+<table width="100%">
+<tr valign="top"><td width="50%">
+General Chairs
+<ul>
+<li><a href="http://iris.usc.edu/people/medioni/" target="_blank">Gerard Medioni</a>, <span class="institution">USC</li>
+<li><a href="http://www.cs.cornell.edu/~rdz/" target="_blank">Ramin Zabih</a>, <span class="institution">Cornell</li>
+</ul>
+
+Program Chairs
+<ul>
+<li><a href="http://www.cs.cmu.edu/~hebert" target="_blank">Martial Hebert</a>, <span class="institution">CMU</li>
+<li><a href="http://people.csail.mit.edu/billf/" target="_blank">Bill Freeman</a>, <span class="institution">MIT</li>
+<li><a href="http://research.microsoft.com/~szeliski/" target="_blank">Richard Szeliski</a>, <span class="institution">Microsoft Research</li>
+<li><a href="http://www.cs.jhu.edu/~hager/" target="_blank">Greg Hager</a>, <span class="institution">Johns Hopkins Univ.</li>
+</ul>
+
+Program Coordination Chair
+<ul>
+<li><a href="http://www.cse.psu.edu/~rcollins/" target="_blank">Bob Collins</a>, <span class="institution">Penn. State Univ.</li>
+</ul>
+
+Workshops Chair
+<ul>
+<li><a href="http://people.csail.mit.edu/celiu/" target="_blank">Ce Liu</a>, <span class="institution">Microsoft Research / MIT</li>
+</ul>
+Tutorials Chair
+<ul>
+<li><a href="http://www.cs.cmu.edu/~rahuls/" target="_blank">Rahul Sukthankar</a>, <span class="institution">Google Research / CMU</li>
+</ul>
+
+Finance Chairs
+<ul>
+<li><a href="http://morse.cs.byu.edu/" target="_blank">Bryan Morse</a>, <span class="institution">Brigham Young Univ.</li>
+<li><a href="http://vast.uccs.edu/wjs3" target="_blank">Walter Scheirer</a>, <span class="institution">Securics / Univ. Colorado, Colorado Springs</li>
+</ul>
+
+Corporate Relations Chair
+<ul>
+<li><a href="http://www.merl.com/people/fatih/" target="_blank">Fatih Porikli</a>, <span class="institution">MERL</li>
+</ul>
+
+Publications Chairs
+<ul>
+<!--<li><a href="http://www.linkedin.com/pub/eric-mortensen/17/b82/370" target="_blank">Eric Mortensen</a>, Lucidyne Technologies</li>-->
+<li>Eric Mortensen, <span class="institution">Lucidyne Technologies</li>
+<li><a href="http://www.cs.utoronto.ca/~fidler/" target="_blank">Sanja Fidler</a>, <span class="institution">Univ. Toronto</li>
+</ul>
+
+Demos Chair
+<ul>
+<li><a href="http://www.cs.gmu.edu/~kosecka/" target="_blank">Jana Kosecka</a>, <span class="institution">George Mason Univ.</li>
+</ul>
+
+Doctoral Consortium Chair
+<ul>
+<li><a href="http://www.cs.stevens.edu/~mordohai/" target="_blank">Philippos Mordohai</a>, <span class="institution">Stevens Inst. of Tech.</li>
+</ul>
+
+
+Student Activities Chair
+<ul>
+<li><a href="http://www.ece.neu.edu/ece/index.php/component/content/85?task=view" target="_blank">Octavia Camps</a>, <span class="institution">Northeastern Univ.</li>
+</ul>
+
+Local Arrangements Chair
+<ul>
+<li>Richard Campbell, <span class="institution">Sharp Laboratories</li>
+<!--<li><a href="#" target="_blank">Richard Campbell</a></li>-->
+</ul>
+
+Website Chair
+<ul>
+<li><a href="http://www.eecs.berkeley.edu/~farrell" target="_blank">Ryan Farrell</a>, <span class="institution">UC Berkeley / ICSI</li>
+</ul>
+</td><td>
+Area Chairs
+<ul>
+<li><a href="http://www.cs.washington.edu/homes/sagarwal/" class="ac_link" target="_blank">Sameer Agarwal</a>, <span class="institution">Google, USA</span></li>
+<li><a href="http://www.wisdom.weizmann.ac.il/~ronen/" class="ac_link" target="_blank">Ronen Basri</a>, <span class="institution">Weizmann Institute of Science, Israel</span></li>
+<li><a href="http://acberg.com/" class="ac_link" target="_blank">Alex Berg</a>, <span class="institution">Stony Brook Univ., USA</span></li>
+<li><a href="http://tamaraberg.com/" class="ac_link" target="_blank">Tamara Berg</a>, <span class="institution">Stony Brook Univ., USA</span></li>
+<li><a href="http://www.vast.uccs.edu/~tboult/" class="ac_link" target="_blank">Terry Boult</a>, <span class="institution">Colorado, USA</span></li>
+<li><a href="http://www.comp.nus.edu.sg/~brown/" class="ac_link" target="_blank">Michael Brown</a>, <span class="institution">NUS, Singapore</span></li>
+<li><a href="http://www.cse.buffalo.edu/~jcorso/" class="ac_link" target="_blank">Jason Corso</a>, <span class="institution">SUNY at Buffalo, USA</span></li>
+<li><a href="http://cvpr.in.tum.de/members/cremers" class="ac_link" target="_blank">Daniel Cremers</a>, <span class="institution">TU Munich, Germany</span></li>
+<li><a href="http://www.irfanessa.com/" class="ac_link" target="_blank">Irfan Essa</a>, <span class="institution">Georgia Tech, USA</span></li>
+<!--<li><a href="http://www.comp.leeds.ac.uk/me/" class="ac_link" target="_blank">Mark Everingham</a>, <span class="institution">Univ. Leeds, UK</span></li>-->
+<li><a href="http://cs.nyu.edu/~fergus/" class="ac_link" target="_blank">Rob Fergus</a>, <span class="institution">NYU, USA</span></li>
+<li><a href="http://www.cfar.umd.edu/~fer/" class="ac_link" target="_blank">Cornelia Fermuller</a>, <span class="institution">Univ. Maryland, USA</span></li>
+<li><a href="http://www.vision.ee.ethz.ch/~vferrari/" class="ac_link" target="_blank">Vittorio Ferrari</a>, <span class="institution">ETH Zurich, Switzerland</span></li>
+<li><a href="http://cs.illinois.edu/people/faculty/david-forsyth" class="ac_link" target="_blank">David Forsyth</a>, <span class="institution">UIUC, USA</span></li>
+<li><a href="http://cns.bu.edu/~lgrady/" class="ac_link" target="_blank">Leo Grady</a>, <span class="institution">HeartFlow, Inc., USA</span></li>
+<li><a href="http://www.cs.utexas.edu/~grauman/" class="ac_link" target="_blank">Kristen Grauman</a>, <span class="institution">UT Austin, USA</span></li>
+<li><a href="http://www.cs.brown.edu/~hays/" class="ac_link" target="_blank">James Hays</a>, <span class="institution">Brown, USA</span></li>
+<li><a href="http://www.cs.illinois.edu/homes/dhoiem/" class="ac_link" target="_blank">Derek Hoiem</a>, <span class="institution">UIUC, USA</span></li>
+<li><a href="http://www.cvl.iis.u-tokyo.ac.jp/~ki/" class="ac_link" target="_blank">Katsushi Ikeuchi</a>, <span class="institution">Tokyo Univ., Japan</span></li>
+<li><a href="http://www.f.waseda.jp/hfs/indexE.html" class="ac_link" target="_blank">Hiroshi Ishikawa</a>, <span class="institution">Waseda Univ., Japan</span></li>
+<li><a href="http://research.microsoft.com/~pkohli/" class="ac_link" target="_blank">Pushmeet Kohli</a>, <span class="institution">Microsoft Research, UK</span></li>
+<li><a href="http://pub.ist.ac.at/~vnk/" class="ac_link" target="_blank">Vladimir Kolmogorov</a>, <span class="institution">IST, Austria</span></li>
+<li><a href="http://www.di.ens.fr/~laptev/" class="ac_link" target="_blank">Ivan Laptev</a>, <span class="institution">INRIA, France</span></li>
+<li><a href="http://www.cs.illinois.edu/homes/slazebni/" class="ac_link" target="_blank">Svetlana Lazebnik</a>, <span class="institution">UIUC, USA</span></li>
+<li><a href="http://www.cs.umass.edu/~elm/" class="ac_link" target="_blank">Erik Learned-Miller</a>, <span class="institution">UMass Amherst, USA</span></li>
+<li><a href="http://cv.snu.ac.kr/kmlee" class="ac_link" target="_blank">Kyoung Mu Lee</a>, <span class="institution">Seoul National Univ., Korea</span></li>
+<li><a href="http://cvlab.epfl.ch/~lepetit/" class="ac_link" target="_blank">Vincent Lepetit</a>, <span class="institution">EPFL, Switzerland</span></li>
+<li><a href="http://vision.stanford.edu/" class="ac_link" target="_blank">Fei-Fei Li</a>, <span class="institution">Stanford, USA</span></li>
+<li><a href="http://www.cs.berkeley.edu/~malik/" class="ac_link" target="_blank">Jitendra Malik</a>, <span class="institution">UC Berkeley, USA</span></li>
+<li><a href="http://www2.ece.ohio-state.edu/~aleix/" class="ac_link" target="_blank">Aleix Martinez</a>, <span class="institution">Ohio State, USA</span></li>
+<li><a href="http://research.microsoft.com/en-us/people/yasumat/" class="ac_link" target="_blank">Yasuyuki Matsushita</a>, <span class="institution">Microsoft Research, China</span></li>
+<li><a href="http://www.cs.cmu.edu/~srinivas/" class="ac_link" target="_blank">Srinivasa Narasimhan</a>, <span class="institution">CMU, USA</span></li>
+<li><a href="http://www.vision.caltech.edu/Perona.html" class="ac_link" target="_blank">Pietro Perona</a>, <span class="institution">Caltech, USA</span></li>
+<li><a href="http://www.inf.ethz.ch/personal/pomarc/" class="ac_link" target="_blank">Marc Pollefeys</a>, <span class="institution">ETH Zurich, Switzerland</span></li>
+<li><a href="http://www.di.ens.fr/~ponce/" class="ac_link" target="_blank">Jean Ponce</a>, <span class="institution">ENS, France</span></li>
+<li><a href="http://www.ics.uci.edu/~dramanan/" class="ac_link" target="_blank">Deva Ramanan</a>, <span class="institution">UC Irvine, USA</span></li>
+<li><a href="http://www.gris.informatik.tu-darmstadt.de/~sroth/" class="ac_link" target="_blank">Stefan Roth</a>, <span class="institution">TU Darmstadt, Germany</span></li>
+<li><a href="http://www.hci.iis.u-tokyo.ac.jp/~ysato/" class="ac_link" target="_blank">Yoichi Sato</a>, <span class="institution">Univ. Tokyo, Japan</span></li>
+<li><a href="http://web.eecs.umich.edu/~silvio/" class="ac_link" target="_blank">Silvio Savarese</a>, <span class="institution">Univ. Michigan, USA</span></li>
+<li><a href="http://www.d2.mpi-inf.mpg.de/schiele/" class="ac_link" target="_blank">Bernt Schiele</a>, <span class="institution">MPI, Germany</span></li>
+<li><a href="http://lear.inrialpes.fr/people/schmid/" class="ac_link" target="_blank">Cordelia Schmid</a>, <span class="institution">INRIA, France</span></li>
+<li><a href="http://www.cs.washington.edu/homes/seitz/" class="ac_link" target="_blank">Steve Seitz</a>, <span class="institution">Univ. Washington, USA</span></li>
+<li><a href="http://research.microsoft.com/en-us/people/jamiesho/" class="ac_link" target="_blank">Jamie Shotton</a>, <span class="institution">Microsoft Research, UK</span></li>
+<li><a href="http://www.di.ens.fr/~josef/" class="ac_link" target="_blank">Josef Sivic</a>, <span class="institution">ENS, France</span></li>
+<li><a href="http://www.cs.cornell.edu/~snavely/" class="ac_link" target="_blank">Noah Snavely</a>, <span class="institution">Cornell, USA</span></li>
+<li><a href="http://www.cs.brown.edu/~sudderth/" class="ac_link" target="_blank">Erik Sudderth</a>, <span class="institution">Brown, USA</span></li>
+<li><a href="http://web.mit.edu/torralba/www/" class="ac_link" target="_blank">Antonio Torralba</a>, <span class="institution">MIT, USA</span></li>
+<li><a href="http://homes.esat.kuleuven.be/~tuytelaa/" class="ac_link" target="_blank">Tinne Tuytelaars</a>, <span class="institution">K.U. Leuven, Belgium</span></li>
+<li><a href="http://www.vlfeat.org/~vedaldi/" class="ac_link" target="_blank">Andrea Vedaldi</a>, <span class="institution">Oxford Univ., UK</span></li>
+<li><a href="http://cis.jhu.edu/~rvidal/" class="ac_link" target="_blank">Rene Vidal</a>, <span class="institution">Johns Hopkins Univ., USA</span></li>
+<li><a href="http://webee.technion.ac.il/~lihi/" class="ac_link" target="_blank">Lihi Zelnik-Manor</a>, <span class="institution">Technion, Israel</span></li>
+<li><a href="http://www.eecs.harvard.edu/~zickler/" class="ac_link" target="_blank">Todd Zickler</a>, <span class="institution">Harvard Univ., USA</span></li>
+<li><a href="http://research.microsoft.com/en-us/people/larryz/" class="ac_link" target="_blank">Larry Zitnick</a>, <span class="institution">Microsoft Research, USA</span></li>
+<!--
+<li>Jason Corso, State University of New York, Buffalo</li>
+<li>Kristen Grauman, University of Texas, Austin</li>
+<li>Leo Grady, HeartFlow, Inc</li>
+<li>Pushmeet Kohli, Microsoft Research</li>
+<li>Yi Ma, University of Illinois, Urbana-Champaign (UIUC)</li>
+<li>Yasayuki Matsushita, Microsoft Research</li>
+<li>Stefan Roth, TU Darmstadt</li>
+<li>Silvio Savarese, University of Michigan, Ann Arbor</li>
+-->
+</ul>
+</td></tr></table>
+                            </p>
+                        </div>
+			<div class="cvprpagewidth cvprpageheight" id="tabs-dates">
+<table>
+<tr><td colspan="3"><b><u>Main Conference</u></b></td></tr>
+<tr><td width="15" rowspan="8">&nbsp;</td><td>Submission Website Open:</td><td>October 15, 2012</td></tr>
+<tr><td>Paper Submission Deadline:</td><td><b>November 15, 2012</b></td></tr>
+<tr><td>Supplementary Material Submission:</td><td>November 22, 2012</td></tr>
+<tr><td>Reviews Released to Authors</td><td>February 3, 2013</td></tr>
+<tr><td>Rebuttal Period</td><td>February 3-8, 2013</td></tr>
+<tr><td>Area Chair Meeting</td><td>February 23-24, 2013</td></tr>
+<tr><td>Decisions to Authors:</td><td>February 24, 2013</td></tr>
+<tr><td>Camera-ready Deadline:</td><td>April 12, 2013</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td colspan="3"><b><u>Workshops</u></b></td></tr>
+<tr><td rowspan="2">&nbsp;</td><td>Proposal Submission Deadline:</td><td><b>October 19, 2012</b></td></tr>
+<tr><td>Proposal Decisions to Organizers:</td><td>December, 2012</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td colspan="3"><b><u>Short Courses/Tutorials</u></b></td></tr>
+<tr><td rowspan="2">&nbsp;</td><td>Proposal Submission Deadline:</td><td><b>December 3, 2012</b></td></tr>
+<tr><td>Proposal Decisions to Organizers:</td><td>January 15, 2013</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td colspan="3"><b><u>Other</u></b></td></tr>
+
+<tr><td rowspan="8">&nbsp;</td><td>Exhibit Application Deadline:</td><td>TBD, 2013</td></tr>
+<tr><td>Demo Application Deadline:</td><td>TBD, 2013</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Early Registration Deadline:</td><td>May, 2013</td></tr>
+<tr><td>Registration Deadline:</td><td>June, 2013</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Main Conference:</td><td>June 25-27, 2013</td></tr>
+<tr><td>Workshops/Short Courses:</td><td>June 23-24, 28, 2013</td></tr>
+</table>
+                        </div>
+			<div class="cvprpagewidth cvprpageheight" id="tabs-venue">
+Conference Venue
+<ul>
+<li><a href="http://www.oregoncc.org/" target="_blank">Oregon Convention Center</a></li>
+</ul>
+
+Hotels
+<ul>
+<li><a href="http://doubletreegreen.com/" target="_blank">DoubleTree Inn</a></li>
+<li><a href="http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/index.html" target="_blank">Hilton Downtown</a></li>
+</ul>
+
+<iframe width="640" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=201221082410553307745.0004c28a616828d42568e&amp;ie=UTF8&amp;t=m&amp;ll=45.538000,-122.692675&amp;spn=0.028864,0.054932&amp;z=14&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=201221082410553307745.0004c28a616828d42568e&amp;ie=UTF8&amp;t=m&amp;ll=45.524089,-122.667675&amp;spn=0.028864,0.054932&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">CVPR 2013 Map</a> in a larger map</small>
+
+                        </div>
+
+
+
+
+
+
+
+
+			<div class="cvprpagewidth cvprpageheight" id="tabs-submission">
+<table class="larger-table" border="0" width="720">
+<tr height="25"><td colspan="3">&nbsp;</td><td width="40"></td></tr>
+<tr><td colspan="3" align="center"><span class="cvprpageheader">Author Guidelines</span><br><br>
+<span class="cvprsectionheader"><a href="files/Official_CFP.pdf">Official Call for Papers</a></span><br><br>
+</td></tr>
+<tr><td colspan="3">
+<span class="cvprsectionheader">Submission Instructions</span>
+<br><br>
+Please refer to the following files for detailed formatting instructions.
+<br>
+<ul>
+<li>Example submission paper with detailed instructions: <a target="_blank" href="files/egpaper_for_review.pdf">egpaper_for_review.pdf</a></li>
+<li>LaTeX/Word Templates (tar): <a href="files/cvpr2013AuthorKit.tgz">cvpr2013AuthorKit.tgz</a></li>
+<li>LaTeX/Word Templates (zip): <a href="files/cvpr2013AuthorKit.zip">cvpr2013AuthorKit.zip</a></li>
+</ul>
+A complete paper should be submitted using the above templates, which are blind-submission review-formatted templates. The length should match that intended for final publication. Papers accepted for the conference will be allocated 6 pages in the proceedings, with the option of purchasing up to 2 extra pages for US$100 per page (to be paid after paper acceptance, at the time of registration for the conference). So, if you are unwilling or unable to pay the extra charge, you should limit yourself to 6 pages.  We know there are no printing charges, however the optional page charges help cover the cost of the reviewing process.  Papers with more than 8 pages (including references) will be rejected.
+<br><br>
+
+<br>
+<span class="cvprsectionheader">Policies</span>
+<br><br>
+
+<span class="cvprparagraphheader">Double blind review:</span> CVPR reviewing is double blind, in that authors do not know the names of the area chair/reviewers of their papers, and area chairs/reviewers do not know the names of the authors. Please read Section 1.6 of the example paper <a target="_blank" href="files/egpaper_for_review.pdf">egpaper_for_review.pdf</a> for  detailed instructions on how to preserve anonymity. Avoid providing information that may identify the authors in the acknowledgments (e.g., co-workers and grant IDs) and in the supplemental material (e.g., titles in the movies, or attached papers). Avoid providing links to websites that identify the authors. Violation of any of these guidelines will lead to rejection without review.
+<br><br>
+
+<span class="cvprparagraphheader">Dual/Double Submissions:</span> By submitting a manuscript to CVPR, the authors guarantee that it has not been previously published or accepted for publication in substantially similar form in an archival peer-reviewed forum. Furthermore, no paper which contains significant overlap with the contributions of this paper is neither under review at the moment of submission nor will be submitted during the CVPR 2013 review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to CVPR 2013. Violation of any of these conditions will lead to rejection. If you are not sure about the extent of overlap, you may upload a copy of the paper in question as supplementary material. Note that a Technical Report (departmental, <a target="_blank" href="http://arxiv.org/">arXiv.org</a>, etc.) that is put up without any form of direct peer-review is <b>NOT</b> considered a publication. Likewise, mention of the work under review in a presentation is <b>NOT</b> considered a violation.  For further information, please refer to <a target="_blank" href="http://www.ieee.org/publications_standards/publications/rights/Section_822F.html">Section 8.2.4.F</a> of the IEEE PSPB Operations Manual.
+<br><br>
+
+<span class="cvprparagraphheader">Conflict Responsibilities:</span>  It is the primary author's responsibility to ensure that <b>all</b> authors on their paper have registered their conflicts into CMT. Conflicts are needed to resolve assignments to both reviewers and area chairs.   If a paper is found to have an undeclared conflict that causes a problem, the paper may be summarily rejected.   
+<br><br>
+ 
+<span class="cvprparagraphheader">Author's Responsibilities:</span> If there are papers that may appear to violate any of these conditions, it is the authors' responsibility to (1) cite these papers (preserving anonymity as described in Section 1.6 of the example paper <a target="_blank" href="files/egpaper_for_review.pdf">egpaper_for_review.pdf</a>), (2) argue in the body of your paper why your CVPR paper is non trivially different from these concurrent submissions, and (3) include anonymized versions of those papers in the supplemental material.
+<br><br>
+
+
+
+
+<br>
+<span class="cvprsectionheader"><a name="SupplementaryMaterial"></a>Supplementary Material</span>
+<br><br>
+Authors may optionally upload supplementary material, which may not fit in the PDF size limit and may include:
+<ul>
+<li>videos to showcase results/demo of the proposed approach/system,</li>
+<li>images and other results in addition to the ones in the paper,</li>
+<li>anonymized related submissions to other conferences and journals, and   </li>
+<li>appendices or technical reports containing extended proofs and mathematical derivations that are not essential to the understanding of the submitted paper.</li>
+</ul>
+
+CVPR encourages authors to submit videos using an MP4 codec such as DivX contained in an AVI. Also, please submit a README text file with each video specifying the exact codec used and a URL where the codec can be downloaded.
+<br><br>
+
+The authors should refer to the contents of the supplementary material appropriately in the paper. Note that reviewers will be encouraged to look at it, but are not obligated to do so. Please note that:
+<ol>
+<li>All supplementary material must be self-contained and zipped into a single file. Alternatively, you can choose to upload a PDF file containing any non-video item listed above.  CMT imposes a 20MB limit on the size of this file. Note that you can update the file by uploading a new one (the old one will be deleted and replaced).</li>
+<li>The paper for review (PDF only) must be submitted <b>first</b> before the supplementary material (PDF or ZIP only) can be submitted.</li>
+<li>Please make sure that the supplementary material directly supports the paper as submitted prior to the paper deadline. ONLY results generated by the algorithm/approach/system reported in the submitted version are allowed. Material based on improvements subsequent to the paper deadline is not allowed.</li>
+<li><b>Do not submit a newer version of the paper as supplementary material.</b> A newer version of the paper or portion thereof, with description of an improved algorithm/approach/system or even one spelling or typo correction, is not allowed.</li>
+</ol>
+
+
+
+
+<br>
+<span class="cvprsectionheader">Specific Instructions</span>
+
+<ol>
+<li><span class="cvprparagraphheader">Paper submission and review site:</span>
+<ul>
+<!--<li><a target="_blank" href="https://cmt.research.microsoft.com/CVPR2013/">https://cmt.research.microsoft.com/CVPR2013/</a> (bookmark or save this URL!)</li>-->
+<li><a target="_blank" href="javascript:alert('The submission site will open on October 15, 2012');">Submission Site</a> (bookmark or save this URL!)</li>
+<li>Please make sure that your browser has cookies and Javascript enabled.</li>
+<li>Please add "cmt@microsoft.com" to your list of safe senders (whitelist) to prevent important email announcements from being blocked by spam filters.</li>
+</ul>
+<li><span class="cvprparagraphheader">If you have been invited to review for CVPR2013:</span><br>
+If you have been invited to review for CVPR2013, an account has been automatically generated for you using the contact email as your account name (regardless of whether you agreed to review or not). You need to only request for a new password via "Reset your password". If you have agreed to review, please follow the reviewer login instructions.
+<br>
+<span class="cvprparagraphheader">If you have not been invited to review for CVPR2013:</span>
+<br>
+If you have not been invited to review for CVPR2013, you are not in the system. Please sign up as a new user. If you have generated an account and have forgotten your password, just click on "Reset your password". Instructions will be emailed to you.
+<br>
+<li><span class="cvprparagraphheader">Logging in the first time:</span><br>
+When you log in for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers.
+ 
+<li><span class="cvprparagraphheader">Update contact information:</span><br>
+At any time, you can edit your contact information (see item near the top right in the submission site). Don't forget to click the "Update" button to save the edited information. If you wish to change the contact email address, you can modify it via the "Change your Email" box.
+ 
+<li><span class="cvprparagraphheader">Enter subject (topic) areas for your paper:</span><br>
+When you submit a paper, you will be asked to specify its associated subject areas. Please note that you indicate only one "primary" subject area and any number of "secondary" subject areas. Please pay extra attention in selecting your subject areas, as this information is critical in allowing us to properly assign papers to area chairs and reviewers. Caution: you cannot pick the "primary" subject area as a "secondary" subject area; if you do this, the system will not allow you to save. For example, if you had picked "Face and Gesture" as the "primary" area, you cannot pick "Face and Gesture" as a "secondary" area.
+ 
+<li><span class="cvprparagraphheader">Paper Number</span><br>
+Once you have registered your paper (i.e. title/authors), you will be assigned a paper number.  Insert this into the latex or word template before generating the pdf of your paper for submission.  Papers submitted without a number may not be reviewed.
+ 
+<li><span class="cvprparagraphheader">Requirements:</span><br>
+<ul>
+<li>The maximum size of the abstract is 4000 characters.</li>
+<li>The paper must be PDF only (maximum 20MB).</li>
+<li>The supplementary material can be either PDF or ZIP only (maximum 30MB).</li>
+<li>If your submission has co-authors, please make sure that you enter their email addresses that correspond exactly to their account names (assuming they have created accounts). This will ensure that your co-authors can see your submission when they log in. Co-authors must also have their conflict domains entered.</li>
+</ul>
+
+</ol>
+
+
+
+
+
+<br>
+<span class="cvprsectionheader">Author FAQs</span>
+<br><br>
+<span class="cvprparagraphheader">About Submitting Papers</span><br>
+<ul>
+<li><span class="faq_q">Can we please have an extension on the deadline?</span><br>
+<span class="faq_a"><b>NO.</b> As stated in the on the Submission/Reviewing page under Reviewing Process / Workflow: "NO extensions will be given and any incomplete submission or a submission not meeting required criteria will be deleted".</span></li>
+<li><span class="faq_q">Can we get my quota increased for the size of paper submission from 20 MB to something higher?</span><br>
+<span class="faq_a"><b>NO.</b> We have set hard limits of 20MB (PDF Only) for paper submission and 30MB (PDF or ZIP only) for supplementary materials for submissions for review. As we are expecting many submissions, and as each reviewer is expected to review (on average) about 10 papers, we feel that larger file downloads (and uploads) will tax the system and abilities of reviewers to get to the papers fast enough. Authors should consider adding hi-res images as supplementary material. See <a href="#SupplementaryMaterial">Supplementary Material</a>.</span></li>
+<li><span class="faq_q">How do I delete Supplementary Material from the CMT site?</span><br>
+<span class="faq_a">We have added a feature that allows authors to remove supplementary files. After you log in, in the "Author" console, you'll notice "Upload/Delete File" at the end of the supplementary file name. Click on that, and in the page that appears, you can click on the "Delete" button to remove the supplementary file. (Please note that you will not be able to delete the supplementary file after the supplementary file deadline.)</span></li>
+<li><span class="faq_q">Can we submit color images with our papers for review?</span><br>
+<span class="faq_a"><b>YES.</b> Reviewers will get the exact pdf file of the paper you submitted, so they can see the color images on the screen. Do be warned though that many reviews still like to read printed papers and not all have access to high-end color printers. Please make sure to comment in the paper to request the reviewers to see the color online copy.</span></li>
+<li><span class="faq_q">What is CVPR 2013 policy on DUAL SUBMISSIONS?</span><br>
+<span class="faq_a">Dual Submissions of <b>ANY</b> form to a peer-reviewed archival publication are grounds for immediate rejection.. By submitting a manuscript to CVPR, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the CVPR 2013 review period (November 15, 2011 - February 24, 2013) to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to CVPR 2013. Violation of any of these conditions will lead to rejection. If you are not sure about the extent of overlap , you may upload a copy of the paper in question as supplementary material. For further information, please refer to <a target="_blank" href="http://www.ieee.org/publications_standards/publications/rights/Section_822F.html">Section 8.2.4.F</a> of the IEEE PSPB Manual.</span></li>
+<li><span class="faq_q">Does a Technical Report (departmental, arXiv, etc.) with publication available online count as a prior publication and therefore ineligible to review and publication at IEEE CVPR 2013?</span><br>
+<span class="faq_a">A Technical Report that is put up without any form for direct peer-review is <b>NOT</b> considered a publication.</span></li>
+<li><span class="faq_q">Does a presentation at a departmental seminar during the review period violate the anonymity standard or other CVPR 2013 policy?</span><br>
+<span class="faq_a"><b>NO.</b> Authors must promise to not submit material under review to another publication and to properly anonymize the written submission per the guidelines. There is no requirement that the material otherwise be kept confidential during the review process.</span></li>
+</ul>
+<br>
+
+
+
+
+<span class="cvprparagraphheader">About Review Process</span><br>
+<ul>
+<li><span class="faq_q">Is the CVPR 2013 Review Process CONFIDENTIAL?</span><br>
+<span class="faq_a"><b>YES,</b> CVPR 2013 Reviewing is considered confidential. All reviewers are required to keep every manuscript they review as confidential documents and not to share or distribute materials for any reason except to facilitate the reviewing of the submitted work. Reviewers are obligated to remove or destroy them after review. See the <a href="#">Reviewer Guidelines</a>. Accepted papers will be published (with appropriate copyrights) with a date of around June 25, 2013. Please make sure to discuss this issue with your legal advisors as it pertains to public disclosure of the contents of the papers submitted.</span></li>
+<li><span class="faq_q">Are CVPR 2013 Reviews Double BLIND or Single BLIND?</span><br>
+<span class="faq_a">CVPR reviewing is <b>Double BLIND</b>, in that authors do not know the names of the area chair/reviewers of their papers, and area chairs/reviewers do not know the names of the authors. Please read Section 1.6 of the example paper <a target="_blank" href="files/egpaper_for_review.pdf">egpaper_for_review.pdf</a>  for detailed instructions on how to preserve anonymity. Avoid providing information that may identify the authors in the acknowledgments (e.g., co-workers and grant IDs) and in the supplemental material (e.g., titles in the movies, or attached papers). Avoid providing links to websites that identify the authors. Violation of any of these guidelines will lead to rejection without review.</span></li>
+</ul>
+<br>
+
+
+<span class="cvprparagraphheader">About Publications</span><br>
+<ul>
+<li><span class="faq_q">As the CVPR 2013 Proceedings are Electronic/Digital, why do we need to pay for extra pages on acceptance of our paper that is longer then the default 6 pages? What are these funds used for?</span><br>
+<span class="faq_a">The default paper length for CVPR 2013 is 6 pages. If you submit an 8 page paper, you are increasing the work-load of the reviewers, and the cost of the reviewing and publication process. The extra page charges cover these additional costs (and effort) for our Area Chair reviewing.  This optional fee is considered a better alternative to increasing registration fees for everyone or charging a submission fee.  Added page fees are normally allowed on grants/contracts. </span></li>
+</ul>
+
+
+</td></tr>
+</table>
+<br>
+                        </div>
+
+
+
+
+
+			<div class="cvprpagewidth cvprpageheight" id="tabs-workshops">
+<table class="larger-table" border="0" width="720">
+<tr height="25"><td colspan="3">&nbsp;</td><td width="40"></td></tr>
+<tr><td colspan="3" align="center"><span class="cvprpageheader">CVPR 2013 Call for Workshop Proposals</span><br><br></td></tr>
+<tr><td colspan="3">
+Proposals for workshops are solicited for the 2013 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2013) in Portland, Oregon. Workshops will take place on June 23-24 and June 28, 2013, at the same venue as the main CVPR conference.
+<br><br>
+Appropriate subjects for workshops include topics from computer vision as well as related fields or application areas. We solicit workshops that show a significant cross-section of the community and whose organizers have a strong track record in the field. Proposals that emphasize formats and/or programs that are unique to workshops, such as a large proportion of invited speakers or being based on a competition, are specifically encouraged. Such proposals will be favored over those that offer a traditional conference-type format.
+<br><br>
+Workshop proposals can be sent to the Workshops Chair, Ce Liu (<a href="http://www.google.com/recaptcha/mailhide/d?k=017i_Kqt5NGaIkg0IYPXbZsg==&amp;c=Yb7rYzw1paCLlgVAI7Vsv7XeQaceEbTKH49fpIIyw3o=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075017i_Kqt5NGaIkg0IYPXbZsg\75\75\46c\75Yb7rYzw1paCLlgVAI7Vsv7XeQaceEbTKH49fpIIyw3o\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">cel..@microsoft.com.</a>).  A proposal should include the following information:
+<br>
+(1)  Title, topic and sample call for papers;
+<br>
+(2)  Justification of the workshop, including the relationship to the previous ones, the novelty of the proposed workshop, and the reason why the proposed workshop may interest the community.
+<br>
+(3)  Names and contacts of the organizers;
+<br>
+(4)  Tentative program committee, invited speakers if any;
+<br>
+(5)  Estimated attendance;
+<br>
+(6)  Estimated number of submissions and acceptance rate;
+<br>
+(7)  Estimated breakdown among oral, poster presentations, and invited talks;
+<br>
+(8)  Proposed length of the workshop, and date restrictions
+<br>
+(9)  Special space and equipment request if any.
+<br> <br>
+The deadline for all workshop proposal submission is October 19, 2012. Decisions will be made by December 2012. 
+For any additional information, please contact the Workshops Chair, Ce Liu (<a href="http://www.google.com/recaptcha/mailhide/d?k=017i_Kqt5NGaIkg0IYPXbZsg==&amp;c=Yb7rYzw1paCLlgVAI7Vsv7XeQaceEbTKH49fpIIyw3o=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075017i_Kqt5NGaIkg0IYPXbZsg\75\75\46c\75Yb7rYzw1paCLlgVAI7Vsv7XeQaceEbTKH49fpIIyw3o\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">cel...@microsoft.com</a>).</td>
+</tr>
+</table>
+<br><br>
+                        </div>
+
+
+
+
+
+			<div class="cvprpagewidth cvprpageheight" id="tabs-tutorials">
+<table class="larger-table" border="0" width="720">
+<tr height="25"><td colspan="3">&nbsp;</td><td width="40"></td></tr>
+<tr><td colspan="3" align="center"><span class="cvprpageheader">CVPR 2013 Short Courses and Tutorials: Call for Proposals</span><br><br></td></tr>
+<tr><td colspan="3">
+Deadline: Monday December 3, 2012<br>
+Short Courses Chair: Rahul Sukthankar <<a href="http://www.google.com/recaptcha/mailhide/d?k=01tWRCSkCpJQo4XfR6O9ZN3g==&amp;c=huovlPpgkcAiWk3db2za1bt4pNEjWOWNjbIPACLcLNE=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501tWRCSkCpJQo4XfR6O9ZN3g\75\75\46c\75huovlPpgkcAiWk3db2za1bt4pNEjWOWNjbIPACLcLNE\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">rah...@cs.cmu.edu</a>>
+<br><br>
+We would like to solicit proposals for short courses and tutorials to be collocated with the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2013).  Short Courses and tutorials will take place on June 23, 24, and 28, at the same venue as the main conference.
+<br><br>
+CVPR short courses and tutorials aim to provide a comprehensive overview of specific topics in computer vision.  The topic should be of sufficient relevance with respect to the state-of-the-art and the course should be educational rather than a cursory survey of techniques.  The audience for CVPR short courses and tutorials consists primarily of graduate students in computer vision.  Although most courses are half-day offerings, we also invite proposals for full-day courses provided that the topic merits the additional time and can be anticipated to generate sufficient interest from our community.
+<br><br>
+Information about recent CVPR short courses and tutorial offerings:<br>
+2012: <a href="http://www.cvpr2012.org/program-details/tutorials/">http://www.cvpr2012.org/program-details/tutorials/</a><br>
+2011: <a href="http://cvpr2011.org/tutorials/">http://cvpr2011.org/tutorials/</a><br>
+2010: <a href="http://cvl.umiacs.umd.edu/conferences/cvpr2010/tutorials/">http://cvl.umiacs.umd.edu/conferences/cvpr2010/tutorials/</a>
+<br><br>
+Proposals should be submitted by email to the Chair, either in plain-text or PDF format.  Please include the following information:
+<br><br>
+- Short course/tutorial title.<br>
+- Proposers' names, titles, affiliations, and primary contact email.<br>
+- Short bio for each organizer.<br>
+- Preference for half- or full-day event.<br>
+- Course description that includes topics that will be covered, along with a brief outline and significant details.<br>
+- Anticipated target audience as well as expected number of attendees.<br>
+- Pointers to relevant publications by organizers and relevant related work.<br>
+- Describe how this proposal relates to previous tutorials/short courses appearing at CVPR/ICCV/ECCV conferences in the previous three years.<br>
+- Planned materials (if any) to be distributed to attendees.<br>
+<br>
+Proposals will be reviewed by a selection committee and we expect to make selections by January 15, 2013.
+<br><br>
+If you have any questions about CVPR short courses/tutorials, please contact Rahul Sukthankar <<a href="http://www.google.com/recaptcha/mailhide/d?k=01tWRCSkCpJQo4XfR6O9ZN3g==&amp;c=huovlPpgkcAiWk3db2za1bt4pNEjWOWNjbIPACLcLNE=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501tWRCSkCpJQo4XfR6O9ZN3g\75\75\46c\75huovlPpgkcAiWk3db2za1bt4pNEjWOWNjbIPACLcLNE\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">rah...@cs.cmu.edu</a>>
+
+
+</tr>
+</table>
+<br><br>
+                        </div>
+
+
+                        <h1>Towers</h1>
+		</div>
+
+	</body>
+</html>
+
+
