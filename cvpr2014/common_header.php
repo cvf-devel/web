@@ -62,7 +62,7 @@ function li_id($page_list)
                         #tabs-people li { position: relative; top:-5px; left:-10px;}
 			.cvprpagewidth {max-width: 800px; min-width: 400px;}
 			.cvprpageheight {min-height: 600px;}
-                        #logo { width: 334px; height: 150px; margin: 0 auto; position: absolute; bottom: -40px; right: -55px;
+                        #logo { width: 334px; height: 150px; margin: 0 auto; position: absolute; bottom: -12px; right: 0px;
                              background: url(images/cvpr14_logo.png); text-indent: -9999px; z-index: 80; }
 
                         #main-page  {margin:0; margin-left: auto; margin-right: auto; width:800px; position:relative; min-height:600px; border: 1px solid black; background: #FFFFFF; }
@@ -80,7 +80,7 @@ function li_id($page_list)
                         #slideshow {
                             margin-left: auto;
                             margin-right: auto;
-                            width: 800px;
+                            width: 883px;
                             height: 160px;
                             position: relative;
                         }
@@ -93,7 +93,7 @@ function li_id($page_list)
                             left: -1px;
                             width: 760px;
                             height: 162px;
-                            border: 1px solid black;
+                            border: 0px solid black;
                         }
                         div#slideshow ul#slides li {
                             margin: 0 0 20px 0;
@@ -206,11 +206,12 @@ function li_id($page_list)
                                 <div id="logo"></div>
                                 <ul id="slides">
                                         <li><img src="images/banner1_800.png" alt="Title"/></li>
-                                        <li><img src="images/banner2_800.png" alt="Title"/></li>
+                                      <!--
+					  <li><img src="images/banner2_800.png" alt="Title"/></li>
                                         <li><img src="images/banner3_800.png" alt="Title"/></li>
                                         <li><img src="images/banner4_800.png" alt="Title"/></li>
                                         <li><img src="images/banner5_800.png" alt="Title"/></li>
-                                        <li><img src="images/banner6_800.png" alt="Title"/></li>
+                                        <li><img src="images/banner6_800.png" alt="Title"/></li> -->
                                 </ul>
                         </div>
 		<!--<div class="cvprpagewidth" id="page-tabs">
