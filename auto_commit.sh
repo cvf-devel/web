@@ -1,3 +1,3 @@
 date=`date`
-git add --all
+git add .
 git commit -m "automated git commit, $date" 
