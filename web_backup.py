@@ -30,7 +30,7 @@ date = os.popen("date +%s")
 date = date.readline()
 date = date.strip()
 sys_call = "mkdir " + str(date)
-os.system(sys_call)
+# os.system(sys_call)
 # The directory has been created and the file_stream object contains all of the files in the working directory
 '''
 for file_name in file_stream:
