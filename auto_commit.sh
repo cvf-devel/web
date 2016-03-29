@@ -1,3 +1,1 @@
-date=`date`
-git add .
-git commit -m "automated git commit, $date" 
+tar cf - ./ | gzip > test.tar.gz
