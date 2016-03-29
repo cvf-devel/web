@@ -45,13 +45,13 @@ for file_name in file_stream:
 	sys_call = "mv " + file_bak + " Dropbox/" + file_bak
 	print repr(sys_call)
 	print file_bak + " moved"
-'''
+
 
 # attempt to use gzip for everything
 sys_call = "tar cvfz test_compress.tar.gz ."
 os.system(sys_call)
 
-
+'''
 
 
 
