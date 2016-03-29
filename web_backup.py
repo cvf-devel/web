@@ -32,7 +32,7 @@ date = date.strip()
 sys_call = "mkdir " + str(date)
 os.system(sys_call)
 # The directory has been created and the file_stream object contains all of the files in the working directory
-
+'''
 for file_name in file_stream:
 	# create a copy of the file with a .bak extension
 	file_name = file_name.strip('\n')
@@ -45,7 +45,11 @@ for file_name in file_stream:
 	sys_call = "mv " + file_bak + " Dropbox/" + file_bak
 	print repr(sys_call)
 	print file_bak + " moved"
+'''
 
+# attempt to use gzip for everything
+sys_call = "tar cvfz test_compress.tar.gz ."
+os.system(sys_call)
 
 
 
