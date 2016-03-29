@@ -36,10 +36,12 @@ os.system(sys_call)
 for file_name in file_stream:
 	# create a copy of the file with a .bak extension
 	sys_call = "cp " + str(file_name) + " " + str(file_name) + ".bak"
-	os.system(sys_call)
+	print sys_call
+	# os.system(sys_call)
 	# mv the .bak to the 
 	file_bak = str(file_name) + ".bak"
-	sys_call = "mv " + file_bak + "Dropbox/" + file_bak
+	print sys_call
+	#sys_call = "mv " + file_bak + "Dropbox/" + file_bak
 	print file_bak + " moved"
 
 
