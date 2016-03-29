@@ -35,6 +35,7 @@ os.system(sys_call)
 
 for file_name in file_stream:
 	# create a copy of the file with a .bak extension
+	file_name = file_name.strip('\n')
 	sys_call = "cp " + str(file_name) + " " + str(file_name) + ".bak"
 	sys_call = sys_call.strip('\n')
 	print repr(sys_call)
