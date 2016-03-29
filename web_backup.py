@@ -42,7 +42,7 @@ for file_name in file_stream:
 	# os.system(sys_call)
 	# mv the .bak to the 
 	file_bak = str(file_name) + ".bak"
-	sys_call = "mv " + file_bak + "Dropbox/" + file_bak
+	sys_call = "mv " + file_bak + " Dropbox/" + file_bak
 	print repr(sys_call)
 	print file_bak + " moved"
 
