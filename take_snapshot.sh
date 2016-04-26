@@ -1,10 +1,15 @@
 date=`date +%s`.tar.gz
-# cp -r /home/deploy_cvpr /home/cvfconf/conferences/web/deploy_cvpr
+
+# move external directories (deploy_cvpr, databases, etc...)  to /home/cvfconf/conferences/web
+
+cp -r /home/deploy_cvpr /home/cvfconf/conferences/web/deploy_cvpr
+cp -r /home/deploy_cvpr /home/cvfconf/conferences/web/deploy_cvpr2017
+cp -r /var/lib/postgresql/9.3/main /home/cvfconf/conferences/web/postgres_backup
+
 tar cf - ../web/ | gzip > $date
 mv $date ~/Dropbox/$date
 
-# backup deploy_cvpr
+rm -r /home/cvfconf/conferences/web/deploy_cvpr
+rm -r /home/cvfconf/conferences/web/deploy_cvpr2017
+rm -r /home/cvfconf/conferences/web/postgres_backup
 
-# date=`date +%s`deploy_cvpr.tar.gz
-# tar cf - /home/deploy_cvpr | gzip > $date
-# mv $date ~/Dropbox/$date
